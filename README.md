@@ -357,80 +357,80 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
             ¿Por qué llevar a cabo este análisis?
         </td>
         <td colspan="5"> 
-        Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. 
+        porque nos permite tener pleno conocimiento sobre el mercado y el producto que ofrecen nuestros competidores. 
         </td>
     </tr>
     <tr>
-        <td colspan="5"></td>
+        <td colspan="5">¿Qué aporte de valor podría ofrecer nuestro producto en contraste al resto de competidores?</td>
     </tr>
     <tr>
         <td colspan="2">
             (En la cabecera colocar por cada competidor nombre y logo)
         </td>
         <td>Su Startup</td>
-        <td>Competidor 1</td>
-        <td>Competidor 2</td>
-        <td>Competidor 3</td>
+        <td>	Helpr  </td>
+        <td>Care.com</td>
+        <td>SeekingSitters</td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil</th>
         <td>Overview</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Helpr conecta a padres con cuidadores de confianza de manera rápida y segura.</td>
+        <td>Care.com es una plataforma integral para encontrar cuidadores, niñeras, y otros servicios de cuidado.</td>
+        <td>SeekingSitters se enfoca en ofrecer niñeras con rigurosos procesos de verificación y chequeos de antecedentes.</td>
     </tr>
     <tr>
         <td>
             Ventaja competitiva ¿Qué valor ofrece a los clientes?
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>No requiere suscripción; enfoque en seguridad con extensos chequeos de antecedentes.</td>
+        <td>Amplia base de datos y servicios adicionales (cuidado de ancianos, mascotas, etc.).</td>
+        <td>Verificación intensiva de antecedentes por investigadores privados.</td>
     </tr>
     <tr>
         <th rowspan="2"> Perfil de Marketing</th>
         <td>Mercado objetivo</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Familias trabajadoras que necesitan cuidado de emergencia o a corto plazo.</td>
+        <td>Familias que buscan una variedad de servicios de cuidado, incluyendo necesidades especiales.</td>
+        <td>Padres que desean niñeras con una verificación profunda y confiable.</td>
     </tr>
     <tr>
         <td>
             Estrategias de marketing
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Promociones a través de asociaciones con empresas y en redes sociales.</td>
+        <td>Publicidad en medios digitales y asociaciones corporativas.</td>
+        <td>Marketing boca a boca y alianzas con comunidades locales.</td>
     </tr>
     <tr>
         <th rowspan="3"> Perfil de Producto</th>
         <td>Productos & Servicios</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Conexión con cuidadores, reserva fácil y rápida a través de la app.</td>
+        <td>Cuidado de niños, ancianos, mascotas, y servicios de limpieza.</td>
+        <td>Provisión de niñeras verificadas para cuidado temporal o a largo plazo.</td>
     </tr>
     <tr>
         <td>
             Precios & Costos
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>No hay tarifas de suscripción; se paga solo la tarifa por hora del cuidador.</td>
+        <td>Versión gratuita; suscripción premium desde $37/mes.</td>
+        <td>Sin tarifas por servicio; pago solo a la niñera.</td>
     </tr>
     <tr>
         <td>
             Canales de distribución (Web y/o Móvil)
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Aplicación móvil y sitio web.</td>
+        <td>Aplicaciones móviles (iOS y Android), sitio web.</td>
+        <td>Sitio web y soporte telefónico.</td>
     </tr>
     <tr>
         <th rowspan="5"> Análisis SWOT</th>
@@ -443,36 +443,36 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
             Fortalezas
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Reservas de último minuto, enfoque en seguridad, sin costos adicionales.</td>
+        <td>Amplia variedad de servicios y gran base de datos.</td>
+        <td>Estricta verificación de antecedentes y entrenamiento de niñeras.</td>
     </tr>
     <tr>
         <td>
             Debilidades
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Falta de soporte al cliente 24/7.</td>
+        <td>Costos altos de suscripción</td>
+        <td>Puede ser limitado en términos de disponibilidad regional.</td>
     </tr>
     <tr>
         <td>
            Oportunidades
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Expansión a nuevas regiones y asociaciones corporativas.</td>
+        <td>Creciente demanda de servicios de cuidado integrales.</td>
+        <td>Aumentar la base de usuarios a través de asociaciones locales.</td>
     </tr>
     <tr>
         <td>
             Amenazas
         </td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Competencia con otras apps de bajo costo.</td>
+        <td>Críticas sobre la relación costo-beneficio.</td>
+        <td>Dependencia de la disponibilidad de niñeras calificadas.</td>
     </tr>
 </TABLE>
 
