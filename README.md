@@ -536,8 +536,21 @@ A continuacion presentamos a nuestros tres principales competidores:
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
+
+A través del proceso de *needfinding*, se identificaron las necesidades y deseos de los usuarios finales, lo que permitió una comprensión profunda de sus expectativas y requerimientos en relación con la plataforma para el cuidado infantil y la educación en el hogar. A continuación, se destacan los hallazgos clave obtenidos a partir de las entrevistas y observaciones realizadas.
+
 ### **2.3.1. User Personas**
+En este apartado se presentan dos *user personas* que representan a los usuarios finales de la plataforma de cuidado infantil y educación en el hogar. Estas representaciones ficticias están basadas en los datos recopilados durante el proceso de *needfinding* y reflejan las características, necesidades y comportamientos de los usuarios reales.
+
+**User Persona 1 - Segmento objetivo 1:** <br>
+![Carlos Martínez](https://github.com/user-attachments/assets/4e235a35-f283-48e1-85f9-3b653bf97930)
+
+**User Persona 2 - Segmento objetivo 2:** <br>
+
+![Ana García](https://github.com/user-attachments/assets/3add6eb6-ce24-4de8-8d69-0943956363f9)
+
 ### **2.3.2. User Task Matrix**
+
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
