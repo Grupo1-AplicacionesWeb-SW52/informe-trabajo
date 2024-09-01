@@ -486,6 +486,18 @@ A continuacion presentamos a nuestros tres principales competidores:
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
+* **Diferenciación**<br>
+   ***Estrategia:*** Resaltar la tecnología avanzada y el proceso de verificación exhaustiva de cuidadores como principales diferenciadores frente a los competidores.<br>
+   ***Táctica:*** Crear contenido educativo (blogs, webinars, guías) sobre la importancia de las verificaciones de antecedentes y la tecnología en la elección de cuidadores, y cómo CareNest lidera en estos aspectos.
+
+* **Expansión de Mercado**<br>
+  ***Estrategia:*** Expandir la presencia de CareNest a nuevos mercados geográficos y segmentos de clientes.<br>
+  ***Táctica:*** Adaptar la plataforma y las estrategias de marketing a los nuevos mercados identificados, incluyendo la localización de la app y la página web.
+
+* **Fidelización y Retención**<br>
+  ***Estretegia:*** Aumentar la retención de clientes a través de programas de fidelización y mejoras en la experiencia de usuario.
+  ***Táctica:*** Implementar un programa de referidos que recompense a los padres por recomendar CareNest a otros padres y cuidadores. 
+
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
 ### **2.2.2. Registro de entrevistas**
