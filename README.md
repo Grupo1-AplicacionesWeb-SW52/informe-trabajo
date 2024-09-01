@@ -495,11 +495,43 @@ A continuacion presentamos a nuestros tres principales competidores:
   ***Táctica:*** Adaptar la plataforma y las estrategias de marketing a los nuevos mercados identificados, incluyendo la localización de la app y la página web.
 
 * **Fidelización y Retención**<br>
-  ***Estretegia:*** Aumentar la retención de clientes a través de programas de fidelización y mejoras en la experiencia de usuario.
+  ***Estretegia:*** Aumentar la retención de clientes a través de programas de fidelización y mejoras en la experiencia de usuario.<br>
   ***Táctica:*** Implementar un programa de referidos que recompense a los padres por recomendar CareNest a otros padres y cuidadores. 
 
 ## **2.2. Entrevistas**
 ### **2.2.1. Diseño de entrevistas**
+
+#### Entrevista General:
+
+  1. ¿Podría compartir algunos de sus datos personales básicos?
+  2. ¿Qué sitios web o aplicaciones utiliza con frecuencia para buscar información sobre cuidado infantil o servicios educativos?
+  3. ¿Participa en algún grupo o foro en línea relacionado con el cuidado infantil? De ser así, ¿cuáles?
+  4. ¿Cómo se informa sobre nuevas ofertas de servicios para el cuidado infantil? (Por ejemplo, recomendaciones, redes sociales, publicidad, etc.)
+
+#### Para Padres:
+
+  1. ¿Cuáles son los aspectos más importantes que valora en un servicio de cuidado infantil? (Por ejemplo, seguridad, flexibilidad, calidad educativa, etc.)
+  2. ¿Cómo equilibra sus responsabilidades laborales con el cuidado de sus hijos?
+  3. ¿Qué desafíos ha encontrado al buscar soluciones para el cuidado infantil?
+  4. ¿Ha utilizado servicios de cuidado infantil anteriormente? ¿Cómo fue su experiencia?
+  5. ¿Qué características considera imprescindibles en una plataforma de cuidado infantil?
+  6. ¿Qué tipo de servicios educativos personalizados en el hogar le interesan?
+  7. ¿Qué nivel de flexibilidad busca en los servicios de cuidado infantil?
+  8. ¿Qué tan importante es para usted que los cuidadores estén verificados y certificados?
+  9. ¿Cuál es su presupuesto aproximado para servicios de cuidado infantil?
+
+#### Para Cuidadores (Niñeras y Tutores)
+
+  1. ¿Qué lo motivó a trabajar en el área de cuidado infantil o tutoría?
+  2. ¿Cuáles son los aspectos más importantes que valora en un empleo como cuidador o tutor? (Por ejemplo, flexibilidad, estabilidad, tipo de trabajo, etc.)
+  3. ¿Qué desafíos ha enfrentado en su carrera profesional hasta ahora?
+  4. ¿Qué tipo de servicios ofrece actualmente y cómo llegó a estos clientes?
+  5. ¿Cómo encuentra nuevas oportunidades laborales o clientes?
+  6. ¿Qué cualidades cree que son esenciales para ser un buen cuidador o tutor?
+  7. ¿Qué nivel de flexibilidad busca en su trabajo?
+  8. ¿Qué características valora en una plataforma que conecta cuidadores con familias?
+  9. ¿Qué tan importante es para usted la posibilidad de trabajar en diferentes entornos y con diferentes familias?
+
 ### **2.2.2. Registro de entrevistas**
 ### **2.2.3. Análisis de entrevistas**
 
