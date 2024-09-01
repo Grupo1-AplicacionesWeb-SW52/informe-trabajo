@@ -375,7 +375,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td colspan="2">
             (En la cabecera colocar por cada competidor nombre y logo)
         </td>
-        <td>Su Startup</td>
+        <td>CareNest</td>
         <td>	Helpr  </td>
         <td>Care.com</td>
         <td>SeekingSitters</td>
@@ -383,7 +383,7 @@ A continuacion presentamos a nuestros tres principales competidores:
     <tr>
         <th rowspan="2"> Perfil</th>
         <td>Overview</td>
-        <td></td>
+        <td>es una plataforma integral para conectar a padres con cuidadores de confianza, utilizando tecnología avanzada para verificación de antecedentes y gestión de reservas.</td>
         <td>Helpr conecta a padres con cuidadores de confianza de manera rápida y segura.</td>
         <td>Care.com es una plataforma integral para encontrar cuidadores, niñeras, y otros servicios de cuidado.</td>
         <td>SeekingSitters se enfoca en ofrecer niñeras con rigurosos procesos de verificación y chequeos de antecedentes.</td>
@@ -392,7 +392,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Ventaja competitiva ¿Qué valor ofrece a los clientes?
         </td>
-        <td></td>
+        <td>Verificación exhaustiva de cuidadores, tecnología avanzada para gestión y comunicación, sistema de referencias confiables.</td>
         <td>No requiere suscripción; enfoque en seguridad con extensos chequeos de antecedentes.</td>
         <td>Amplia base de datos y servicios adicionales (cuidado de ancianos, mascotas, etc.).</td>
         <td>Verificación intensiva de antecedentes por investigadores privados.</td>
@@ -400,7 +400,7 @@ A continuacion presentamos a nuestros tres principales competidores:
     <tr>
         <th rowspan="2"> Perfil de Marketing</th>
         <td>Mercado objetivo</td>
-        <td></td>
+        <td>Padres que buscan una solución completa y confiable para encontrar cuidadores, y cuidadores que buscan una plataforma para ofrecer sus servicios.</td>
         <td>Familias trabajadoras que necesitan cuidado de emergencia o a corto plazo.</td>
         <td>Familias que buscan una variedad de servicios de cuidado, incluyendo necesidades especiales.</td>
         <td>Padres que desean niñeras con una verificación profunda y confiable.</td>
@@ -409,7 +409,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Estrategias de marketing
         </td>
-        <td></td>
+        <td>Marketing digital, SEO, campañas en redes sociales, asociaciones con empresas de referencia, eventos educativos.</td>
         <td>Promociones a través de asociaciones con empresas y en redes sociales.</td>
         <td>Publicidad en medios digitales y asociaciones corporativas.</td>
         <td>Marketing boca a boca y alianzas con comunidades locales.</td>
@@ -417,7 +417,7 @@ A continuacion presentamos a nuestros tres principales competidores:
     <tr>
         <th rowspan="3"> Perfil de Producto</th>
         <td>Productos & Servicios</td>
-        <td></td>
+        <td>Plataforma de conexión de cuidadores, verificación de antecedentes, gestión de reservas, sistema de referencias, comunicación en tiempo real.</td>
         <td>Conexión con cuidadores, reserva fácil y rápida a través de la app.</td>
         <td>Cuidado de niños, ancianos, mascotas, y servicios de limpieza.</td>
         <td>Provisión de niñeras verificadas para cuidado temporal o a largo plazo.</td>
@@ -426,7 +426,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Precios & Costos
         </td>
-        <td></td>
+        <td>Varía según el servicio de cuidado y el nivel de verificación; tarifas competitivas basadas en el mercado.</td>
         <td>No hay tarifas de suscripción; se paga solo la tarifa por hora del cuidador.</td>
         <td>Versión gratuita; suscripción premium desde $37/mes.</td>
         <td>Sin tarifas por servicio; pago solo a la niñera.</td>
@@ -435,7 +435,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Canales de distribución (Web y/o Móvil)
         </td>
-        <td></td>
+        <td>Distribución a través de su página web y aplicación móvil.</td>
         <td>Aplicación móvil y sitio web.</td>
         <td>Aplicaciones móviles (iOS y Android), sitio web.</td>
         <td>Sitio web y soporte telefónico.</td>
@@ -450,7 +450,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Fortalezas
         </td>
-        <td></td>
+        <td>Verificación exhaustiva de cuidadores, tecnología avanzada, sistema de referencias confiables.</td>
         <td>Reservas de último minuto, enfoque en seguridad, sin costos adicionales.</td>
         <td>Amplia variedad de servicios y gran base de datos.</td>
         <td>Estricta verificación de antecedentes y entrenamiento de niñeras.</td>
@@ -459,7 +459,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Debilidades
         </td>
-        <td></td>
+        <td>Dependencia de la tecnología, posible resistencia de usuarios menos tecnológicos.</td>
         <td>Falta de soporte al cliente 24/7.</td>
         <td>Costos altos de suscripción</td>
         <td>Puede ser limitado en términos de disponibilidad regional.</td>
@@ -468,7 +468,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
            Oportunidades
         </td>
-        <td></td>
+        <td>Expansión a nuevos mercados, integración de nuevas tecnologías, asociaciones estratégicas.</td>
         <td>Expansión a nuevas regiones y asociaciones corporativas.</td>
         <td>Creciente demanda de servicios de cuidado integrales.</td>
         <td>Aumentar la base de usuarios a través de asociaciones locales.</td>
@@ -477,7 +477,7 @@ A continuacion presentamos a nuestros tres principales competidores:
         <td>
             Amenazas
         </td>
-        <td></td>
+        <td>Competencia intensa, cambios en regulaciones, crisis económicas.</td>
         <td>Competencia con otras apps de bajo costo.</td>
         <td>Críticas sobre la relación costo-beneficio.</td>
         <td>Dependencia de la disponibilidad de niñeras calificadas.</td>
