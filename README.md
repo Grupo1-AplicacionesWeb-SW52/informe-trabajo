@@ -346,6 +346,14 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 ## **2.1. Competidores**
+A continuacion presentamos a nuestros tres principales competidores:
+
+- **Helpr:** se destaca por su enfoque en la seguridad y la facilidad de uso sin costos adicionales, ideal para reservas de último minuto y cuidado en situaciones imprevistas.
+
+- **Care.com:** ofrece una gama más amplia de servicios, incluyendo cuidado de ancianos y mascotas, aunque con tarifas de suscripción relativamente altas.
+
+- **SeekingSitters:** es ideal para padres que buscan la máxima confianza y seguridad en el cuidado de sus hijos, gracias a sus estrictos procedimientos de verificación.
+
 ### **2.1.1. Análisis competitivo**
 
 <TABLE BORDER style="width:100%">
