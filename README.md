@@ -636,6 +636,8 @@ En este apartado se presentan dos *user personas* que representan a los usuarios
 </table>
 
 
+**Análisis**: Analizando los User Task Matrix, Ana García se enfoca principalmente en tareas relacionadas con la búsqueda y aplicación a trabajos de niñera, y la organización de actividades educativas, con una fuerte prioridad en establecer buenas relaciones con los padres y monitorear la satisfacción de los niños bajo su cuidado. Esto refleja su objetivo de mantenerse empleada y ofrecer un cuidado de calidad. Carlos Martínez, por otro lado, se concentra en gestionar el calendario de cuidado y verificar referencias de cuidadores, priorizando la seguridad y calidad en la atención de sus hijos. Las diferencias clave radican en que Ana está más orientada a la búsqueda de oportunidades laborales y la interacción directa con los niños, mientras que Carlos está más enfocado en la gestión y verificación para garantizar un cuidado confiable para sus hijos. Ambos comparten la necesidad de optimizar el tiempo y garantizar un entorno seguro y educativo.
+
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
