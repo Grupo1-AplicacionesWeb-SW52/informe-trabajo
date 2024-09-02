@@ -510,7 +510,7 @@ En esta sección, establecemos los lineamientos generales de diseño que guiará
 ### **Branding:**
 Nuestra marca combina seriedad y casualidad, buscando transmitir seguridad, confianza y sabiduría. Estos valores están alineados con nuestro objetivo de proporcionar un entorno seguro tanto para los padres y tutores como para los cuidadores que utilizan nuestra plataforma.
 
-![Safe Child Logo](Images/Safe_Child_logo.jpeg)
+![Safe Child Logo](Images/Carenest_logo.jpeg)
 
 ### **Typography:**
 Para la tipografía, hemos elegido **Poppins** en sus variantes bold, medium, y regular. Esta fuente será utilizada en todo el proyecto para mantener la coherencia visual. Los tamaños de fuente se definirán más adelante.
@@ -531,8 +531,33 @@ El tono de comunicación de nuestra plataforma será serio pero accesible, trans
 Estos principios y elementos de diseño serán la base para todas las decisiones visuales y de branding que tomemos a lo largo del desarrollo de nuestro proyecto.
 
 ### **4.1.2. Web Style Guidelines**
+En esta sección, se describen los estándares visuales y de interacción que se aplicarán a las interfaces web responsivas de **Safe Child**. Estos lineamientos aseguran que la experiencia del usuario sea coherente y accesible, independientemente del dispositivo o tamaño de pantalla.
+
+#### **Responsive Typography:**
+La tipografía utilizada en **Safe Child** se adaptará fluidamente a diferentes tamaños de pantalla para mantener la legibilidad y consistencia visual. A continuación, se definen las reglas de adaptación para los tamaños de texto:
+- **Encabezados:** Los encabezados utilizarán la tipografía **Poppins** y se escalarán en relación al tamaño de la pantalla. El tamaño inicial irá aumentando o disminuyendo proporcionalmente en tabletas, celulares y desktops.
+- **Cuerpo de Texto:** El cuerpo del texto también utilizará **Poppins** con un tamaño base de **16 px** en dispositivos móviles, ajustándose de manera fluida en pantallas más grandes.
+
+#### **Color Usage:**
+La paleta de colores será consistente en todas las versiones de la interfaz web, asegurando que los colores seleccionados para los textos y fondos se adapten bien a los cambios de tamaño de pantalla. Se respetarán las siguientes reglas:
+- **Contraste:** El contraste entre el texto y el fondo será alto para mejorar la legibilidad, especialmente en dispositivos móviles donde la luz ambiental puede variar.
+
+#### **Spacing and Layout:**
+El espaciado y la disposición de los elementos se ajustarán dinámicamente para garantizar que la interfaz sea clara y fácil de usar en todas las resoluciones. Las principales reglas de espaciado incluyen:
+- **Padding y Margen:** El padding y margen se establecerán en unidades relativas (como em o rem) para mantener la proporción entre diferentes tamaños de pantalla.
+- **Grid System:** Se implementará un sistema de grilla fluido que permita que los elementos se reorganicen de manera natural conforme cambie el ancho de la pantalla, manteniendo una estructura equilibrada y consistente.
+
+#### **Responsive Interactions:**
+Las interacciones en la plataforma **Safe Child** estarán optimizadas tanto para dispositivos táctiles como no táctiles. Algunas de las consideraciones incluyen:
+- **Touch Targets:** Los elementos interactivos tendrán áreas táctiles suficientemente grandes para evitar errores de interacción en dispositivos móviles.
+- **Gestos y Animaciones:** Los gestos comunes (como deslizar y tocar) serán soportados en dispositivos táctiles, y las animaciones serán ligeras para garantizar una experiencia rápida y responsiva en todos los dispositivos.
+
+Estos lineamientos aseguran que la experiencia de usuario en **Safe Child** sea intuitiva y consistente en cualquier dispositivo, apoyando la misión de nuestra plataforma de ofrecer una solución confiable y accesible para el cuidado infantil.
+
 
 ## **4.2. Information Architecture**
+
+
 ### **4.2.1. Organization Systems**
 ### **4.2.2. Labeling Systems**
 ### **4.2.3. SEO Tags and Meta Tags**
