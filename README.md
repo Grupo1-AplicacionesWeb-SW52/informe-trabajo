@@ -648,6 +648,14 @@ En este apartado se presentan dos *user personas* que representan a los usuarios
 ![AnaGarcía](https://github.com/user-attachments/assets/6600492d-77d6-48a1-abc8-90997dcd57b8)
 
 ### **2.3.4. Empathy Mapping**
+***Usuario 1: Padres***
+![CarlosMartinezEmpathyMap](https://github.com/user-attachments/assets/b3eebc39-914a-4e2c-bd42-1d8e6ca17ec8)
+
+***Usuario 2: Cuidadores***
+![AnaGarcíaEmpathyMap](https://github.com/user-attachments/assets/83b2dd79-9034-4edf-9e5e-6e6cb96c2d7d)
+
+
+
 ### **2.3.5. As-is Scenario Mapping**
 
 ## **2.4. Ubiquitous Language**
