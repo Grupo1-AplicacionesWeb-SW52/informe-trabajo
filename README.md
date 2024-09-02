@@ -502,7 +502,34 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 # <font color="red">**Capítulo IV: Product Design**</font>
 
 ## **4.1. Style Guidelines**
+En esta sección, establecemos las bases para un repositorio centralizado y organizado, accesible para todo el equipo. Este repositorio incluye assets, tipografías, y otros recursos necesarios para asegurar una presentación consistente y enfocada a lo largo del proyecto.
+
 ### **4.1.1. General Style Guidelines**
+En esta sección, establecemos los lineamientos generales de diseño que guiarán la identidad visual de nuestra plataforma. Estos lineamientos están diseñados para asegurar que cada elemento de nuestra interfaz transmita la personalidad y valores de la marca **Safe Child**, orientada a ofrecer soluciones confiables y flexibles para el cuidado infantil.
+
+### **Branding:**
+Nuestra marca combina seriedad y casualidad, buscando transmitir seguridad, confianza y sabiduría. Estos valores están alineados con nuestro objetivo de proporcionar un entorno seguro tanto para los padres y tutores como para los cuidadores que utilizan nuestra plataforma.
+
+![Safe Child Logo](Images/Safe_Child_logo.jpeg)
+
+### **Typography:**
+Para la tipografía, hemos elegido **Poppins** en sus variantes bold, medium, y regular. Esta fuente será utilizada en todo el proyecto para mantener la coherencia visual. Los tamaños de fuente se definirán más adelante.
+
+![Safe Child Logo](Images/Poppins.png)
+### **Colors:**
+La paleta de colores de nuestra plataforma se compone de:
+- **DEEFE7** y **FFFFFF** como colores de fondo para las secciones de la landing page.
+- **002333** para los textos grandes.
+- **149A9B** para los textos más pequeños.
+
+Estos colores han sido seleccionados para transmitir un sentido de seguridad y confianza, complementando la personalidad de la marca.
+
+![Safe Child Logo](Images/ColorsPalette.jpeg)
+### **Tono de Comunicación:**
+El tono de comunicación de nuestra plataforma será serio pero accesible, transmitiendo seguridad y confianza. Utilizaremos un lenguaje claro y directo, evitando tecnicismos innecesarios.
+
+Estos principios y elementos de diseño serán la base para todas las decisiones visuales y de branding que tomemos a lo largo del desarrollo de nuestro proyecto.
+
 ### **4.1.2. Web Style Guidelines**
 
 ## **4.2. Information Architecture**
