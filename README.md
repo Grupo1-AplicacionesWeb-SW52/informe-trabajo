@@ -654,9 +654,14 @@ En este apartado se presentan dos *user personas* que representan a los usuarios
 ***Usuario 2: Cuidadores***
 ![AnaGarcíaEmpathyMap](https://github.com/user-attachments/assets/83b2dd79-9034-4edf-9e5e-6e6cb96c2d7d)
 
-
-
 ### **2.3.5. As-is Scenario Mapping**
+**As-Is Scenario map del segmento 1: Carlos Martinez***
+![As-IsScenarioMappingCarlosMartinez](https://github.com/user-attachments/assets/fcf35123-2297-4213-ac23-add5e022724b)
+https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
+
+**As-Is Scenario map del segmento 2: Ana García***
+![As-IsScenarioMappingAnaGarcía](https://github.com/user-attachments/assets/1366ddb7-057a-4061-b1dd-9afeaf2e4aea)
+https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
 
 ## **2.4. Ubiquitous Language**
 
