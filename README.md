@@ -540,6 +540,36 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 
 ## **5.1. Software Configuration Management**
 ### **5.1.1. Software Development Environment Configuration**
+
+En esta sección describimos la configuración de las herramientas necesarias para el desarrollo del software, organizadas según las distintas fases y actividades del proyecto.
+
+Gestión de Proyectos
+Esta área se centra en las prácticas y herramientas utilizadas para planificar y organizar el desarrollo de software, incluyendo la asignación de tareas, el seguimiento del progreso y la coordinación de equipos.
+
+Trello: Utilizamos Trello, una plataforma de gestión de proyectos basada en tableros, para organizar tareas y colaborar en tiempo real. Trello facilita la visualización del progreso del proyecto y la coordinación entre los miembros del equipo.
+Diseño UX/UI
+Esta sección se enfoca en la creación de interfaces intuitivas y atractivas, teniendo en cuenta las necesidades y preferencias de los usuarios. Las herramientas utilizadas incluyen:
+
+Figma: Esta plataforma de diseño colaborativo permite la creación y compartición de diseños de interfaces de usuario de manera eficiente y en tiempo real.
+
+LucidChart: Usamos LucidChart para la creación de diagramas UML y diagramas de flujo, facilitando la representación visual de la arquitectura y procesos del proyecto.
+
+Miro: La pizarra colaborativa Miro se empleó para la lluvia de ideas, la definición de problemas y necesidades de los clientes, y la identificación de los Bounded Contexts del proyecto.
+
+UXpressia: Esta herramienta fue utilizada para crear User Personas, Empathy Maps, Journey Maps e Impact Maps, lo que facilita una comprensión más profunda de los usuarios y sus necesidades.
+
+Desarrollo de Software
+Esta área abarca el proceso de creación y programación del software. Para este proyecto, utilizamos las siguientes herramientas y tecnologías:
+
+Visual Studio Code: Un entorno de desarrollo integrado (IDE) popular que ofrece características avanzadas como resaltado de sintaxis, depuración y control de versiones integradas. Se usa para escribir y editar el código fuente.
+
+GitHub: Utilizamos GitHub para alojar el repositorio del proyecto y gestionar el control de versiones del código fuente y la documentación. GitHub facilita la colaboración y el seguimiento de cambios en el código.
+
+Documentación de Software
+La documentación técnica es esencial para el mantenimiento y comprensión del software. La herramienta utilizada para crear la documentación del proyecto es:
+
+Markdown: Un lenguaje de marcado ligero y fácil de usar para crear documentos con formato. Markdown se emplea para redactar la documentación del proyecto de manera clara y estructurada.
+
 ### **5.1.2. Source Code Management**
 ### **5.1.3. Source Code Style Guide & Conventions**
 ### **5.1.4. Software Deployment Configuration**
