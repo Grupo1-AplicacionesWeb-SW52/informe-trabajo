@@ -664,6 +664,18 @@ https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244
 https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
 
 ## **2.4. Ubiquitous Language**
+En esta sección, presentaremos el lenguaje ubicuo, una herramienta clave para establecer un vocabulario común y preciso que facilita la comunicación entre los miembros del equipo de desarrollo y los stakeholders. Este lenguaje ayuda a asegurar que todos compartan una comprensión clara y consensuada de los conceptos y términos esenciales del proyecto.
+
+- **Cuidador:** Persona encargada de brindar cuidado y educación a los niños en el hogar.
+- **Tutor:** Persona encargada de brindar apoyo educativo y asistencia en tareas escolares a los niños en el hogar.
+- **Padre de familia:** Persona responsable de la crianza y educación de los niños en el hogar.
+- **Niño:** Persona menor de edad que recibe cuidado y educación en el hogar.
+- **Plataforma:** Sistema digital que permite la interacción entre padres, cuidadores y tutores para la gestión de cuidado y educación en el hogar.
+- **Reserva:** Proceso mediante el cual un padre programa una sesión de cuidado o tutoría para su hijo a través de la plataforma.
+- **Perfil:** Información detallada de un cuidador o tutor que incluye experiencia, certificaciones, calificaciones y disponibilidad.
+- **Calificación:** Valoración numérica o descriptiva que refleja la calidad y desempeño de un cuidador o tutor.
+- **Verificado:** Estado que indica que un cuidador o tutor ha sido evaluado y certificado por la plataforma.
+
 
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
