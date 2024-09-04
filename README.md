@@ -495,6 +495,14 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
+**To-Be Scenario map del segmento 1: Carlos Martinez***
+![image](Images/ToBeScenario-Carlos.jpeg)
+https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
+
+**To-Be Scenario map del segmento 2: Ana García***
+![image](Images/ToBeScenario-Ana.jpeg)
+https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
+
 ## **3.2. User Stories**
 | Epic/User Story ID | Título | Descripción | Criterios de aceptación | Relación con (Epic ID) |
 |---|---|---|---|---|
