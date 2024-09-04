@@ -543,35 +543,137 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 
 En esta sección describimos la configuración de las herramientas necesarias para el desarrollo del software, organizadas según las distintas fases y actividades del proyecto.
 
-Gestión de Proyectos
-Esta área se centra en las prácticas y herramientas utilizadas para planificar y organizar el desarrollo de software, incluyendo la asignación de tareas, el seguimiento del progreso y la coordinación de equipos.
+**Gestión de Proyectos**
+
+Para planificar y organizar el desarrollo del software, incluyendo la asignación de tareas, el seguimiento del progreso y la coordinación del equipo, utilizamos :
 
 Trello: Utilizamos Trello, una plataforma de gestión de proyectos basada en tableros, para organizar tareas y colaborar en tiempo real. Trello facilita la visualización del progreso del proyecto y la coordinación entre los miembros del equipo.
-Diseño UX/UI
+
+
+**Diseño UX/UI**
+
 Esta sección se enfoca en la creación de interfaces intuitivas y atractivas, teniendo en cuenta las necesidades y preferencias de los usuarios. Las herramientas utilizadas incluyen:
 
-Figma: Esta plataforma de diseño colaborativo permite la creación y compartición de diseños de interfaces de usuario de manera eficiente y en tiempo real.
+- **Figma:** Esta plataforma de diseño colaborativo permite la creación y compartición de diseños de interfaces de usuario de manera eficiente y en tiempo real.
 
-LucidChart: Usamos LucidChart para la creación de diagramas UML y diagramas de flujo, facilitando la representación visual de la arquitectura y procesos del proyecto.
+- **LucidChart:** Usamos LucidChart para la creación de diagramas UML y diagramas de flujo, facilitando la representación visual de la arquitectura y procesos del proyecto.
 
-Miro: La pizarra colaborativa Miro se empleó para la lluvia de ideas, la definición de problemas y necesidades de los clientes, y la identificación de los Bounded Contexts del proyecto.
+- **Miro:** La pizarra colaborativa Miro se empleó para la lluvia de ideas, la definición de problemas y necesidades de los clientes, y la identificación de los Bounded Contexts del proyecto.
 
-UXpressia: Esta herramienta fue utilizada para crear User Personas, Empathy Maps, Journey Maps e Impact Maps, lo que facilita una comprensión más profunda de los usuarios y sus necesidades.
+- **UXpressia:** Esta herramienta fue utilizada para crear User Personas, Empathy Maps, Journey Maps e Impact Maps, lo que facilita una comprensión más profunda de los usuarios y sus necesidades.
 
-Desarrollo de Software
+**Desarrollo de Software**
+
 Esta área abarca el proceso de creación y programación del software. Para este proyecto, utilizamos las siguientes herramientas y tecnologías:
 
 Visual Studio Code: Un entorno de desarrollo integrado (IDE) popular que ofrece características avanzadas como resaltado de sintaxis, depuración y control de versiones integradas. Se usa para escribir y editar el código fuente.
 
-GitHub: Utilizamos GitHub para alojar el repositorio del proyecto y gestionar el control de versiones del código fuente y la documentación. GitHub facilita la colaboración y el seguimiento de cambios en el código.
+- **GitHub:** Utilizamos GitHub para alojar el repositorio del proyecto y gestionar el control de versiones del código fuente y la documentación. GitHub facilita la colaboración y el seguimiento de cambios en el código.
 
-Documentación de Software
+**Documentación de Software**
+
 La documentación técnica es esencial para el mantenimiento y comprensión del software. La herramienta utilizada para crear la documentación del proyecto es:
 
-Markdown: Un lenguaje de marcado ligero y fácil de usar para crear documentos con formato. Markdown se emplea para redactar la documentación del proyecto de manera clara y estructurada.
+- **Markdown:** Un lenguaje de marcado ligero y fácil de usar para crear documentos con formato. Markdown se emplea para redactar la documentación del proyecto de manera clara y estructurada.
 
 ### **5.1.2. Source Code Management**
+
+Durante todos los próximos sprints, emplearemos Git Flow para gestionar el desarrollo de nuevas características, implementar correcciones y preparar lanzamientos. Esta metodología ofrece una estructura organizada y coherente que mejora la colaboración y la comprensión del flujo de trabajo entre los desarrolladores. Al seguir Git Flow, aseguramos que todos los cambios se integren de manera eficiente y ordenada, facilitando la coordinación del equipo y la entrega de un producto de alta calidad.
+
+**Uso del Modelo Git Flow**
+Para la gestión de cambios en nuestro repositorio, seguimos el modelo Git Flow. Este modelo organiza las ramas de la siguiente manera:
+
+- **Ramas Principales:**
+  - 'master': Contiene el código de producción estable y listo para el despliegue.
+  - 'develop': Es la rama de integración donde se consolidan todas las características desarrolladas y se prepara para el próximo lanzamiento.
+
+- **Ramas de Soporte:**
+  - feature: Se crean a partir de la rama develop para el desarrollo de nuevas características. Una vez completada la característica, se fusionan nuevamente en develop.
+
+    - Ejemplo de Creación de Rama de Característica:
+
+```
+git checkout -b feature/[nombre-de-la-caracteristica] 
+git add .
+git commit -m "feat: [descripcion-de-la-caracteristica]"
+git push -u origin feature/[nombre-de-la-caracteristica]
+```
+<div align="center">
+<image src="./Images/02 Feature branches.svg">
+</div>
+
+**Convenciones de Commits**
+
+Para los nombres de los commits, utilizamos el estándar Conventional Commits, que proporciona una estructura ligera y fácil de seguir para los mensajes en los commits. Este enfoque asegura claridad en el historial de cambios y facilita la colaboración entre los miembros del equipo.
+
+```
+* [feat: nueva feature]
+git commit -m "feat: [descripcion de la caracteristica]"
+* [fix: correccion de errores]
+git commit -m "fix: [descripcion del error]"
+[docs: cambios en la documentacion]
+git commit -m "docs: [descripcion de los cambios en la documentacion]"
+* [style: cambios en el estilo]
+git commit -m "style: [descripcion de los cambios en el estilo que no afectan a la logica del codigo]"
+* [refactor: refactorizacion del codigo]
+git commit -m "refactor: [descripcion de la refactorizacion]"
+* [test: cambios en las pruebas]
+git commit -m "test: [descripcion de los cambios en las pruebas]"
+* [chore: cambios en la configuracion]
+git commit -m "chore: [descripcion de los cambios en la configuracion]"
+```
+Este modelo da una estructura clara y organizada para que los desarrolladores puedan comprender el flujo de trabajo y colaborar de manera eficiente.
+
 ### **5.1.3. Source Code Style Guide & Conventions**
+
+En el desarrollo del proyecto se utilizarán los siguientes lenguajes y tecnologías: HTML, CSS, JavaScript, PrimeVue y PrimeFlex. A continuación se describen las convenciones y guías de estilo para cada uno:
+
+- HTML: Es el lenguaje utilizado para diseñar páginas web, utilizando etiquetas para marcar y definir el contenido de la página, como texto, imágenes, vídeos, etc.
+
+- CSS
+
+Variables de Colores: Los colores globales se definen en el archivo de estilos principal utilizando variables en el selector ``` :root. ``` Esto facilita la reutilización y el mantenimiento de los estilos en toda la página.
+
+<div align="center">
+<image src="./Images/Tutorial-de-Variables-CSS-con-var.png">
+</div>
+
+Convenciones:
+
+Nombres de Clases Compuestas: Los nombres de las clases compuestas deben estar unidos con guiones (-):
+
+```
+.box-container {
+}
+```
+
+Unidad de Medida rem: Usar la unidad de medida rem para mantener un diseño responsivo y consistente:
+```
+font-size: 1rem;
+```
+
+- PrimeVue es una biblioteca de componentes para Vue.js que facilita la creación de interfaces de usuario ricas y modernas.
+
+Convenciones:
+
+Uso de Componentes: Importar y utilizar componentes de PrimeVue siguiendo la documentación oficial:
+
+```
+<template>
+  <Button label="Click Me" />
+</template>
+
+<script>
+import { Button } from 'primevue/button';
+export default {
+  components: {
+    Button
+  }
+}
+</script>
+```
+Personalización de Componentes: Personalizar los componentes mediante la extensión de temas cuando sea necesario.
+
 ### **5.1.4. Software Deployment Configuration**
 
 ## **5.2. Landing Page, Services & Applications Implementation**
