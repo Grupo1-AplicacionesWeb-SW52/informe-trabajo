@@ -737,6 +737,8 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
+![alt text](https://raw.githubusercontent.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo/feat/chapter-4/Images/software%20architecture%20context%20diagram.jpg)
+
 ### **4.6.2. Software Architecture Container Diagrams**
 ### **4.6.3. Software Architecture Components Diagrams**
 
