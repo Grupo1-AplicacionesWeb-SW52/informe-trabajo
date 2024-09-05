@@ -676,6 +676,12 @@ Personalización de Componentes: Personalizar los componentes mediante la extens
 
 ### **5.1.4. Software Deployment Configuration**
 
+Para implementar el despliegue de la página de inicio del proyecto, optaremos por Netlify, una plataforma que ofrece servicios de alojamiento para sitios web estáticos y dinámicos con una integración sencilla desde un repositorio. Por lo tanto, hemos comenzado creando un repositorio donde cargaremos las diferentes versiones que desarrollaremos a lo largo del proyecto, y utilizaremos Netlify para gestionar el despliegue y la publicación del sitio web.
+
+<div align="center">
+<image src="./Images/netlify.png">
+</div>
+
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
 ### **5.2.1.1. Sprint Planning 1**
