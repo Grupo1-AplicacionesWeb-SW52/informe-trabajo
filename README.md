@@ -585,14 +585,143 @@ Aunque la landing page no implica pasos secuenciales complejos, aplicaremos una 
 #### **Categorization Schemes (Esquemas de Categorización)**
 En la landing page, utilizaremos un esquema de categorización por tópicos para organizar la información de manera que los visitantes puedan encontrar rápidamente lo que buscan.
 
-- **Por Tópicos:** El contenido estará dividido en secciones temáticas como "Sobre Nosotros", "Servicios", y "Testimonios", permitiendo a los usuarios acceder fácilmente a la información relevante para sus necesidades.
+- **Por Tópicos:** El contenido estará dividido en secciones temáticas como "Sobre Nosotros", "Servicios", y "Planes", permitiendo a los usuarios acceder fácilmente a la información relevante para sus necesidades.
 
 Estos sistemas de organización han sido seleccionados para asegurar que la arquitectura de la información en la landing page de **Care Nest** sea clara, intuitiva, y eficiente, proporcionando una experiencia de usuario agradable desde el primer contacto.
 
 ### **4.2.2. Labeling Systems**
+
+En esta sección, explicamos cómo representaremos los datos en la landing page de **Care Nest** mediante un sistema de etiquetado claro y conciso. Nuestro objetivo es garantizar que los visitantes comprendan fácilmente la información presentada y puedan navegar por la página sin confusión.
+
+#### **Principios de Etiquetado**
+
+- **Simplicidad:** Las etiquetas se mantendrán breves y directas, utilizando el menor número de palabras posible para transmitir la información de manera clara.
+- **Claridad:** Cada etiqueta será descriptiva y específica, evitando términos ambiguos que puedan llevar a malentendidos.
+- **Consistencia:** Usaremos un estilo de etiquetado uniforme en toda la página para mantener la coherencia y ayudar a los visitantes a familiarizarse rápidamente con el contenido.
+
+#### **Etiquetas y Asociaciones**
+
+- **Header:**
+  - **Logo:** El logotipo de **Care Nest** estará etiquetado claramente como "Care Nest", asegurando que los visitantes identifiquen la marca de inmediato.
+  - **Menú de Navegación:** Las opciones del menú se etiquetarán con términos simples y descriptivos como "Inicio", "Servicios", "Sobre Nosotros", "Planes", y "Contacto". Esto permitirá a los visitantes encontrar rápidamente la información que buscan.
+
+- **Secciones Principales:**
+  - **Inicio:** La sección de inicio estará claramente etiquetada para destacar el valor principal de **Care Nest**, con una etiqueta como "Bienvenido a Care Nest" o "Tu Solución de Cuidado Infantil".
+  - **Servicios:** Esta sección estará etiquetada como "Servicios", y cada servicio individual se identificará con nombres descriptivos como "Cuidado Infantil", "Educadores Capacitados", y "Atención Personalizada".
+  - **Beneficios:** Se etiquetará como "Beneficios", destacando las ventajas de utilizar **Care Nest**.
+  - **Planes:** Esta sección estará etiquetada como "planes" y mostrará los diferentes planes de suscripción para Care Nest.
+
+- **Call to Action (Llamada a la Acción):**
+  - **Botones de Acción:** Los botones de llamada a la acción estarán etiquetados con frases claras y motivadoras como "Regístrate Ahora", "Descubre Más", y "Contáctanos", facilitando la interacción con la plataforma.
+
+- **Footer:**
+  - **Información de Contacto:** La sección de contacto en el pie de página llevará etiquetas como "Contacto" y "Redes Sociales", para que los visitantes puedan encontrar fácilmente formas de comunicarse con **Care Nest** o seguirnos en redes sociales.
+
+Estas etiquetas han sido diseñadas para mejorar la accesibilidad y la usabilidad de la landing page de **Care Nest**, asegurando que la información sea fácilmente comprensible y navegable para todos los visitantes.
+
 ### **4.2.3. SEO Tags and Meta Tags**
+
+En esta sección, detallamos los SEO Tags y Meta Tags que se aplicarán a la landing page de **Care Nest** para optimizar su visibilidad en los motores de búsqueda y mejorar la experiencia del usuario.
+
+#### **Landing Page**
+
+**Title Tag:**
+- **Valor:** "Care Nest - Soluciones de Cuidado Infantil Confiables y Flexibles"
+- **Descripción:** El título es conciso y describe claramente el propósito de la plataforma, integrando palabras clave relevantes para SEO.
+
+**Meta Description:**
+- **Valor:** "Care Nest ofrece soluciones confiables y flexibles para el cuidado infantil, ayudando a padres y tutores a equilibrar sus responsabilidades laborales con la tranquilidad de saber que sus hijos están bien atendidos. Descubre nuestros servicios personalizados."
+- **Descripción:** La descripción proporciona un resumen atractivo de la plataforma, utilizando palabras clave relevantes para mejorar el ranking en los motores de búsqueda.
+
+**Meta Keywords:**
+- **Valor:** "cuidado infantil, soluciones de cuidado, cuidado flexible, servicios para padres, educación infantil, cuidado de niños, plataforma de cuidado infantil"
+- **Descripción:** Las palabras clave están seleccionadas para captar los términos de búsqueda relevantes para la plataforma y atraer a los usuarios interesados en el cuidado infantil.
+
+**Meta Author:**
+- **Valor:** "Care Nest Team"
+- **Descripción:** Indica el autor del contenido de la página, en este caso, el equipo detrás de **Care Nest**.
+
+**Meta Robots:**
+- **Valor:** "index, follow"
+- **Descripción:** Permite a los motores de búsqueda indexar la página y seguir los enlaces en ella, facilitando la visibilidad en los resultados de búsqueda.
+
+**Meta Viewport:**
+- **Valor:** "width=device-width, initial-scale=1.0"
+- **Descripción:** Asegura que la página sea responsive y se adapte adecuadamente a diferentes tamaños de pantalla y dispositivos.
+
+Estos SEO Tags y Meta Tags están diseñados para mejorar la visibilidad de la landing page de **Care Nest** en los motores de búsqueda y proporcionar una experiencia de usuario optimizada.
+
 ### **4.2.4. Searching Systems**
+
+En esta sección, describimos cómo facilitaremos la búsqueda de información dentro de **Care Nest** para que los usuarios puedan encontrar lo que necesitan de manera rápida y eficiente. Dado que la landing page de **Care Nest** no contará con una barra de búsqueda, nos enfocaremos en otros métodos para presentar y organizar la información de manera efectiva.
+
+#### **Sistema de Navegación en la Landing Page**
+
+**Navegación Clara y Estructurada:**
+- **Menú de Navegación Principal:** La landing page incluirá un menú de navegación claro y bien estructurado en la parte superior, que permitirá a los usuarios acceder a las secciones principales del sitio, como "Servicios", "Acerca de Nosotros" y "Contacto".
+- **Enlaces Internos:** Enlaces estratégicamente ubicados dentro del contenido para dirigir a los usuarios a las secciones relevantes del sitio.
+
+**Contenido Destacado:**
+- **Secciones Destacadas:** La landing page presentará secciones destacadas con información clave, como los beneficios del servicio y planes, para guiar a los usuarios hacia la información más relevante sin necesidad de una búsqueda específica.
+
+**Visualización de Contenido:**
+- **Diseño Visual Atractivo:** Utilizaremos un diseño visual que facilite la navegación intuitiva, con llamados a la acción claros y botones visibles para que los usuarios encuentren la información que buscan de manera natural.
+
+#### **Sistema de Búsqueda en la Aplicación Web (futuro)**
+
+Para la futura aplicación web, implementaremos un sistema de búsqueda más avanzado que permita a los usuarios encontrar información específica de manera eficiente.
+
+**Barra de Búsqueda:**
+- **Ubicación:** En la parte superior de la interfaz de usuario.
+- **Funcionalidad:** Permitirá buscar entre diversos recursos y servicios específicos de la aplicación.
+
+**Filtros de Búsqueda:**
+- **Filtros Disponibles:** Los usuarios podrán aplicar filtros como categoría de servicio, ubicación, disponibilidad y valoración para refinar los resultados.
+
+**Resultados de Búsqueda:**
+- **Presentación:** Resultados organizados en formato de lista o cuadrícula con detalles adicionales y coincidencias destacadas.
+
+Estos sistemas de búsqueda y navegación están diseñados para mejorar la experiencia del usuario, garantizando que la landing page sea clara y fácil de usar, mientras que la futura aplicación web ofrecerá funcionalidades de búsqueda avanzadas.
+
 ### **4.2.5. Navigation Systems**
+
+En esta sección, describimos las acciones y técnicas que guiarán a los usuarios a través de **Care Nest**, asegurando que puedan cumplir sus objetivos e interactuar de manera satisfactoria con el producto. La navegación debe ser intuitiva y eficiente, facilitando el acceso a la información y funcionalidades clave.
+
+#### **Sistema de Navegación en la Landing Page**
+
+**Menú de Navegación Principal:**
+- **Ubicación y Diseño:** El menú de navegación estará ubicado en la parte superior de la landing page, visible en todo momento. Utilizaremos un diseño fijo y claro para asegurar que los usuarios puedan acceder a cualquier sección en cualquier momento.
+- **Secciones del Menú:** Incluirá enlaces a las secciones principales del sitio como "Servicios", "Acerca de Nosotros" y "Contacto". Estos enlaces estarán organizados de manera lógica para facilitar el acceso a la información relevante.
+
+**Llamados a la Acción (CTAs):**
+- **Botones Destacados:** Utilizaremos botones de llamados a la acción visibles y atractivos para guiar a los usuarios hacia las acciones deseadas, como "Solicitar Información", "Registrarse", o "Ver Servicios". Estos botones estarán ubicados en lugares estratégicos a lo largo de la página para maximizar la visibilidad.
+
+**Organización del Contenido:**
+- **Diseño en Secciones:** La landing page estará organizada en secciones claramente delimitadas, cada una con un encabezado y un propósito específico. Esto permitirá a los usuarios navegar de manera fluida a través del contenido, entendiendo rápidamente la estructura del sitio.
+- **Enlaces Internos:** Incluirá enlaces internos dentro del contenido para dirigir a los usuarios a partes específicas de la página o a otras secciones relacionadas.
+
+**Indicadores de Progreso:**
+- **Desplazamiento y Anclajes:** Utilizaremos indicadores visuales y anclajes para ayudar a los usuarios a entender dónde se encuentran dentro de la página y facilitar el desplazamiento entre secciones importantes.
+
+#### **Sistema de Navegación en la Aplicación Web (futuro)**
+
+**Barra de Navegación:**
+- **Ubicación y Diseño:** En la parte superior o lateral de la interfaz, proporcionará acceso a todas las secciones importantes de la aplicación, como "Perfil", "Mis Servicios", "Mensajes", y "Configuración".
+- **Menú Desplegable:** Se implementará un menú desplegable para organizar las opciones de navegación de manera compacta y accesible.
+
+**Navegación Basada en Roles:**
+- **Acceso a Funcionalidades:** La navegación se ajustará según el rol del usuario (por ejemplo, padres, cuidadores). Los usuarios tendrán acceso a las funcionalidades y datos relevantes para su perfil específico.
+
+**Sistema de Páginas y Subpáginas:**
+- **Estructura Jerárquica:** La aplicación web tendrá una estructura de páginas y subpáginas para organizar la información y servicios. Los usuarios podrán navegar a través de secciones principales y acceder a detalles adicionales según sus necesidades.
+
+**Asistencia y Orientación:**
+- **Ayuda Contextual:** Ofreceremos ayuda contextual y tutoriales dentro de la aplicación para guiar a los usuarios en el uso de las funcionalidades y la navegación a través de la interfaz.
+
+**Indicadores de Navegación:**
+- **Breadcrumbs y Menú de Navegación:** Implementaremos breadcrumbs (migas de pan) y un menú de navegación claro para ayudar a los usuarios a seguir su camino a través de la aplicación y retroceder si es necesario.
+
+Estos sistemas de navegación están diseñados para asegurar una experiencia fluida y eficiente tanto en la landing page como en la futura aplicación web, permitiendo a los usuarios interactuar con el contenido y alcanzar sus objetivos de manera satisfactoria.
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
