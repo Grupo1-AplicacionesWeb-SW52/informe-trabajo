@@ -737,12 +737,20 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
-![alt text](https://raw.githubusercontent.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo/feat/chapter-4/Images/Software%20Architecture%20Context%20Diagram.jpg)
+<p align="center">
+  <img src="Images/Software%20Architecture%20Context%20Diagram.jpg" alt="tipografia" width="100%">
+</p>
 
 ### **4.6.2. Software Architecture Container Diagrams**
-![alt text](https://raw.githubusercontent.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo/feat/chapter-4/Images/Software%20Architecture%20Container%20Diagrams.jpg)
+<p align="center">
+  <img src="Images/Software%20Architecture%20Container%20Diagrams.jpg" alt="tipografia" width="100%">
+</p>
+
 ### **4.6.3. Software Architecture Components Diagrams**
-![Payment Context Component Diagram](https://raw.githubusercontent.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo/feat/chapter-4/Images/Payment%20Context%20Component%20Diagram.jpg)
+**Payment Context Component Diagram**
+<p align="center">
+  <img src="Images/Payment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
+  </p>
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
