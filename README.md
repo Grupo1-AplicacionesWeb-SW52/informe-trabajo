@@ -747,7 +747,7 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
 </p>
 
 ### **4.6.3. Software Architecture Components Diagrams**
-**Payment Context Component Diagram**
+**Payment Context Component Diagram:**
 <p align="center">
   <img src="Images/Payment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
   </p>
