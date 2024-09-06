@@ -586,6 +586,360 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 ![image](Images/impactmapping.png)
 ## **3.4. Product Backlog**
 
+<table><thead>
+  <tr>
+    <th># Orden</th>
+    <th>User Story Id</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Story Points</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>US01</td>
+    <td>Presentación de la información</td>
+    <td>Como usuario interesado, quiero que la landing page explique claramente los servicios ofrecidos.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>US02</td>
+    <td>Consulta de información</td>
+    <td>Como visitante de la landing page, quiero enviar consultas sobre la plataforma.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>US03</td>
+    <td>Redirección a la plataforma</td>
+    <td>Quiero que al hacer clic en el logo de la landing page me redirijan a la plataforma.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>US04</td>
+    <td>Creación de Perfil Completo</td>
+    <td>Como tutor, quiero crear un perfil que incluya mis habilidades y certificaciones.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>US05</td>
+    <td>Gestión de Calendario de Clases</td>
+    <td>Como tutor, quiero gestionar mi calendario para organizar horarios y evitar conflictos.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>US06</td>
+    <td>Envío de Informes de Progreso</td>
+    <td>Como tutor, quiero enviar informes a los padres sobre el progreso de sus hijos.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>US07</td>
+    <td>Evaluación del Desempeño Infantil</td>
+    <td>Como tutor, quiero evaluar el desempeño de los niños en mis clases.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>US08</td>
+    <td>Comunicación Directa con Padres</td>
+    <td>Como tutor, quiero tener un canal de comunicación directa con los padres.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>US09</td>
+    <td>Publicación de Disponibilidad</td>
+    <td>Como tutor, quiero publicar mi disponibilidad para organizar mejor las clases.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>US10</td>
+    <td>Recepción de Solicitudes de Tutoría</td>
+    <td>Como tutor, quiero recibir solicitudes de tutoría para aceptar o rechazar según mi disponibilidad.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>US11</td>
+    <td>Notificación de Cambios en el Calendario</td>
+    <td>Como tutor, quiero notificar a los padres sobre cambios en el calendario de clases.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>US12</td>
+    <td>Revisión de Feedback de Padres</td>
+    <td>Como tutor, quiero revisar el feedback de los padres para mejorar mi método de enseñanza.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>US13</td>
+    <td>Gestión de Pagos por Sesión</td>
+    <td>Como tutor, quiero gestionar los pagos de mis sesiones para llevar un control de mis ingresos.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US14</td>
+    <td>Configuración de Preferencias de Enseñanza</td>
+    <td>Como tutor, quiero configurar mis preferencias de enseñanza para atraer a padres con necesidades específicas.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US15</td>
+    <td>Verificación de Asistencia a Clases</td>
+    <td>Como tutor, quiero verificar la asistencia de los niños a las clases para mantener un registro preciso.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>US16</td>
+    <td>Generación de reportes</td>
+    <td>Como tutor, quiero generar reportes detallados sobre el desempeño de los niños en diferentes áreas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US17</td>
+    <td>Asignación De tareas</td>
+    <td>Como tutor, quiero revisar las tareas y proyectos enviados por los niños para proporcionar retroalimentación.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US18</td>
+    <td>Recepción de preguntas de alumnos</td>
+    <td>Como tutor, quiero permitir que los niños envíen preguntas sobre las lecciones fuera de horario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US19</td>
+    <td>Creación de Perfil Completo (Niñera)</td>
+    <td>Como niñera, quiero crear un perfil que incluya mis habilidades y certificaciones.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US20</td>
+    <td>Gestión de Calendario de Disponibilidad</td>
+    <td>Como niñera, quiero gestionar mi calendario de disponibilidad para organizar mis horarios.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>US21</td>
+    <td>Recepción de Solicitudes de Cuidado Infantil</td>
+    <td>Como niñera, quiero recibir solicitudes de cuidado infantil para aceptar o rechazar según mi disponibilidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>US22</td>
+    <td>Registro de Actividades Infantiles</td>
+    <td>Como niñera, quiero registrar las actividades que realizo con los niños para informar a los padres.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>US23</td>
+    <td>Comunicación Directa con Padres</td>
+    <td>Como niñera, quiero tener un canal de comunicación directa con los padres.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>US24</td>
+    <td>Publicación de Disponibilidad (Niñera)</td>
+    <td>Como niñera, quiero publicar mi disponibilidad para que los padres puedan programar cuidado infantil.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>US25</td>
+    <td>Revisión de Feedback de Padres (Niñera)</td>
+    <td>Como niñera, quiero revisar el feedback de los padres para mejorar mi servicio de cuidado infantil.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>US26</td>
+    <td>Gestión de Pagos por Servicios (Niñera)</td>
+    <td>Como niñera, quiero gestionar los pagos de mis servicios para llevar un control de mis ingresos.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>US27</td>
+    <td>Evaluación de Solicitudes</td>
+    <td>Como niñera, quiero evaluar las solicitudes de cuidado infantil recibidas.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>US28</td>
+    <td>Actualización de Datos de Perfil</td>
+    <td>Como niñera, quiero actualizar la información en mi perfil para mantener mis habilidades y experiencia al día.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>US29</td>
+    <td>Visualización de Solicitudes Recientes</td>
+    <td>Como niñera, quiero ver las solicitudes de cuidado infantil recientes para responder rápidamente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US30</td>
+    <td>Notificación de Nuevas Solicitudes</td>
+    <td>Como niñera, quiero recibir notificaciones de nuevas solicitudes de cuidado infantil.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>US31</td>
+    <td>Acceso a Recursos Educativos</td>
+    <td>Como niñera, quiero acceder a recursos educativos adicionales para mejorar mis habilidades.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US32</td>
+    <td>Registro de Horas de Trabajo</td>
+    <td>Como niñera, quiero registrar las horas de trabajo dedicadas a cada niño.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US33</td>
+    <td>Visualización de Reseñas de Padres</td>
+    <td>Como niñera, quiero ver las reseñas dejadas por los padres para entender mejor mi desempeño.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US34</td>
+    <td>Configuración de Preferencias de Trabajo</td>
+    <td>Como niñera, quiero configurar mis preferencias de trabajo para recibir solicitudes que se ajusten a mis habilidades.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>US35</td>
+    <td>Filtrado de Cuidadores por Experiencia</td>
+    <td>Como padre, quiero filtrar los cuidadores por experiencia y habilidades.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>US36</td>
+    <td>Verificación de Certificaciones de Cuidadores</td>
+    <td>Como padre, quiero verificar las certificaciones de los cuidadores para asegurarme de su idoneidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>US37</td>
+    <td>Recepción de Notificaciones de Actividades</td>
+    <td>Como padre, quiero recibir notificaciones sobre las actividades diarias de mi hijo.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>US38</td>
+    <td>Revisión de Horarios de Disponibilidad</td>
+    <td>Como padre, quiero revisar los horarios de disponibilidad de los cuidadores.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>US39</td>
+    <td>Cancelación de Sesiones Programadas</td>
+    <td>Como padre, quiero cancelar una sesión programada con un cuidador.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>US40</td>
+    <td>Agregar Comentarios a Cuidadores</td>
+    <td>Como padre, quiero agregar comentarios sobre los cuidadores para ayudar a otros padres.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>US41</td>
+    <td>Configuración de Preferencias de Cuidado</td>
+    <td>Como padre, quiero configurar mis preferencias de cuidado infantil para encontrar cuidadores que se ajusten a mis necesidades.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>US42</td>
+    <td>Verificación de Experiencia de Cuidadores</td>
+    <td>Como padre, quiero verificar la experiencia laboral de los cuidadores.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>US43</td>
+    <td>Solicitud de Referencias de Cuidadores</td>
+    <td>Como padre, quiero solicitar referencias de cuidadores para evaluar la calidad del cuidado.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>US44</td>
+    <td>Visualización de Perfiles de Cuidadores</td>
+    <td>Como padre, quiero visualizar perfiles completos de cuidadores.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>US45</td>
+    <td>Revisión de Historial de Cuidado</td>
+    <td>Como padre, quiero revisar el historial de cuidado de mis hijos.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>US46</td>
+    <td>Configuración de Alertas de Disponibilidad</td>
+    <td>Como padre, quiero configurar alertas de disponibilidad de cuidadores.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>US47</td>
+    <td>Acceso a Recursos Educativos (Padre)</td>
+    <td>Como padre, quiero acceder a recursos educativos recomendados.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>US48</td>
+    <td>Gestión de Preferencias de Cuidado</td>
+    <td>Como padre, quiero gestionar mis preferencias de cuidado para asegurar que los cuidadores asignados cumplan con mis requisitos.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>US49</td>
+    <td>Programación de Actividades Especiales</td>
+    <td>Como padre, quiero programar actividades especiales para mis hijos.</td>
+    <td>3</td>
+  </tr>
+</tbody></table>
+
 # <font color="red">**Capítulo IV: Product Design**</font>
 
 ## **4.1. Style Guidelines**
