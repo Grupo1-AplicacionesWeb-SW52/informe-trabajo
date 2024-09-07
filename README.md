@@ -204,6 +204,16 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo1-AplicacionesW
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
 
+Edunest es una startup emergente en el sector del desarrollo tecnológico, enfocada en crear soluciones personalizadas y de alta calidad. Surgió a partir de la iniciativa de un grupo de ingenieros de software formados en la Universidad Peruana de Ciencias Aplicadas.
+
+Edunest se diferencia por su enfoque centrado en el cliente, trabajando en estrecha colaboración para identificar sus necesidades y ofrecer soluciones tecnológicas que se alineen con sus objetivos específicos.
+
+El equipo de Edunest está compuesto por desarrolladores, diseñadores creativos y analistas de negocios altamente capacitados, quienes colaboran estrechamente para crear soluciones escalables y a medida. Entre los servicios que ofrecen se encuentran el desarrollo de software personalizado, la creación de aplicaciones móviles y el diseño de sitios web. La empresa emplea tecnologías avanzadas y adopta un enfoque ágil en sus procesos, asegurando que las soluciones sean robustas, eficientes y flexibles. Además, Edunest proporciona soporte continuo y servicios de mantenimiento para asegurar el óptimo funcionamiento de las soluciones implementadas.
+
+**Visión:** La visión de Edunest es establecerse como un líder global en el desarrollo de software, ofreciendo soluciones a medida y de alta calidad que impulsen el éxito de empresas y organizaciones en todo el mundo.
+
+**Misión:** La misión de Edunest es crear y desarrollar soluciones tecnológicas innovadoras y adaptadas a las necesidades de sus clientes, contribuyendo al crecimiento y eficiencia de empresas en diversos sectores.
+
 ### **1.1.2. Perfiles de integrantes del equipo**
 ## **1.2. Solution Profile**
 
@@ -257,13 +267,17 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo1-AplicacionesW
 
 ### **1.2.2.3. Lean UX Hypothesis Statements**
 
-<ol>
-<li> <b>Creemos que</b> que los padres estarán satisfechos con la capacidad de buscar y seleccionar cuidadores verificados según sus necesidades específicas. <b>Sabremos que</b> esta afirmación sea cierta <b>cuando</b> observemos un alto índice de retención y repetición de reservas de servicios en la plataforma.
-</li>
-<li> <b>Creemos que</b> los cuidadores apreciarán la facilidad de uso de la plataforma para conectar con familias que requieren sus servicios. <b>Sabremos que</b> esta suposición es cierta cuando veamos un incremento en la cantidad de cuidadores registrados y activos en la plataforma.
-</li>
-<li> <b>Creemos que</b> la implementación de un proceso de verificación riguroso para los cuidadores mejorará la confianza de los padres en la plataforma. <b>Sabremos que</b> esta suposición es cierta cuando notemos una reducción en las consultas relacionadas con la seguridad y un aumento en el número de usuarios que completan el proceso de registro.
-</ol>
+1. Creemos que los padres estarán satisfechos con una plataforma que les permita acceder fácilmente a perfiles verificados de cuidadores y educadores, y que esta funcionalidad les ayudará a encontrar servicios personalizados que se ajusten a sus necesidades específicas. Sabremos que esta afirmación es cierta cuando observemos un alto índice de retención y un aumento en la frecuencia de uso de la plataforma para reservas y búsquedas de perfiles.
+
+2. Creemos que las niñeras estarán motivadas para registrarse y utilizar la plataforma si encuentran una audiencia amplia de familias que buscan servicios de cuidado infantil verificados. Sabemos que esta suposición es cierta cuando veamos un incremento en el número de niñeras registradas y activas en la plataforma.
+
+3. Creemos que los educadores valorarán la oportunidad de conectarse con familias que buscan apoyo educativo especializado a través de una plataforma fácil de usar. Sabemos que esta afirmación es cierta cuando observemos un aumento en el número de educadores registrados y activos en la plataforma.
+
+4. Creemos que la implementación de un proceso de verificación riguroso para cuidadores y educadores aumentará la confianza de los padres y educadores en la calidad y seguridad de los servicios ofrecidos. Sabemos que esta suposición es cierta cuando notemos una reducción en las consultas relacionadas con la seguridad y un aumento en el número de usuarios que completan el proceso de registro.
+
+5. Creemos que ofrecer actualizaciones en tiempo real sobre las actividades de los niños será un factor decisivo para los padres al elegir la plataforma. Sabemos que esta afirmación es cierta cuando observemos un alto nivel de satisfacción y una mayor adopción de esta funcionalidad por parte de los padres.
+
+6. Creemos que la inclusión de recursos educativos y herramientas de seguimiento del desarrollo infantil atraerá tanto a padres como a educadores, mejorando la retención en la plataforma. Sabemos que esta suposición es cierta cuando detectemos un uso continuo y frecuente de estos recursos por parte de ambos grupos.
 
 ### **1.2.2.4. Lean UX Canvas**
 
@@ -320,27 +334,35 @@ URL del repositorio de la Organizacion: <https://github.com/Grupo1-AplicacionesW
 
 ## **1.3. Segmentos objetivo**
 
-Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil permitiéndoles combinar sus responsabilidades laborales con la tranquilidad de saber que sus hijos están bien atendidos.Además, la plataforma también se dirige a cuidadores, tutores y educadores que desean expandir sus oportunidades laborales y generar ingresos a través de la prestación de servicios personalizados y verificados. A continuación, se presenta características demográficas relevantes y información estadística que respalda la importancia de cada segmento.
+Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil, así como a los cuidadores, niñeras y educadores que desean expandir sus oportunidades laborales. A continuación, se presentan las características demográficas relevantes y la información estadística que respalda la importancia de cada segmento.
 
-**1.Padres**
+1. Padres
 
-- Este segmento abarca a todos los padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil y la educacion para el hogar. Ademas, incluye a familias que buscan servicios de cuidado infantil y opciones educativas personalizadas en el hogar. 
+Este segmento incluye a todos los padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil y la educación en el hogar. También abarca a familias que desean servicios personalizados que se adapten a sus horarios y necesidades específicas.
 
-- #### Caracteristicas Demograficas
+  - Características Demográficas
     - Edad: 20-45 años.
     - Estado Civil: Casados, en pareja, o monoparentales.
-    - Motivaciones: Seguridad, conveniencia, eduación de calidad, flexibilidad del programa
+    - Motivaciones: Seguridad, conveniencia, educación de calidad, flexibilidad en el horario de cuidado y acceso a opciones educativas adaptadas a las necesidades de sus hijos.
+2. Niñeras
 
+Este segmento está compuesto por profesionales que trabajan como niñeras o cuidadoras infantiles. Buscan incrementar sus ingresos y expandir sus oportunidades laborales ofreciendo servicios de cuidado infantil de alta calidad. Estos profesionales valoran la flexibilidad que les permite gestionar su propio horario y trabajar en diferentes entornos.
 
-**2.Cuidadores (Niñeras y Tutores)**
+  - Características Demográficas
+    - Edad: 18-45 años.
+    - Educación: Varía desde secundaria completa hasta educación superior, con algunos poseyendo certificaciones específicas en cuidado infantil.
+    - Estado Civil: Casados, en pareja, o monoparentales.
+    - Motivaciones: Flexibilidad de horarios, la posibilidad de trabajar con familias que valoran sus habilidades, y establecer relaciones laborales estables y duraderas con las familias a las que prestan servicios.
+    
+3. Educadores
 
-- Este segmento está abarca a todas las personas que trabajan como niñeras, cuidadoras infantiles, o asistentes domésticas. Son profesionales que buscan incrementar sus ingresos y expandir sus oportunidades laborales ofreciendo servicios de cuidado infantil de alta calidad. Estos cuidadores suelen estar altamente motivados por la flexibilidad laboral que les permite manejar su propio horario y trabajar en diferentes entornos.
+Este segmento está conformado por profesionales de la educación que proporcionan apoyo académico y educativo en el hogar. Buscan oportunidades para conectar con familias que necesitan servicios educativos personalizados y verificados, y están interesados en expandir sus oportunidades laborales ofreciendo servicios especializados.
 
-- #### Caracteristicas Demograficas
-    - **Edad:** 18-45 años.
-    - **Educación:** Varía desde secundaria completa hasta educación superior, con algunos poseyendo certificaciones específicas en cuidado infantil.
-    - **Estado Civil:** Casados, en pareja, o monoparentales.
-    - **Motivaciones:** Flexibilidad de sus horarios, la posibilidad de trabajar con familias que valoran sus habilidades y para establecer relaciones laborales estables y duraderas con las familias a las que sirven.
+- Características Demográficas
+  - Edad: 22-50 años.
+  - Educación: Generalmente, educación superior en áreas relacionadas con la enseñanza, con algunos poseyendo certificaciones adicionales en educación especializada.
+  - Estado Civil: Casados, en pareja, o monoparentales.
+  - Motivaciones: Ofrecer educación personalizada y adaptada a las necesidades individuales de los estudiantes, acceder a una audiencia amplia de familias en busca de apoyo educativo, y tener flexibilidad en la programación de clases y tutorías.
 
 
 
@@ -540,9 +562,7 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 
 ## **5.1. Software Configuration Management**
 ### **5.1.1. Software Development Environment Configuration**
-### **5.1.2. Source Code Management**
-### **5.1.3. Source Code Style Guide & Conventions**
-### **5.1.4. Software Deployment Configuration**
+
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
