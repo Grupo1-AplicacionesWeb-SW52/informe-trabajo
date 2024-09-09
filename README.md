@@ -790,6 +790,9 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
+<p align="center"> 
+  <img src="Images/Class%20Diagrams%20CareNest.png" alt="tipografia" width="100%"> 
+</p>
 ### **4.7.2. Class Dictionary**
 
 ## **4.8. Database Design**
