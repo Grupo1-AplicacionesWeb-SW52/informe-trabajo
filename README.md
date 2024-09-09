@@ -762,6 +762,11 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
   <img src="Images/Chat%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
 </p>
 
+**Appointment Context Component Diagram**
+<p align="center"> 
+  <img src="Images/Appointment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
+</p>
+
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
 ### **4.7.2. Class Dictionary**
