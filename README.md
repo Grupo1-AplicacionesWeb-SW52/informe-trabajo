@@ -725,9 +725,27 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
+El wireframe de la landing page para Desktop y Mobile se diseñó aplicando principios de claridad y simplicidad, priorizando la navegación fácil y eficiente. Se destacan las siguientes secciones:
+
+- **Barra de navegación** con enlaces clave y un botón de "Register".
+- **Hero Section** con título impactante, subtítulo y una imagen complementaria.
+- **Beneficios** con texto alternado con imágenes.
+- **Testimonios** para generar confianza.
+- **Secciones "About Us" y "Plans"**, y un **footer** con enlaces rápidos y redes sociales.
+
+El diseño inclusivo asegura accesibilidad mediante tipografía legible, buen contraste de colores, y una estructura clara.
+
 ![Landing-PAge-Wireframe](Images/LandingPage-Wireframe.png)
 
 ### **4.3.2. Landing Page Mock-up**
+El mock-up implementa los elementos visuales definidos en el Design System:
+
+- **Tipografía y colores** de la paleta `#DEEFE7`, `#FFFFFF`, `#002333`, y `#149A9B` con fuentes Poppins.
+- **Imágenes** que refuerzan la propuesta de valor emocional.
+- **Diseño responsive** optimizado para móviles.
+- **Diseño inclusivo** con buen contraste, tipografía accesible, y opción de cambio de idioma.
+
+El mock-up resalta la experiencia de usuario con un diseño visual atractivo y funcional.
 ![Landing-Page-Mockup](Images/landing-page-mockup.png)
 
 ## **4.4. Web Applications UX/UI Design**
