@@ -725,7 +725,10 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
+![Landing-PAge-Wireframe](Images/LandingPage-Wireframe.png)
+
 ### **4.3.2. Landing Page Mock-up**
+![Landing-Page-Mockup](Images/landing-page-mockup.png)
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
