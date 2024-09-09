@@ -740,8 +740,35 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
+<p align="center">
+  <img src="Images/Software%20Architecture%20Context%20Diagram.jpg" alt="tipografia" width="100%">
+</p>
+
 ### **4.6.2. Software Architecture Container Diagrams**
+<p align="center">
+  <img src="Images/Software%20Architecture%20Container%20Diagrams.jpg" alt="tipografia" width="100%">
+</p>
+
 ### **4.6.3. Software Architecture Components Diagrams**
+**Payment Context Component Diagram**
+<p align="center">
+  <img src="Images/Payment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
+  </p>
+
+**User Profile Context Component Diagram**
+<p align="center">
+  <img src="Images/User%20Profile%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
+  </p>
+
+**Chat Context Component Diagram**
+<p align="center"> 
+  <img src="Images/Chat%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
+</p>
+
+**Appointment Context Component Diagram**
+<p align="center"> 
+  <img src="Images/Appointment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
+</p>
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
