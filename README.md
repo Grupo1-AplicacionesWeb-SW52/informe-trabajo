@@ -752,6 +752,11 @@ Estos sistemas de navegación están diseñados para asegurar una experiencia fl
   <img src="Images/Payment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
   </p>
 
+**User Profile Context Component Diagram**
+<p align="center">
+  <img src="Images/https://raw.githubusercontent.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo/feat/chapter-4/Images/User%20Profile%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
+  </p>
+
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
 ### **4.7.2. Class Dictionary**
