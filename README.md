@@ -1243,19 +1243,251 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 # <font color="red">**Capítulo IV: Product Design**</font>
 
 ## **4.1. Style Guidelines**
+En esta sección, establecemos las bases para un repositorio centralizado y organizado, accesible para todo el equipo. Este repositorio incluye assets, tipografías, y otros recursos necesarios para asegurar una presentación consistente y enfocada a lo largo del proyecto.
+
 ### **4.1.1. General Style Guidelines**
+En esta sección, establecemos los lineamientos generales de diseño que guiarán la identidad visual de nuestra plataforma. Estos lineamientos están diseñados para asegurar que cada elemento de nuestra interfaz transmita la personalidad y valores de la marca **Care Nest**, orientada a ofrecer soluciones confiables y flexibles para el cuidado infantil.
+
+### **Branding:**
+Nuestra marca combina seriedad y casualidad, buscando transmitir seguridad, confianza y sabiduría. Estos valores están alineados con nuestro objetivo de proporcionar un entorno seguro tanto para los padres y tutores como para los cuidadores que utilizan nuestra plataforma.
+
+![Safe Child Logo](Images/Carenest_logo.jpeg)
+
+### **Typography:**
+Para la tipografía, hemos elegido **Poppins** en sus variantes bold, medium, y regular. Esta fuente será utilizada en todo el proyecto para mantener la coherencia visual. Los tamaños de fuente se definirán más adelante.
+
+![Safe Child Logo](Images/Poppins.png)
+### **Colors:**
+La paleta de colores de nuestra plataforma se compone de:
+- **DEEFE7** y **FFFFFF** como colores de fondo para las secciones de la landing page.
+- **002333** para los textos grandes.
+- **149A9B** para los textos más pequeños.
+
+Estos colores han sido seleccionados para transmitir un sentido de seguridad y confianza, complementando la personalidad de la marca.
+
+![Safe Child Logo](Images/ColorsPalette.jpeg)
+### **Tono de Comunicación:**
+El tono de comunicación de nuestra plataforma será serio pero accesible, transmitiendo seguridad y confianza. Utilizaremos un lenguaje claro y directo, evitando tecnicismos innecesarios.
+
+Estos principios y elementos de diseño serán la base para todas las decisiones visuales y de branding que tomemos a lo largo del desarrollo de nuestro proyecto.
+
 ### **4.1.2. Web Style Guidelines**
+En esta sección, se describen los estándares visuales y de interacción que se aplicarán a las interfaces web responsivas de **Care Nest**. Estos lineamientos aseguran que la experiencia del usuario sea coherente y accesible, independientemente del dispositivo o tamaño de pantalla.
+
+#### **Responsive Typography:**
+La tipografía utilizada en **Care Nest** se adaptará fluidamente a diferentes tamaños de pantalla para mantener la legibilidad y consistencia visual. A continuación, se definen las reglas de adaptación para los tamaños de texto:
+- **Encabezados:** Los encabezados utilizarán la tipografía **Poppins** y se escalarán en relación al tamaño de la pantalla. El tamaño inicial irá aumentando o disminuyendo proporcionalmente en tabletas, celulares y desktops.
+- **Cuerpo de Texto:** El cuerpo del texto también utilizará **Poppins** con un tamaño base de **16 px** en dispositivos móviles, ajustándose de manera fluida en pantallas más grandes.
+
+#### **Color Usage:**
+La paleta de colores será consistente en todas las versiones de la interfaz web, asegurando que los colores seleccionados para los textos y fondos se adapten bien a los cambios de tamaño de pantalla. Se respetarán las siguientes reglas:
+- **Contraste:** El contraste entre el texto y el fondo será alto para mejorar la legibilidad, especialmente en dispositivos móviles donde la luz ambiental puede variar.
+
+#### **Spacing and Layout:**
+El espaciado y la disposición de los elementos se ajustarán dinámicamente para garantizar que la interfaz sea clara y fácil de usar en todas las resoluciones. Las principales reglas de espaciado incluyen:
+- **Padding y Margen:** El padding y margen se establecerán en unidades relativas (como em o rem) para mantener la proporción entre diferentes tamaños de pantalla.
+- **Grid System:** Se implementará un sistema de grilla fluido que permita que los elementos se reorganicen de manera natural conforme cambie el ancho de la pantalla, manteniendo una estructura equilibrada y consistente.
+
+#### **Responsive Interactions:**
+Las interacciones en la plataforma **Care Nest** estarán optimizadas tanto para dispositivos táctiles como no táctiles. Algunas de las consideraciones incluyen:
+- **Touch Targets:** Los elementos interactivos tendrán áreas táctiles suficientemente grandes para evitar errores de interacción en dispositivos móviles.
+- **Gestos y Animaciones:** Los gestos comunes (como deslizar y tocar) serán soportados en dispositivos táctiles, y las animaciones serán ligeras para garantizar una experiencia rápida y responsiva en todos los dispositivos.
+
+Estos lineamientos aseguran que la experiencia de usuario en **Care Nest** sea intuitiva y consistente en cualquier dispositivo, apoyando la misión de nuestra plataforma de ofrecer una solución confiable y accesible para el cuidado infantil.
 
 ## **4.2. Information Architecture**
+En esta sección, definimos las decisiones clave que guiarán la arquitectura de la información en **Care Nest**, abarcando tanto la landing page como las aplicaciones web y móviles. Nuestro objetivo es asegurar que los usuarios puedan navegar fácilmente por la plataforma y encontrar la información o funcionalidad que necesitan sin esfuerzo.
+
 ### **4.2.1. Organization Systems**
+En esta sección, explicamos los sistemas de organización que aplicaremos a los diferentes grupos de información en **Care Nest**. La organización del contenido se basa en esquemas que optimizan la experiencia del usuario, permitiendo un acceso rápido y sencillo a la información relevante.
+
+#### **Visual Hierarchy (Jerarquía Visual)**
+La jerarquía visual es el enfoque principal para organizar la información en la landing page. Esto asegura que los elementos más importantes capten la atención del usuario de inmediato.
+
+- **Header:**
+  - Colocaremos el logotipo de **Care Nest** junto con el menú de navegación principal en la parte superior de la página. Estos elementos servirán como el primer punto de contacto visual, estableciendo la identidad de la marca y proporcionando acceso a secciones clave como "Sobre Nosotros", "Servicios", y "Contacto".
+
+- **Secciones Principales:**
+  - La landing page se organizará en secciones jerárquicas claras, comenzando con una imagen destacada y un mensaje que comunica el valor principal de **Care Nest**.
+  - A continuación, se presentará información sobre los servicios ofrecidos, beneficios de la plataforma, y testimonios de usuarios, todo en un orden lógico que guía a los visitantes a través de la página.
+
+- **Call to Action (Llamada a la Acción):**
+  - Las llamadas a la acción, como "Regístrate" o "Conoce Más", serán destacadas mediante un diseño visual que resalte sobre el resto del contenido, motivando a los visitantes a interactuar con la plataforma.
+
+- **Footer:**
+  - El pie de página incluirá información de contacto, enlaces a redes sociales, y un mapa del sitio, organizado de manera que no distraiga de los elementos principales pero siga siendo accesible.
+
+#### **Sequential Organization (Organización Secuencial)**
+Aunque la landing page no implica pasos secuenciales complejos, aplicaremos una organización secuencial en el flujo de contenido para guiar a los usuarios a través de la información de manera lógica.
+
+- **Exploración de Servicios:** Los visitantes serán guiados de forma secuencial desde una introducción general sobre **Care Nest**, pasando por una explicación de los servicios, hasta llegar a las opciones para registrarse o contactar a la empresa.
+- **Navegación Fluida:** La estructura de la página facilitará una navegación fluida, donde los usuarios puedan seguir un flujo natural desde la parte superior hasta el final, con la posibilidad de saltar a secciones específicas mediante el menú de navegación.
+
+#### **Categorization Schemes (Esquemas de Categorización)**
+En la landing page, utilizaremos un esquema de categorización por tópicos para organizar la información de manera que los visitantes puedan encontrar rápidamente lo que buscan.
+
+- **Por Tópicos:** El contenido estará dividido en secciones temáticas como "Sobre Nosotros", "Servicios", y "Planes", permitiendo a los usuarios acceder fácilmente a la información relevante para sus necesidades.
+
+Estos sistemas de organización han sido seleccionados para asegurar que la arquitectura de la información en la landing page de **Care Nest** sea clara, intuitiva, y eficiente, proporcionando una experiencia de usuario agradable desde el primer contacto.
+
 ### **4.2.2. Labeling Systems**
+
+En esta sección, explicamos cómo representaremos los datos en la landing page de **Care Nest** mediante un sistema de etiquetado claro y conciso. Nuestro objetivo es garantizar que los visitantes comprendan fácilmente la información presentada y puedan navegar por la página sin confusión.
+
+#### **Principios de Etiquetado**
+
+- **Simplicidad:** Las etiquetas se mantendrán breves y directas, utilizando el menor número de palabras posible para transmitir la información de manera clara.
+- **Claridad:** Cada etiqueta será descriptiva y específica, evitando términos ambiguos que puedan llevar a malentendidos.
+- **Consistencia:** Usaremos un estilo de etiquetado uniforme en toda la página para mantener la coherencia y ayudar a los visitantes a familiarizarse rápidamente con el contenido.
+
+#### **Etiquetas y Asociaciones**
+
+- **Header:**
+  - **Logo:** El logotipo de **Care Nest** estará etiquetado claramente como "Care Nest", asegurando que los visitantes identifiquen la marca de inmediato.
+  - **Menú de Navegación:** Las opciones del menú se etiquetarán con términos simples y descriptivos como "Inicio", "Servicios", "Sobre Nosotros", "Planes", y "Contacto". Esto permitirá a los visitantes encontrar rápidamente la información que buscan.
+
+- **Secciones Principales:**
+  - **Inicio:** La sección de inicio estará claramente etiquetada para destacar el valor principal de **Care Nest**, con una etiqueta como "Bienvenido a Care Nest" o "Tu Solución de Cuidado Infantil".
+  - **Servicios:** Esta sección estará etiquetada como "Servicios", y cada servicio individual se identificará con nombres descriptivos como "Cuidado Infantil", "Educadores Capacitados", y "Atención Personalizada".
+  - **Beneficios:** Se etiquetará como "Beneficios", destacando las ventajas de utilizar **Care Nest**.
+  - **Planes:** Esta sección estará etiquetada como "planes" y mostrará los diferentes planes de suscripción para Care Nest.
+
+- **Call to Action (Llamada a la Acción):**
+  - **Botones de Acción:** Los botones de llamada a la acción estarán etiquetados con frases claras y motivadoras como "Regístrate Ahora", "Descubre Más", y "Contáctanos", facilitando la interacción con la plataforma.
+
+- **Footer:**
+  - **Información de Contacto:** La sección de contacto en el pie de página llevará etiquetas como "Contacto" y "Redes Sociales", para que los visitantes puedan encontrar fácilmente formas de comunicarse con **Care Nest** o seguirnos en redes sociales.
+
+Estas etiquetas han sido diseñadas para mejorar la accesibilidad y la usabilidad de la landing page de **Care Nest**, asegurando que la información sea fácilmente comprensible y navegable para todos los visitantes.
+
 ### **4.2.3. SEO Tags and Meta Tags**
+
+En esta sección, detallamos los SEO Tags y Meta Tags que se aplicarán a la landing page de **Care Nest** para optimizar su visibilidad en los motores de búsqueda y mejorar la experiencia del usuario.
+
+#### **Landing Page**
+
+**Title Tag:**
+- **Valor:** "Care Nest - Soluciones de Cuidado Infantil Confiables y Flexibles"
+- **Descripción:** El título es conciso y describe claramente el propósito de la plataforma, integrando palabras clave relevantes para SEO.
+
+**Meta Description:**
+- **Valor:** "Care Nest ofrece soluciones confiables y flexibles para el cuidado infantil, ayudando a padres y tutores a equilibrar sus responsabilidades laborales con la tranquilidad de saber que sus hijos están bien atendidos. Descubre nuestros servicios personalizados."
+- **Descripción:** La descripción proporciona un resumen atractivo de la plataforma, utilizando palabras clave relevantes para mejorar el ranking en los motores de búsqueda.
+
+**Meta Keywords:**
+- **Valor:** "cuidado infantil, soluciones de cuidado, cuidado flexible, servicios para padres, educación infantil, cuidado de niños, plataforma de cuidado infantil"
+- **Descripción:** Las palabras clave están seleccionadas para captar los términos de búsqueda relevantes para la plataforma y atraer a los usuarios interesados en el cuidado infantil.
+
+**Meta Author:**
+- **Valor:** "Care Nest Team"
+- **Descripción:** Indica el autor del contenido de la página, en este caso, el equipo detrás de **Care Nest**.
+
+**Meta Robots:**
+- **Valor:** "index, follow"
+- **Descripción:** Permite a los motores de búsqueda indexar la página y seguir los enlaces en ella, facilitando la visibilidad en los resultados de búsqueda.
+
+**Meta Viewport:**
+- **Valor:** "width=device-width, initial-scale=1.0"
+- **Descripción:** Asegura que la página sea responsive y se adapte adecuadamente a diferentes tamaños de pantalla y dispositivos.
+
+Estos SEO Tags y Meta Tags están diseñados para mejorar la visibilidad de la landing page de **Care Nest** en los motores de búsqueda y proporcionar una experiencia de usuario optimizada.
+
 ### **4.2.4. Searching Systems**
+
+En esta sección, describimos cómo facilitaremos la búsqueda de información dentro de **Care Nest** para que los usuarios puedan encontrar lo que necesitan de manera rápida y eficiente. Dado que la landing page de **Care Nest** no contará con una barra de búsqueda, nos enfocaremos en otros métodos para presentar y organizar la información de manera efectiva.
+
+#### **Sistema de Navegación en la Landing Page**
+
+**Navegación Clara y Estructurada:**
+- **Menú de Navegación Principal:** La landing page incluirá un menú de navegación claro y bien estructurado en la parte superior, que permitirá a los usuarios acceder a las secciones principales del sitio, como "Servicios", "Acerca de Nosotros" y "Contacto".
+- **Enlaces Internos:** Enlaces estratégicamente ubicados dentro del contenido para dirigir a los usuarios a las secciones relevantes del sitio.
+
+**Contenido Destacado:**
+- **Secciones Destacadas:** La landing page presentará secciones destacadas con información clave, como los beneficios del servicio y planes, para guiar a los usuarios hacia la información más relevante sin necesidad de una búsqueda específica.
+
+**Visualización de Contenido:**
+- **Diseño Visual Atractivo:** Utilizaremos un diseño visual que facilite la navegación intuitiva, con llamados a la acción claros y botones visibles para que los usuarios encuentren la información que buscan de manera natural.
+
+#### **Sistema de Búsqueda en la Aplicación Web (futuro)**
+
+Para la futura aplicación web, implementaremos un sistema de búsqueda más avanzado que permita a los usuarios encontrar información específica de manera eficiente.
+
+**Barra de Búsqueda:**
+- **Ubicación:** En la parte superior de la interfaz de usuario.
+- **Funcionalidad:** Permitirá buscar entre diversos recursos y servicios específicos de la aplicación.
+
+**Filtros de Búsqueda:**
+- **Filtros Disponibles:** Los usuarios podrán aplicar filtros como categoría de servicio, ubicación, disponibilidad y valoración para refinar los resultados.
+
+**Resultados de Búsqueda:**
+- **Presentación:** Resultados organizados en formato de lista o cuadrícula con detalles adicionales y coincidencias destacadas.
+
+Estos sistemas de búsqueda y navegación están diseñados para mejorar la experiencia del usuario, garantizando que la landing page sea clara y fácil de usar, mientras que la futura aplicación web ofrecerá funcionalidades de búsqueda avanzadas.
+
 ### **4.2.5. Navigation Systems**
+
+En esta sección, describimos las acciones y técnicas que guiarán a los usuarios a través de **Care Nest**, asegurando que puedan cumplir sus objetivos e interactuar de manera satisfactoria con el producto. La navegación debe ser intuitiva y eficiente, facilitando el acceso a la información y funcionalidades clave.
+
+#### **Sistema de Navegación en la Landing Page**
+
+**Menú de Navegación Principal:**
+- **Ubicación y Diseño:** El menú de navegación estará ubicado en la parte superior de la landing page, visible en todo momento. Utilizaremos un diseño fijo y claro para asegurar que los usuarios puedan acceder a cualquier sección en cualquier momento.
+- **Secciones del Menú:** Incluirá enlaces a las secciones principales del sitio como "Servicios", "Acerca de Nosotros" y "Contacto". Estos enlaces estarán organizados de manera lógica para facilitar el acceso a la información relevante.
+
+**Llamados a la Acción (CTAs):**
+- **Botones Destacados:** Utilizaremos botones de llamados a la acción visibles y atractivos para guiar a los usuarios hacia las acciones deseadas, como "Solicitar Información", "Registrarse", o "Ver Servicios". Estos botones estarán ubicados en lugares estratégicos a lo largo de la página para maximizar la visibilidad.
+
+**Organización del Contenido:**
+- **Diseño en Secciones:** La landing page estará organizada en secciones claramente delimitadas, cada una con un encabezado y un propósito específico. Esto permitirá a los usuarios navegar de manera fluida a través del contenido, entendiendo rápidamente la estructura del sitio.
+- **Enlaces Internos:** Incluirá enlaces internos dentro del contenido para dirigir a los usuarios a partes específicas de la página o a otras secciones relacionadas.
+
+**Indicadores de Progreso:**
+- **Desplazamiento y Anclajes:** Utilizaremos indicadores visuales y anclajes para ayudar a los usuarios a entender dónde se encuentran dentro de la página y facilitar el desplazamiento entre secciones importantes.
+
+#### **Sistema de Navegación en la Aplicación Web (futuro)**
+
+**Barra de Navegación:**
+- **Ubicación y Diseño:** En la parte superior o lateral de la interfaz, proporcionará acceso a todas las secciones importantes de la aplicación, como "Perfil", "Mis Servicios", "Mensajes", y "Configuración".
+- **Menú Desplegable:** Se implementará un menú desplegable para organizar las opciones de navegación de manera compacta y accesible.
+
+**Navegación Basada en Roles:**
+- **Acceso a Funcionalidades:** La navegación se ajustará según el rol del usuario (por ejemplo, padres, cuidadores). Los usuarios tendrán acceso a las funcionalidades y datos relevantes para su perfil específico.
+
+**Sistema de Páginas y Subpáginas:**
+- **Estructura Jerárquica:** La aplicación web tendrá una estructura de páginas y subpáginas para organizar la información y servicios. Los usuarios podrán navegar a través de secciones principales y acceder a detalles adicionales según sus necesidades.
+
+**Asistencia y Orientación:**
+- **Ayuda Contextual:** Ofreceremos ayuda contextual y tutoriales dentro de la aplicación para guiar a los usuarios en el uso de las funcionalidades y la navegación a través de la interfaz.
+
+**Indicadores de Navegación:**
+- **Breadcrumbs y Menú de Navegación:** Implementaremos breadcrumbs (migas de pan) y un menú de navegación claro para ayudar a los usuarios a seguir su camino a través de la aplicación y retroceder si es necesario.
+
+Estos sistemas de navegación están diseñados para asegurar una experiencia fluida y eficiente tanto en la landing page como en la futura aplicación web, permitiendo a los usuarios interactuar con el contenido y alcanzar sus objetivos de manera satisfactoria.
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
+El wireframe de la landing page para Desktop y Mobile se diseñó aplicando principios de claridad y simplicidad, priorizando la navegación fácil y eficiente. Se destacan las siguientes secciones:
+
+- **Barra de navegación** con enlaces clave y un botón de "Register".
+- **Hero Section** con título impactante, subtítulo y una imagen complementaria.
+- **Beneficios** con texto alternado con imágenes.
+- **Testimonios** para generar confianza.
+- **Secciones "About Us" y "Plans"**, y un **footer** con enlaces rápidos y redes sociales.
+
+El diseño inclusivo asegura accesibilidad mediante tipografía legible, buen contraste de colores, y una estructura clara.
+
+![Landing-PAge-Wireframe](Images/LandingPage-Wireframe.png)
+
 ### **4.3.2. Landing Page Mock-up**
+El mock-up implementa los elementos visuales definidos en el Design System:
+
+- **Tipografía y colores** de la paleta `#DEEFE7`, `#FFFFFF`, `#002333`, y `#149A9B` con fuentes Poppins.
+- **Imágenes** que refuerzan la propuesta de valor emocional.
+- **Diseño responsive** optimizado para móviles.
+- **Diseño inclusivo** con buen contraste, tipografía accesible, y opción de cambio de idioma.
+
+El mock-up resalta la experiencia de usuario con un diseño visual atractivo y funcional.
+![Landing-Page-Mockup](Images/landing-page-mockup.png)
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
@@ -1267,15 +1499,105 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
+<p align="center">
+  <img src="Images/Software%20Architecture%20Context%20Diagram.jpg" alt="tipografia" width="100%">
+</p>
+
 ### **4.6.2. Software Architecture Container Diagrams**
+<p align="center">
+  <img src="Images/Software%20Architecture%20Container%20Diagrams.jpg" alt="tipografia" width="100%">
+</p>
+
 ### **4.6.3. Software Architecture Components Diagrams**
+**Payment Context Component Diagram**
+<p align="center">
+  <img src="Images/Payment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
+  </p>
+
+**User Profile Context Component Diagram**
+<p align="center">
+  <img src="Images/User%20Profile%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
+  </p>
+
+**Chat Context Component Diagram**
+<p align="center"> 
+  <img src="Images/Chat%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
+</p>
+
+**Appointment Context Component Diagram**
+<p align="center"> 
+  <img src="Images/Appointment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
+</p>
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
+**Link: https://lucid.app/lucidchart/88db94c2-09b6-49af-a324-6110a192c788/edit?viewport_loc=-1158%2C-1328%2C5193%2C2463%2C0_0&invitationId=inv_52f56317-6d9f-4f85-888e-c4197b3e3193**
+<p align="center"> 
+  <img src="Images/Class%20Diagrams%20CareNest.png" alt="tipografia" width="100%"> 
+</p>
+
 ### **4.7.2. Class Dictionary**
+
+A continuación, se presentan las clases principales del diagrama de clases:
+
+<table border="1">
+  <thead>
+    <tr>
+      <th><strong>Clase</strong></th>
+      <th><strong>Descripción</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Account</strong></td>
+      <td>Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como Padre y Cuidador. Contiene atributos como nombre, email, contraseña y teléfono. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios.</td>
+    </tr>
+    <tr>
+      <td><strong>Padre</strong></td>
+      <td>Hereda de la clase Usuario. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional relacionada a su perfil de contratación y gestión de hijos.</td>
+    </tr>
+    <tr>
+      <td><strong>Cuidador</strong></td>
+      <td>Hereda de la clase Usuario. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como experiencia, calificación, verificación (booleano) y disponibilidad, que son específicos de los cuidadores.</td>
+    </tr>
+    <tr>
+      <td><strong>Child</strong></td>
+      <td>Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un Padre y tiene atributos como name y age. Permite asociar cada hijo con las Sesiones de cuidado o educativas en las que participa.</td>
+    </tr>
+    <tr>
+      <td><strong>Session</strong></td>
+      <td>Representa cada sesión de cuidado o educación que tiene lugar entre un Cuidador y uno o más Hijos. Incluye atributos como date, duration y descripción de la sesión. Es importante para realizar un seguimiento de las interacciones.</td>
+    </tr>
+    <tr>
+      <td><strong>DevelopmentReport</strong></td>
+      <td>Clase que almacena reportes generados por el Cuidador sobre el progreso del niño o cualquier incidencia durante la sesión. Contiene atributos como detail, date y developmentHistory. Proporciona un mecanismo de retroalimentación a los padres.</td>
+    </tr>
+    <tr>
+      <td><strong>EducationalResource</strong></td>
+      <td>Representa los recursos educativos que un Cuidador ofrece durante las sesiones. Incluye atributos como materia, category y type (e.g., libros, videos). Permite la gestión de materiales educativos y su asignación a las sesiones.</td>
+    </tr>
+    <tr>
+      <td><strong>Payment Facade</strong></td>
+      <td>Representa la información de los pagos realizados por el Padre a un Cuidador. Contiene atributos como fecha_pago, monto y método de pago. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.</td>
+    </tr>
+    <tr>
+      <td><strong>AppointmentFee</strong></td>
+      <td>Tarifa que se tendrá que pagar por cada sesión. Tiene atributos como feeAmount (cantidad de la tarifa), taxAmount (cantidad de impuestos aplicables a la tarifa), discountAmount (cualquier descuento aplicable), paymentDate (Fecha en la que se generó la tarifa).</td>
+    </tr>
+    <tr>
+      <td><strong>ChatSession</strong></td>
+      <td>Clase dedicada al chat de la sesión realizada. Contiene atributos como messages, attachments que están relacionados con la lista y archivos adjuntos de los mensajes enviados durante la sesión.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
+**Link: https://dbdiagram.io/d/66dfbed4550cd927eab1cd37**
+<p align="center"> 
+  <img src="Images/database%20diagram.png" alt="tipografia" width="100%"> 
+</p>
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
