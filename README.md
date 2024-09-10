@@ -852,6 +852,9 @@ A continuación, se presentan las clases principales del diagrama de clases:
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
+<p align="center"> 
+  <img src="Images/database%20diagram.png" alt="tipografia" width="100%"> 
+</p>
 
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
