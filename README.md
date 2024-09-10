@@ -580,6 +580,13 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
 - **Conclución:** Rodrigo, un profesor de programación de 25 años que también se dedica a estructurar las tareas y la rutina diaria de sus alumnos para fomentar la responsabilidad, destaca la necesidad de una aplicación que le permita gestionar de manera más eficiente las tareas asignadas. Le gustaría contar con una herramienta que facilite la búsqueda y organización de actividades según las edades y necesidades específicas de los niños, lo cual mejoraría significativamente su labor educativa y la experiencia de aprendizaje de sus alumnos.
 - **Evidencia:** ![image](https://github.com/user-attachments/assets/6de949a4-4445-4caf-b763-b2a79532d420)
 
+**d) Henry Sosa**
+- **Ocupación:** Electricista / Padre de familia
+- **Duración de la entrevista:** 11' 11''
+- **Interés de servicio:** Henry es una electricista que por temas de trabajo no puede estar siempre viendo el progreso y cuidado de sus hijos. Le parece una buena idea que existiera un servicio de cuidado infantil y de aprendizaje que sea confiable y seguro. No participa en grupos de padres porque no tiene tiempo debido a su trabajo. Nos comenta que le gustaría un aplicativo que haga seguimientos constantes a sus hijos, ya que sería ideal tener el progreso constante de ellos. Además, hace enfasis en la importancia de la metodología de enseñanza de los tutores para que sus hijos aprendan y entiendan rapidamente los temas. Finalmente, también le parece muy importante la certificación y experiencia de dicho tutor o cuidador.
+- **Conclusión:** Henry es una señor que valora mucho la responsabilidad y dinamismo de las personas, es por ello que requiere que los cuidadores y profesores que presten sus servicio sean pacientes, tengan mucho respeto por sus hijos y que usen metodologías innovadoras para que sus hijos aprendan correctamente.
+- **Evidencia:** ![image](https://github.com/user-attachments/assets/0965bce4-0c77-44e4-96f6-65a901e87e1f)
+
 #### Segmento Objetivo 2: Cuidadores
 **a) Angela Becerra**
 
@@ -600,7 +607,7 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
 - **Ocupación:** Niñera
 - **Duración de la entrevista:**  3' 26''
 - **Interés de servicio:**   Nos comenta que participa continuamente en grupos de niñera de facebook e instagram para estar al tanto de los servicios. Es una persona con paciencia y muy asertiva en su trabajo. Desaría tener una aplicación con la que se pueda comunicar y tener una mayor relación con los padres de los niños y estar al tanto de los servicios que pueda brindar.
-- **Conclución:** Nos comenta que participa activamente en grupos de niñeras en Facebook e Instagram para mantenerse informada sobre los servicios disponibles. Se describe como una persona paciente y asertiva en su trabajo, y expresa su deseo de contar con una aplicación que le permita comunicarse de manera más efectiva con los padres de los niños y fortalecer la relación con ellos. Además, busca una herramienta que le facilite estar al tanto de los servicios que puede ofrecer, optimizando así su labor como niñera.
+- **Conclusión:** Nos comenta que participa activamente en grupos de niñeras en Facebook e Instagram para mantenerse informada sobre los servicios disponibles. Se describe como una persona paciente y asertiva en su trabajo, y expresa su deseo de contar con una aplicación que le permita comunicarse de manera más efectiva con los padres de los niños y fortalecer la relación con ellos. Además, busca una herramienta que le facilite estar al tanto de los servicios que puede ofrecer, optimizando así su labor como niñera.
 - **Evidencia:** ![Elismar](https://github.com/user-attachments/assets/c5293c3f-94c8-4702-b2d1-f4015458fe28)
   
 ### **2.2.3. Análisis de entrevistas**
