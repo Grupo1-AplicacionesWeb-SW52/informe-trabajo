@@ -853,7 +853,7 @@ A continuación, se presentan las clases principales del diagrama de clases:
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
-**link: Link: https://dbdiagram.io/d/66dfbed4550cd927eab1cd37**
+**Link: https://dbdiagram.io/d/66dfbed4550cd927eab1cd37**
 <p align="center"> 
   <img src="Images/database%20diagram.png" alt="tipografia" width="100%"> 
 </p>
