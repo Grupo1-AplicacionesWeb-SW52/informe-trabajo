@@ -555,6 +555,26 @@ A continuacion presentamos a nuestros tres principales competidores:
   9. ¿Qué tan importante es para usted la posibilidad de trabajar en diferentes entornos y con diferentes familias?
 
 ### **2.2.2. Registro de entrevistas**
+UTL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113612_upc_edu_pe/Ed3i7P69WytLlYzZRHP9jj0B0wvwf8CnMgZPHOuObm32UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cR1aF0 
+
+#### Segmento Objetivo 1: Padres o Tutores
+**a) Bertha de la Cruz**
+
+- **Ocupación:** Comerciante
+- **Duración de entrevista:** 4'10''
+- **Interés de servicio:** Cree que un servicio de cuidado infantil le ayudaría con la labor de cuidar de sus hijos, debido a que no cuenta con el tiempo suficiente para estar al pendiente de ellos. Además, requiere  que la persona que le ayude con la labor sea ética.
+- **Conclución:** Bertha es una señora que valora mucho la educación y ética de las personas, por ello requiere que los cuidadores que presten su servicio sean pacientes y tengan mucho respeto por sus hijos.
+- **Evidencia:** ![bertha de la cruz](https://github.com/user-attachments/assets/7dad2bd4-977f-403a-b960-d2337a51720c)
+
+#### Segmento Objetivo 2: Cuidadores
+**a) Angela Becerra**
+- **Ocupación:** Diseño gráfico / administración de empresas
+- **Duración de la entrevista:** 6'11''
+- **Interés de servicio:** Angela es una estudiante de administración de empresas que ha trabajado de niñera y nos cuenta su experiencia. Sugiere que le vendría bien una aplicación que le ayude con la labor de niñera, debido que la información de trabajo solo la encuentra por conocidos. Es una persona muy comunicativa y con mucha paciencia.
+- **Conclución:** Ángela, una estudiante de administración de empresas con experiencia como niñera, destaca la importancia de contar con una aplicación que facilite la búsqueda de empleos en este campo, ya que actualmente depende de contactos personales para obtener oportunidades.
+- **Evidencia:** ![Angela Becerra](https://github.com/user-attachments/assets/96c88beb-f850-4640-b868-044aa1524b0c)
+
+
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
@@ -680,7 +700,27 @@ En este apartado se presentan dos *user personas* que representan a los usuarios
 
 ### **2.3.5. As-is Scenario Mapping**
 
+**As-Is Scenario map del segmento 1: Carlos Martinez***
+![As-IsScenarioMappingCarlosMartinez](https://github.com/user-attachments/assets/fcf35123-2297-4213-ac23-add5e022724b)
+https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
+
+**As-Is Scenario map del segmento 2: Ana García***
+![As-IsScenarioMappingAnaGarcía](https://github.com/user-attachments/assets/1366ddb7-057a-4061-b1dd-9afeaf2e4aea)
+https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
+
 ## **2.4. Ubiquitous Language**
+
+En esta sección, presentaremos el lenguaje ubicuo, una herramienta clave para establecer un vocabulario común y preciso que facilita la comunicación entre los miembros del equipo de desarrollo y los stakeholders. Este lenguaje ayuda a asegurar que todos compartan una comprensión clara y consensuada de los conceptos y términos esenciales del proyecto.
+
+- **Cuidador:** Persona encargada de brindar cuidado y educación a los niños en el hogar.
+- **Tutor:** Persona encargada de brindar apoyo educativo y asistencia en tareas escolares a los niños en el hogar.
+- **Padre de familia:** Persona responsable de la crianza y educación de los niños en el hogar.
+- **Niño:** Persona menor de edad que recibe cuidado y educación en el hogar.
+- **Plataforma:** Sistema digital que permite la interacción entre padres, cuidadores y tutores para la gestión de cuidado y educación en el hogar.
+- **Reserva:** Proceso mediante el cual un padre programa una sesión de cuidado o tutoría para su hijo a través de la plataforma.
+- **Perfil:** Información detallada de un cuidador o tutor que incluye experiencia, certificaciones, calificaciones y disponibilidad.
+- **Calificación:** Valoración numérica o descriptiva que refleja la calidad y desempeño de un cuidador o tutor.
+- **Verificado:** Estado que indica que un cuidador o tutor ha sido evaluado y certificado por la plataforma.
 
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
