@@ -590,11 +590,11 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
 - **Evidencia:** ![Angela Becerra](https://github.com/user-attachments/assets/96c88beb-f850-4640-b868-044aa1524b0c)
 
 **b) Carlos Fernando Caccha Moran**
-- **Ocupación:** Estudiante
+- **Ocupación:** Tutor
 - **Duración de la entrevista:** 9' 21''
-- **Interés de servicio:** Rodrigo es profesor de programación para chicos de 25 años. Además,  ayuda a estructurar las tareas y el día a día de los niños para que sean más responsables. Nos cuenta que le sería de gran ayuda una aplicación que le ayude a gestionar las tareas que les deja a sus alumnos y que pueda buscar por edades y demás.   
-- **Conclución:** Rodrigo, un profesor de programación de 25 años que también se dedica a estructurar las tareas y la rutina diaria de sus alumnos para fomentar la responsabilidad, destaca la necesidad de una aplicación que le permita gestionar de manera más eficiente las tareas asignadas. Le gustaría contar con una herramienta que facilite la búsqueda y organización de actividades según las edades y necesidades específicas de los niños, lo cual mejoraría significativamente su labor educativa y la experiencia de aprendizaje de sus alumnos.
-- **Evidencia:** ![image](https://github.com/user-attachments/assets/6de949a4-4445-4caf-b763-b2a79532d420)
+- **Interés de servicio:** Carlos desempeña la labor de tutor, encargado de orientar, enseñar y aconsejar. Utilizando aplicaciones whatsapp, discord, entre otros. Capacitado para enseñar a niños y jóvenes en cuanto al refuerzo de sus conocimientos. Interesado en tener una aplicación que le permita tener un contacto más cercano con sus alumnos y los padres de estos.    
+- **Conclución:** Carlos, como tutor que utiliza herramientas digitales como WhatsApp y Discord para orientar y enseñar a niños y jóvenes, está buscando una solución que le permita un contacto más cercano y efectivo tanto con sus alumnos como con sus padres.
+- **Evidencia:** ![carlos fernando](https://github.com/user-attachments/assets/5a31bd34-2619-4c43-9974-34d861947418)
 
 **c) Elismar Sarmiento**
 - **Ocupación:** Niñera
