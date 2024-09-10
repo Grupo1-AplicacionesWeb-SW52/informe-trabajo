@@ -605,6 +605,41 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
   
 ### **2.2.3. Análisis de entrevistas**
 
+## Análisis del Segmento Objetivo 1: Padres o Tutores
+
+1. **Interés en el Servicio:**
+   - **100%** de los entrevistados (Bertha de la Cruz, Josué Arrunátegui Aguilar y Rodrigo López Huamán) expresan un interés significativo en mejorar el cuidado y la gestión de sus hijos. Todos buscan soluciones que les permitan conciliar sus responsabilidades laborales o mejorar la educación y estructura en la vida de sus hijos.
+
+2. **Necesidades Específicas:**
+   - **66.7%** (Bertha de la Cruz y Josué Arrunátegui Aguilar) están principalmente preocupados por la falta de tiempo y la necesidad de encontrar cuidadores que sean éticos y confiables.
+   - **33.3%** (Rodrigo López Huamán) busca una herramienta que le ayude a gestionar las tareas y actividades educativas de sus alumnos, lo que refleja una necesidad más orientada a la gestión educativa en lugar de cuidado infantil directo.
+
+3. **Características de los Entrevistados:**
+   - **50%** (Bertha de la Cruz y Josué Arrunátegui Aguilar) trabajan en campos con horarios extensos o responsabilidades que limitan su disponibilidad para atender a sus hijos durante el día.
+   - **50%** (Rodrigo López Huamán) se centra en la educación y estructura de los niños, indicando un interés en herramientas que faciliten la organización y la planificación.
+
+4. **Conclusión General:**
+   - Todos los entrevistados valoran profundamente la ética y la confianza en los cuidadores, así como la eficiencia en la gestión del tiempo y la organización educativa. La creación de una solución que aborde estas necesidades podría tener un alto impacto y aceptación en este segmento.
+
+---
+
+## Análisis del Segmento Objetivo 2: Cuidadores
+
+1. **Interés en el Servicio:**
+   - **100%** de los entrevistados (Ángela Becerra, Carlos Fernando Caccha Morán y Elismar Sarmiento) muestran un interés claro en una aplicación que facilite su trabajo y mejore la comunicación con padres y alumnos.
+
+2. **Necesidades Específicas:**
+   - **66.7%** (Ángela Becerra y Elismar Sarmiento) están buscando herramientas para mejorar la visibilidad y las oportunidades de empleo, así como para comunicarse de manera más efectiva con los padres de los niños.
+   - **33.3%** (Carlos Fernando Caccha Morán) está interesado en una solución que le permita gestionar de manera más efectiva la enseñanza y el contacto con los padres, destacando la importancia de la comunicación en su labor de tutoría.
+
+3. **Características de los Entrevistados:**
+   - **66.7%** (Ángela Becerra y Elismar Sarmiento) tienen una experiencia significativa en el cuidado de niños y buscan maneras de mejorar su conexión con los padres y optimizar la búsqueda de empleo en su campo.
+   - **33.3%** (Carlos Fernando Caccha Morán) utiliza herramientas digitales actuales pero busca una aplicación más especializada para facilitar su trabajo de tutoría.
+
+4. **Conclusión General:**
+   - Los cuidadores en este segmento valoran enormemente la capacidad de una aplicación para mejorar su comunicación con los padres y proporcionar oportunidades de empleo más accesibles. Una herramienta que facilite estas áreas tendría un impacto positivo en su eficacia y satisfacción laboral.
+
+
 ## **2.3. Needfinding**
 
 A través del proceso de *needfinding*, se identificaron las necesidades y deseos de los usuarios finales, lo que permitió una comprensión profunda de sus expectativas y requerimientos en relación con la plataforma para el cuidado infantil y la educación en el hogar. A continuación, se destacan los hallazgos clave obtenidos a partir de las entrevistas y observaciones realizadas.
