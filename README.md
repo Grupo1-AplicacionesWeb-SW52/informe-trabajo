@@ -555,26 +555,54 @@ A continuacion presentamos a nuestros tres principales competidores:
   9. ¿Qué tan importante es para usted la posibilidad de trabajar en diferentes entornos y con diferentes familias?
 
 ### **2.2.2. Registro de entrevistas**
-UTL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113612_upc_edu_pe/Ed3i7P69WytLlYzZRHP9jj0B0wvwf8CnMgZPHOuObm32UQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cR1aF0 
+UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhYnaSHMPzhMsO1lKQCt1qUBHMn25e3Zrx32djY5a0C87w?e=bMyzwk
 
 #### Segmento Objetivo 1: Padres o Tutores
 **a) Bertha de la Cruz**
 
 - **Ocupación:** Comerciante
-- **Duración de entrevista:** 4'10''
+- **Duración de entrevista:** 4' 10''
 - **Interés de servicio:** Cree que un servicio de cuidado infantil le ayudaría con la labor de cuidar de sus hijos, debido a que no cuenta con el tiempo suficiente para estar al pendiente de ellos. Además, requiere  que la persona que le ayude con la labor sea ética.
 - **Conclución:** Bertha es una señora que valora mucho la educación y ética de las personas, por ello requiere que los cuidadores que presten su servicio sean pacientes y tengan mucho respeto por sus hijos.
 - **Evidencia:** ![bertha de la cruz](https://github.com/user-attachments/assets/7dad2bd4-977f-403a-b960-d2337a51720c)
 
+**b) Josué Arrunátegui Aguilar**
+- **Ocupación:** Ingeniero 
+- **Duración de entrevista:** 3' 58''
+- **Interés de servicio:** Josué es padre pimerizo,  y que, por motivos de trabajo no tiene tiempo para atender a su pequeño hijo, comenta que trabaja casi todo el día y que solo tiene tiempo en las noches para atenderlo. Por ello, está en búsqueda de encontrar a alguien para que los ayude en el cuidado de su pequeño hijo.
+- **Conclusión:** Josué, un padre primerizo con un horario laboral extenso, enfrenta dificultades para atender a su pequeño hijo durante el día, ya que solo dispone de tiempo en las noches debido a sus compromisos de trabajo. Esta situación lo ha llevado a buscar urgentemente a alguien que pueda ayudarlo con el cuidado de su hijo, brindándole el apoyo necesario para equilibrar sus responsabilidades laborales con sus obligaciones como padre. 
+- **Evidencia:** ![Josué arrunátegui](https://github.com/user-attachments/assets/26363fea-94e4-4fd8-a59b-ce80c03cbdf0)
+
+**c) Rodrigo Lopez Huamán**
+- **Ocupación:** Profesor
+- **Duración de la entrevista:** 8' 40''
+- **Interés de servicio:** Rodrigo es profesor de programación para chicos de 25 años. Además,  ayuda a estructurar las tareas y el día a día de los niños para que sean más responsables. Nos cuenta que le sería de gran ayuda una aplicación que le ayude a gestionar las tareas que les deja a sus alumnos y que pueda buscar por edades y demás.   
+- **Conclución:** Rodrigo, un profesor de programación de 25 años que también se dedica a estructurar las tareas y la rutina diaria de sus alumnos para fomentar la responsabilidad, destaca la necesidad de una aplicación que le permita gestionar de manera más eficiente las tareas asignadas. Le gustaría contar con una herramienta que facilite la búsqueda y organización de actividades según las edades y necesidades específicas de los niños, lo cual mejoraría significativamente su labor educativa y la experiencia de aprendizaje de sus alumnos.
+- **Evidencia:** ![image](https://github.com/user-attachments/assets/6de949a4-4445-4caf-b763-b2a79532d420)
+
 #### Segmento Objetivo 2: Cuidadores
 **a) Angela Becerra**
+
 - **Ocupación:** Diseño gráfico / administración de empresas
-- **Duración de la entrevista:** 6'11''
+- **Duración de la entrevista:** 6' 11''
 - **Interés de servicio:** Angela es una estudiante de administración de empresas que ha trabajado de niñera y nos cuenta su experiencia. Sugiere que le vendría bien una aplicación que le ayude con la labor de niñera, debido que la información de trabajo solo la encuentra por conocidos. Es una persona muy comunicativa y con mucha paciencia.
 - **Conclución:** Ángela, una estudiante de administración de empresas con experiencia como niñera, destaca la importancia de contar con una aplicación que facilite la búsqueda de empleos en este campo, ya que actualmente depende de contactos personales para obtener oportunidades.
 - **Evidencia:** ![Angela Becerra](https://github.com/user-attachments/assets/96c88beb-f850-4640-b868-044aa1524b0c)
 
+**b) Carlos Fernando Caccha Moran**
+- **Ocupación:** Estudiante
+- **Duración de la entrevista:** 9' 21''
+- **Interés de servicio:** Rodrigo es profesor de programación para chicos de 25 años. Además,  ayuda a estructurar las tareas y el día a día de los niños para que sean más responsables. Nos cuenta que le sería de gran ayuda una aplicación que le ayude a gestionar las tareas que les deja a sus alumnos y que pueda buscar por edades y demás.   
+- **Conclución:** Rodrigo, un profesor de programación de 25 años que también se dedica a estructurar las tareas y la rutina diaria de sus alumnos para fomentar la responsabilidad, destaca la necesidad de una aplicación que le permita gestionar de manera más eficiente las tareas asignadas. Le gustaría contar con una herramienta que facilite la búsqueda y organización de actividades según las edades y necesidades específicas de los niños, lo cual mejoraría significativamente su labor educativa y la experiencia de aprendizaje de sus alumnos.
+- **Evidencia:** ![image](https://github.com/user-attachments/assets/6de949a4-4445-4caf-b763-b2a79532d420)
 
+**c) Elismar Sarmiento**
+- **Ocupación:** Niñera
+- **Duración de la entrevista:**  3' 26''
+- **Interés de servicio:**   Nos comenta que participa continuamente en grupos de niñera de facebook e instagram para estar al tanto de los servicios. Es una persona con paciencia y muy asertiva en su trabajo. Desaría tener una aplicación con la que se pueda comunicar y tener una mayor relación con los padres de los niños y estar al tanto de los servicios que pueda brindar.
+- **Conclución:** Nos comenta que participa activamente en grupos de niñeras en Facebook e Instagram para mantenerse informada sobre los servicios disponibles. Se describe como una persona paciente y asertiva en su trabajo, y expresa su deseo de contar con una aplicación que le permita comunicarse de manera más efectiva con los padres de los niños y fortalecer la relación con ellos. Además, busca una herramienta que le facilite estar al tanto de los servicios que puede ofrecer, optimizando así su labor como niñera.
+- **Evidencia:** ![Elismar](https://github.com/user-attachments/assets/c5293c3f-94c8-4702-b2d1-f4015458fe28)
+  
 ### **2.2.3. Análisis de entrevistas**
 
 ## **2.3. Needfinding**
