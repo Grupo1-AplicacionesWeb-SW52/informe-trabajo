@@ -798,18 +798,57 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 A continuación, se presentan las clases principales del diagrama de clases:
 
-| **Clase** | | **Descripción** |
-|--------------------------|---------------------------------------------------|
-| **Account**              | Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como Padre y Cuidador. Contiene atributos como nombre, email, contraseña y teléfono. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios. |
-| **Padre**                | Hereda de la clase Usuario. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional relacionada a su perfil de contratación y gestión de hijos. |
-| **Cuidador**             | Hereda de la clase Usuario. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como experiencia, calificación, verificación (booleano) y disponibilidad, que son específicos de los cuidadores. |
-| **Child**                | Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un Padre y tiene atributos como name y age. Permite asociar cada hijo con las Sesiones de cuidado o educativas en las que participa. |
-| **Session**              | 	Representa cada sesión de cuidado o educación que tiene lugar entre un Cuidador y uno o más Hijos. Incluye atributos como date, duration y descripción de la sesión. Es importante para realizar un seguimiento de las interacciones. |
-| **DevelopmentReport**    | Clase que almacena reportes generados por el Cuidador sobre el progreso del niño o cualquier incidencia durante la sesión. Contiene atributos como detail, date y developmentHistory. Proporciona un mecanismo de retroalimentación a los padres. |
-| **EducationalResource**  | Representa los recursos educativos que un Cuidador ofrece durante las sesiones. Incluye atributos como materia, category y type (e.g., libros, videos). Permite la gestión de materiales educativos y su asignación a las sesiones. |
-| **Payment Facade**       | Representa la información de los pagos realizados por el Padre a un Cuidador. Contiene atributos como fecha_pago, monto y método de pago. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones. |
-| **AppointmentFee**       | Tarifa que se tendrá que pagar por cada sesión. Tiene atributos como feeAmount (cantidad de la tarifa), taxAmount (cantidad de impuestos aplicables a la tarifa), discountAmount (cualquier descuento aplicable), paymentDate (Fecha en la que se generó la tarifa). |
-| **ChatSession**          | Clase dedicada al chat de la sesión realizada. Contiene atributos como messages, attachments que están relacionados con la lista y archivos adjuntos de los mensajes enviados durante la sesión. |
+<table border="1">
+  <thead>
+    <tr>
+      <th><strong>Clase</strong></th>
+      <th><strong>Descripción</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Account</strong></td>
+      <td>Clase base que representa a los usuarios del sistema. Esta clase puede ser heredada por otras como Padre y Cuidador. Contiene atributos como nombre, email, contraseña y teléfono. El propósito es centralizar las propiedades comunes entre los diferentes tipos de usuarios.</td>
+    </tr>
+    <tr>
+      <td><strong>Padre</strong></td>
+      <td>Hereda de la clase Usuario. Representa a los padres que usan el sistema para buscar cuidadores para sus hijos. Contiene información adicional relacionada a su perfil de contratación y gestión de hijos.</td>
+    </tr>
+    <tr>
+      <td><strong>Cuidador</strong></td>
+      <td>Hereda de la clase Usuario. Representa a los cuidadores que ofrecen sus servicios. Contiene atributos adicionales como experiencia, calificación, verificación (booleano) y disponibilidad, que son específicos de los cuidadores.</td>
+    </tr>
+    <tr>
+      <td><strong>Child</strong></td>
+      <td>Representa a los hijos que serán cuidados o educados a través del sistema. Está asociado a un Padre y tiene atributos como name y age. Permite asociar cada hijo con las Sesiones de cuidado o educativas en las que participa.</td>
+    </tr>
+    <tr>
+      <td><strong>Session</strong></td>
+      <td>Representa cada sesión de cuidado o educación que tiene lugar entre un Cuidador y uno o más Hijos. Incluye atributos como date, duration y descripción de la sesión. Es importante para realizar un seguimiento de las interacciones.</td>
+    </tr>
+    <tr>
+      <td><strong>DevelopmentReport</strong></td>
+      <td>Clase que almacena reportes generados por el Cuidador sobre el progreso del niño o cualquier incidencia durante la sesión. Contiene atributos como detail, date y developmentHistory. Proporciona un mecanismo de retroalimentación a los padres.</td>
+    </tr>
+    <tr>
+      <td><strong>EducationalResource</strong></td>
+      <td>Representa los recursos educativos que un Cuidador ofrece durante las sesiones. Incluye atributos como materia, category y type (e.g., libros, videos). Permite la gestión de materiales educativos y su asignación a las sesiones.</td>
+    </tr>
+    <tr>
+      <td><strong>Payment Facade</strong></td>
+      <td>Representa la información de los pagos realizados por el Padre a un Cuidador. Contiene atributos como fecha_pago, monto y método de pago. Su propósito es permitir el control financiero entre las partes involucradas en las transacciones.</td>
+    </tr>
+    <tr>
+      <td><strong>AppointmentFee</strong></td>
+      <td>Tarifa que se tendrá que pagar por cada sesión. Tiene atributos como feeAmount (cantidad de la tarifa), taxAmount (cantidad de impuestos aplicables a la tarifa), discountAmount (cualquier descuento aplicable), paymentDate (Fecha en la que se generó la tarifa).</td>
+    </tr>
+    <tr>
+      <td><strong>ChatSession</strong></td>
+      <td>Clase dedicada al chat de la sesión realizada. Contiene atributos como messages, attachments que están relacionados con la lista y archivos adjuntos de los mensajes enviados durante la sesión.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
