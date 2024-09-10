@@ -52,9 +52,11 @@
         <td>Formato del documento</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>02</td>
+        <td>10/09/2024</td>
+        <td>
+        Meza Camayo, Lynn Jeeferzon <br> Barturen Guzman, Alejandro Nicolas <br> Morales Sosa, Arnold Gabriel<br>Braithuaite Toledo, Gabriel Anthony  <br> Araujo Ingunza, Renzo José <br> Lapa de la Cruz, Gabriel Omar <br> 
+        </td>
         <td></td>
     </tr>
     <tr>
@@ -68,6 +70,12 @@
 # <font color="red">**Project Report Collaboration Insights**</font>
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo>
+
+En el desarrollo del informe, hemos adoptado un enfoque sistemático utilizando un sistema de control de versiones basado en ramas para organizar y gestionar las actividades de elaboración. Este método ha permitido que cada miembro del equipo trabaje de manera independiente en diferentes aspectos del informe, asegurando una integración eficiente y controlada de los avances.
+
+Entregrable 1 o TB1 : (10-09-24)
+
+
 
 
 # <font color="red">**Contenido**</font>
@@ -1739,22 +1747,290 @@ Personalización de Componentes: Personalizar los componentes mediante la extens
 
 ### **5.1.4. Software Deployment Configuration**
 
-Para implementar el despliegue de la página de inicio del proyecto, optaremos por Netlify, una plataforma que ofrece servicios de alojamiento para sitios web estáticos y dinámicos con una integración sencilla desde un repositorio. Por lo tanto, hemos comenzado creando un repositorio donde cargaremos las diferentes versiones que desarrollaremos a lo largo del proyecto, y utilizaremos Netlify para gestionar el despliegue y la publicación del sitio web.
-
-<div align="center">
-<image src="./Images/netlify.png">
-</div>
+Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una plataforma que ofrece alojamiento para sitios web estáticos directamente desde un repositorio de GitHub. Hemos creado un repositorio en GitHub donde subiremos las versiones del proyecto y utilizaremos GitHub Pages para gestionar el despliegue y la publicación del sitio web.
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ## **5.2.1. Sprint 1**
 ### **5.2.1.1. Sprint Planning 1**
+
+<table BORDER>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Planning Background</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>10/09/2024</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>El desarrollo de la reunion se realizo virtualmente por medio de Discort</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Meza Camayo, Lynn Jeeferzon / Barturen Guzman, Alejandro Nicolas/ Morales Sosa, Arnold Gabriel/ Braithuaite Toledo, Gabriel Anthony/ Araujo Ingunza, Renzo José/ Lapa de la Cruz, Gabriel Omar</td>
+  </tr>
+  <tr>
+    <td>Sprint 0 Review Summary</td>
+    <td>En este caso recién se realizará el primer sprint</td>
+  </tr>
+  <tr>
+    <td>Sprint 0 Review Summary</td>
+    <td>En este caso recién se realizará el primer sprint</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint Goal & User Stories</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Goal</td>
+    <td>Desarrollar y desplegar el landing page para agregarlo a repositorio del grupo</td>
+  </tr>
+  <tr>
+    <td>Sprint 1 Velocity</td>
+    <td>2 semanas</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>8</td>
+  </tr>
+  
+</table>
+
+
 ### **5.2.1.2. Sprint Backlog 1**
+
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 1</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-51</td>
+        <td>Navegacion</td>
+        <td>W-01</td>
+        <td>Apartado de Home y Navbar</td>
+        <td>Se creará una sección HOME y un navbar.</td>
+        <td>2</td>
+        <td>Lynn</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-52</td>
+        <td>Visualizacion de Services</td>
+        <td>W-02</td>
+        <td>Creación de la sección de "Why Choose Us?"</td>
+        <td>Se craerá la sección Why Choose Us? que presenta los beneficios o razones destacadas del producto</td>
+        <td>2</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-53</td>
+        <td>Visualización de reseñas</td>
+        <td>W-04</td>
+        <td>Creación de la sección de reseñas</td>
+        <td>Creación de una seccion de reseñas</td>
+        <td>2</td>
+        <td>Arnold</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-54</td>
+        <td>Visualización de Planes</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Planes</td>
+        <td>Se Creara la seccion de Planes </td>
+        <td>2</td>
+        <td>Anthony</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-55</td>
+        <td>Visualización de Contact</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Contact</td>
+        <td>Se Creara la seccion de Contact </td>
+        <td>2</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-56</td>
+        <td>Visualización de Footer</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Footer</td>
+        <td>Se Creara la seccion de Footer con linjk de redes y contactos </td>
+        <td>2</td>
+        <td>Omar</td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ### **5.2.1.3. Development Evidence for Sprint Review**
+
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>Landing-page</td>
+        <td>feature/navbar-home</td>
+        <td>9513288d49a32fde554d88ec2ec5cc3cad1b636f</td>
+        <td>feat: implementacion de la seccion navbar y home</td>
+        <td>Agrego el navbar y seccion home</td>
+        <td>10/09/2024</td>
+    </tr>
+    <tr>
+        <td>Landing-page</td>
+        <td>feature/planes-section</td>
+        <td>f6d42eb667fa185dae488a12a1572c76d4581626</td>
+        <td>git commit feat(index.html): add premium plan and pro plan.</td>
+        <td>Se implemento la sección PPlanes</td>
+        <td>10/09/2024</td>
+    </tr>
+    <tr>
+        <td>Landing-page</td>
+        <td>feature/service</td>
+        <td>ba535047e2743fe9366a242e014abdd9932b4731</td>
+        <td>git commit add service section.html</td>
+        <td>Se implemento la seccion servicios</td>
+        <td>10/09/2024</td>
+    </tr>
+        <tr>
+        <td>Landing-page</td>
+        <td>feature/about</td>
+        <td>f3ee4d26efb64e1a9f9a3a3fc33492e80f1061c3</td>
+        <td>feat: add social media section</td>
+        <td>Se implemento los about</td>
+        <td>10/09/2024</td>
+    </tr>
+        <tr>
+        <td>Landing-page</td>
+        <td>feature/contact</td>
+        <td>c4c2f1bcc53889f2158c93152379610487fefcfb</td>
+        <td>feat: contact upfate</td>
+        <td>Se implemento la seccion contact</td>
+        <td>10/09/2024</td>
+    </tr>
+        <tr>
+        <td>Landing-page</td>
+        <td>feature/footer</td>
+        <td>0233e3adfc010959eb0700aad831b17fb708ecbb</td>
+        <td>Update index.html</td>
+        <td>Se implemento la seccion footer</td>
+        <td>10/09/2024</td>
+    </tr>
+</table>
+
 ### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id</td>
+        <td>Commit Message</td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date)</td>
+    </tr>
+    <tr>
+        <td>Unit-Test</td>
+        <td>main</td>
+        <td>aed6eb913afc1e9a16dc81bf35b41423e90197eb</td>
+        <td>git commit feat: Unit test Sprint 1/td>
+        <td>Se desarrollo los Unit Test del Sprint 1</td>
+        <td>09/09/2024</td>
+    </tr>
+ </table>
+
 ### **5.2.1.5. Execution Evidence for Sprint Review**
+
+En este Sprint, se logró el desarrollo del landing page. A continuación, presentamos capturas de pantalla de las principales vistas implementadas en este Sprint:
+
+
+- Navbar:
+<div align="center">
+  <img src="Images/nabvar-landing-page.png">
+</div>
+
+- Home:
+<div align="center">
+  <img src="Images/home-landing.png">
+</div>
+
+- Why Choose Us?:
+<div align="center">
+  <img src="Images/Why Choose-landingpage.png">
+</div>
+
+- About:
+<div align="center">
+  <img src="Images/about-landingpage.png">
+</div>
+
+- Plans:
+<div align="center">
+  <img src="Images/plans-landingpage.png">
+</div>
+
+- Contact:
+<div align="center">
+  <img src="Images/contact-landingpage.png">
+</div>
+
+- Footer:
+<div align="center">
+  <img src="Images/footer-landingpage.png">
+</div>
+
+link del landing page deployado: <https://grupo1-aplicacionesweb-sw52.github.io/LandingPage-EduNEst/>
+
 ### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+
+Durante este sprint, se ha completado el desarrollo y la documentación de la landing page. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a la landing page. Aunque la landing page en sí misma es una interfaz de usuario estático.
+
 ### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+
+<h3>Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en GitHub Pages. A continuación, detallamos los pasos realizados:</h3>
+<ol>
+  <li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.</li>
+  <li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.</li>
+  <li><strong>Preparación del Contenido:</strong> Desarrollamos y diseñamos nuestra landing page, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.</li>
+  <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
+  <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
+</ol>
+
 ### **5.2.1.8. Team Collaboration Insights during Sprint**
+
+<div align="center">
+  <img src="Images/commit-number-sprint1.png">
+</div>
+
+<div align="center">
+  <img src="Images/contribution-sprint1.png">
+</div>
 
 ## **5.2.2. Sprint 2**
 ### **5.2.2.1. Sprint Planning 2**
