@@ -790,6 +790,7 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
+**Link: https://lucid.app/lucidchart/88db94c2-09b6-49af-a324-6110a192c788/edit?viewport_loc=-1158%2C-1328%2C5193%2C2463%2C0_0&invitationId=inv_52f56317-6d9f-4f85-888e-c4197b3e3193**
 <p align="center"> 
   <img src="Images/Class%20Diagrams%20CareNest.png" alt="tipografia" width="100%"> 
 </p>
@@ -852,6 +853,7 @@ A continuación, se presentan las clases principales del diagrama de clases:
 
 ## **4.8. Database Design**
 ### **4.8.1. Database Diagram**
+**link: Link: https://dbdiagram.io/d/66dfbed4550cd927eab1cd37**
 <p align="center"> 
   <img src="Images/database%20diagram.png" alt="tipografia" width="100%"> 
 </p>
