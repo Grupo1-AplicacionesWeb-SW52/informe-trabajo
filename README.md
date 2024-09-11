@@ -70,6 +70,7 @@
 # <font color="red">**Project Report Collaboration Insights**</font>
 
 URL del repositorio de la Organizacion: <https://github.com/Grupo1-AplicacionesWeb-SW52/informe-trabajo>
+URL del landing page desplegado: <https://grupo1-aplicacionesweb-sw52.github.io/LandingPage-EduNEst/>
 
 En el desarrollo del informe, hemos adoptado un enfoque sistemático utilizando un sistema de control de versiones basado en ramas para organizar y gestionar las actividades de elaboración. Este método ha permitido que cada miembro del equipo trabaje de manera independiente en diferentes aspectos del informe, asegurando una integración eficiente y controlada de los avances.
 
@@ -682,6 +683,8 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
 - **Interés de servicio:**   Nos comenta que participa continuamente en grupos de niñera de facebook e instagram para estar al tanto de los servicios. Es una persona con paciencia y muy asertiva en su trabajo. Desaría tener una aplicación con la que se pueda comunicar y tener una mayor relación con los padres de los niños y estar al tanto de los servicios que pueda brindar.
 - **Conclusión:** Nos comenta que participa activamente en grupos de niñeras en Facebook e Instagram para mantenerse informada sobre los servicios disponibles. Se describe como una persona paciente y asertiva en su trabajo, y expresa su deseo de contar con una aplicación que le permita comunicarse de manera más efectiva con los padres de los niños y fortalecer la relación con ellos. Además, busca una herramienta que le facilite estar al tanto de los servicios que puede ofrecer, optimizando así su labor como niñera.
 - **Evidencia:** ![Elismar](https://github.com/user-attachments/assets/c5293c3f-94c8-4702-b2d1-f4015458fe28)
+
+URL del video de las entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216831_upc_edu_pe/EasckSl0fndIn5dXjf5B-bEBme4iZpnu7Tk0VZaeG38rmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TXLmfw>
   
 ### **2.2.3. Análisis de entrevistas**
 
@@ -1909,7 +1912,7 @@ Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una 
     <tr align="center">
         <td>US-53</td>
         <td>Visualización de reseñas</td>
-        <td>W-04</td>
+        <td>W-03</td>
         <td>Creación de la sección de reseñas</td>
         <td>Creación de una seccion de reseñas</td>
         <td>2</td>
@@ -1929,7 +1932,7 @@ Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una 
     <tr align="center">
         <td>US-55</td>
         <td>Visualización de Contact</td>
-        <td>W-04</td>
+        <td>W-05</td>
         <td>Creación de la sección de Contact</td>
         <td>Se Creara la seccion de Contact </td>
         <td>2</td>
@@ -1939,7 +1942,7 @@ Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una 
     <tr align="center">
         <td>US-56</td>
         <td>Visualización de Footer</td>
-        <td>W-04</td>
+        <td>W-06</td>
         <td>Creación de la sección de Footer</td>
         <td>Se Creara la seccion de Footer con linjk de redes y contactos </td>
         <td>2</td>
