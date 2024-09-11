@@ -75,8 +75,12 @@ En el desarrollo del informe, hemos adoptado un enfoque sistemático utilizando 
 
 Entregrable 1 o TB1 : (10-09-24)
 
-
-
+<div align="center">
+<img src="./Images/commit-number-tb1.png" >
+</div>
+<div align="center">
+<img src="./Images/contribution-tb1.png" >
+</div>
 
 # <font color="red">**Contenido**</font>
 ### Tabla de contenidos
@@ -2132,6 +2136,16 @@ Durante este sprint, se ha completado el desarrollo y la documentación de la la
 
 # **Conclusiones**
 # **Conclusiones y recomendaciones**
+
+- Conclusiones:
+
+    - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
+
+    - En conclución se ha delineado claramente quiénes son los usuarios principales y secundarios (padres y cuidadores), y los beneficios que cada grupo obtendría de la plataforma. La plataforma propuesta tiene el potencial de resolver problemas significativos al proporcionar acceso a perfiles verificados y oportunidades laborales para los cuidadores.
+
+- Recomendaciones:
+
+    - Incorporar recursos educativos y herramientas de seguimiento del desarrollo infantil desde el inicio. Esto no solo atraerá a más usuarios, sino que también proporcionará un valor añadido significativo a la plataforma.
 
 # **Video About-the-Team**
 
