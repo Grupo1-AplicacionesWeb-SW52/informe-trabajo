@@ -13,9 +13,9 @@
 <h3 align="center"> Desarrollo de Aplicaiones Web - SW52 </h3>
 <h3 align="center"> Profesor del Curso: Juan Carlos Tinoco Licas </h3>
 <h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
-<h3 align="center"> EMPRESA DE INICIO: nombre </h3>
+<h3 align="center"> EMPRESA DE INICIO: EduNest </h3>
 
-<h3 align="center"> PRODUCTO: "NOMBRE"</h3>
+<h3 align="center"> PRODUCTO: "CareNest"</h3>
 
 <div align="center">
 
@@ -208,8 +208,59 @@ Entregrable 1 o TB1 : (10-09-24)
 
 # <font color="red">**Student Outcome**</font>
 
+<table >
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  <tr>
+  <tr>
+    <th>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</th>
+    <td>
+      <strong>Renzo Araujo - TB1</strong><br>
+      Aporté al equipo de manera asertiva mediante el desarrollo del informe del trabajo. Tales como: Competidores, análisis de competidores y sus estrategias, aporte con el diseño de las entrevistas, las entrevistas y el análisis de las mismas. Término completo del needfinding como los user personas para cada segmento objetivo, user task matrix, User journey mapping, empathy map y as-is scenario.<br>
+      <strong>Alejandro Barturen- TB1 </strong><br>
+      Aporte al equipo en el desarrollo del capitulo 3 ayudando en la creación del impact mapping y la creación de una parte de las user stories(creando las epics, las us del  segmento objetivo cuidador y las tecnical stories ). Además de mi aporte con una entrevista del segmento objetivo de cuidador <br>
+      <strong>Lynn Meza-TB1</strong><br>
+      Fomentó la colaboración y el liderazgo compartido al participar en la descripción del StartUp y los segmentos objetivos. Desarrolló el Capítulo III: Especificación de Requisitos y trabajó en el Sprint 1 y Software Configuration Management. También se encargó del desarrollo de la sección Home y el navbar de la landing page.<br> 
+      <strong>Arnold Morales - TB1</strong><br>
+      Aporte a la colaboración del equipo en base a los temas relacionados con el Domain-Driven Software Architecture, Software Architecture Components Diagrams (Payment Context Component Diagram, User Profile Context Component Diagram, Chat Context Component Diagram & Appointment Context Component Diagram),  Software Object-Oriented Design (Class Diagram & Class Dictionary) y Database Design del capítulo 4 facilitando la estructura y arquitectura del programa para que podamos seguir con la implementación y despliegue del proyecto. Además, colaboré con una entrevista hacia el segmento objetivo de padres, apoyo en el ppt y desarrollo de la sección feature/about de la landing page.<br>
+      <strong>Gabriel Lapa - TB1</strong><br>
+      Conceptualizó las características y soluciones del perfil de la startup, realizó entrevistas al segmento padre y cuidador. Además, trabajó en los Antecedentes y Problemática, así como en la elaboración del Capítulo 3 haciendo el To-Be Scenario Mapping y los User Stories. También desarrolló la sección del footer de la landing page.<br>
+      <strong>Gabriel Braithuaite - TB1<strong> <br>
+      Realizó una guía conjunta para la creación de wireframes, donde se tomaron decisiones estratégicas para asegurar que el producto esté alineado con los principios de diseño establecidos. <br>
+    </td>
+    <td>
+    <strong>TB1</strong><br>
+    El equipo demostró una comunicación efectiva al adaptar sus mensajes a diferentes audiencias, presentando información técnica y estratégica de manera clara y comprensible. Esta habilidad facilitó un entendimiento común y alineó los esfuerzos del proyecto, contribuyendo al éxito y a una colaboración eficiente entre todos los miembros y partes interesadas.<br>
+    </td>
+  <tr>
+  <tr>
+    <th>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</th>
+    <th>
+      <strong>Renzo Araujo - TB1</strong><br>
+      Aportó efectivamente mediante el uso de las herramientas requeridas para la realización del proyecto como GitHub y UXPressia para la realización del needfinding y alcanzar el objetivo trazado.<br>
+      <strong>Alejandro Baruren -TB1</strong><br>
+      Aportó efectivamente haciendo uso de las herramientas precisas para la culminación exitosa como el GitHub y Onedrive para el envio de informacion<br>
+      <strong>Lynn Meza - TB1</strong><br>
+      Contribuyó al desarrollo de las distintas metas propuestas para el primer sprint, trabajando en la descripción del startup, la especificación de requisitos, y el diseño y desarrollo de la landing page, asegurando la correcta implementación de la sección Home y el navbar.<br>
+      <strong>Arnold Morales - TB1</strong><br>
+      Participó en la creación de un entorno colaborativo al desarrollar las distintas metas propuestas para el primer sprint y trabajar en la arquitectura del diseño del programa para una mejor visión en torno a los objetivos a cumplir. Se usaron herramientas como Miro, LucidChart y dbdiagram.io para alcanzar dichos objetivos.<br>
+      <strong>Gabriel Lapa - TB1</strong><br>
+      Mantuvo una colaboración continua con sus compañeros, lo que facilitó la creación del PPT de presentación y garantizó que el contenido refleja correctamente el avance y los resultados del proyecto. También gestionó de manera eficiente la planificación de tareas.<br>
+      <strong>Gabriel Braithuaite - TB1</strong><br>
+      Contribuyó en el proceso de trabajo en Figma, fomentando la participación activa y colaborativa en la creación del diseño y asegurando que todas las decisiones fueran inclusivas y accesibles para diferentes tipos de usuarios.<br>
+    </th>
+    <th>
+      <strong>TB1:</strong><br>
+      El equipo sobresalió en la comunicación escrita al adaptar documentos y presentaciones para distintos públicos, asegurando que la información técnica y estratégica fuera clara y accesible. Su capacidad para redactar especificaciones, informes y presentaciones adecuadas para diversas audiencias facilitó la comprensión y alineación de objetivos, contribuyendo significativamente al éxito y cohesión del proyecto<br>
+    </th>
+  </tr>
+</table>
+
 # <font color="red"> **Capítulo I: Introducción** </font>
 ## **1.1. Startup Profile**
+
 ### **1.1.1. Descripción de la Startup**
 
 Edunest es una startup emergente en el sector del desarrollo tecnológico, enfocada en crear soluciones personalizadas y de alta calidad. Surgió a partir de la iniciativa de un grupo de ingenieros de software formados en la Universidad Peruana de Ciencias Aplicadas.
@@ -223,6 +274,16 @@ El equipo de Edunest está compuesto por desarrolladores, diseñadores creativos
 **Misión:** La misión de Edunest es crear y desarrollar soluciones tecnológicas innovadoras y adaptadas a las necesidades de sus clientes, contribuyendo al crecimiento y eficiencia de empresas en diversos sectores.
 
 ### **1.1.2. Perfiles de integrantes del equipo**
+
+<div align="center">
+<img src="./Images/1.png" >
+<img src="./Images/2.png" >
+<img src="./Images/3.png" >
+<img src="./Images/4.png" >
+<img src="./Images/5.png" >
+<img src="./Images/6.png" >
+</div>
+
 ## **1.2. Solution Profile**
 
 ### **1.2.1 Antecedentes y problemática**
