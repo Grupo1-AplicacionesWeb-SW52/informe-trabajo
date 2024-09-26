@@ -778,6 +778,52 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 ### **4.4.3. Web Applications Mock-ups**
+
+- Web application login mock-up: Este mock-up muestra la pantalla de inicio de sesión de la aplicación web, con diseño visual y elementos de interfaz.
+![Login-Mockup](Images/WebApplicationMockup-Login.png)
+
+- Web application registration mock-up: Este mock-up muestra la pantalla de registro de la aplicación web, con diseño visual y elementos de interfaz.
+![Registration-Mockup](Images/WebApplicationMockup-Register.png)
+
+- Web application Search Caregivers mock-up: Este mock-up muestra la pantalla de búsqueda de cuidadores de la aplicación web, con diseño visual y elementos de interfaz.
+![Search-Caregivers-Mockup](Images/WebApplicationMockup-SearchCaregiver.png)
+
+- Web application Caregiver Profile mock-up: Este mock-up muestra el perfil de un cuidador en la aplicación web, con diseño visual y elementos de interfaz.
+![Caregiver-Profile-Mockup](Images/WebApplicationMockup-CaregiverDetail.png)
+
+- Web application Reservate Caregiver mock-up: Este mock-up muestra la pantalla de reserva de un cuidador en la aplicación web, con diseño visual y elementos de interfaz.
+![Reservate-Caregiver-Mockup](Images/WebApplicationMockup-CaregiverReservateOption.png)
+
+- Web application reservations mock-up: Este mock-up muestra la pantalla de reservas de la aplicación web, con diseño visual y elementos de interfaz.
+![Reservations-Mockup](Images/WebApplicationMockup-Reservations.png)
+
+- Web application Chat mock-up: Este mock-up muestra la pantalla de chat de la aplicación web, con diseño visual y elementos de interfaz.
+![Chat-Mockup](Images/WebApplicationMockup-ChatOnline.png)
+
+- Web application Chat Example mock-up: Este mock-up muestra un ejemplo de chat en la aplicación web, con diseño visual y elementos de interfaz.
+![Chat-Example-Mockup](Images/WebApplicationMockup-ChatOnlineCaregiverExample.png)
+
+- Web application Profile mock-up: Este mock-up muestra el perfil de usuario en la aplicación web, con diseño visual y elementos de interfaz.
+![Profile-Mockup](Images/WebApplicationMockup-CaregiverProfile.png)
+
+- Web application Edit Profile mock-up: Este mock-up muestra la pantalla de edición de perfil en la aplicación web, con diseño visual y elementos de interfaz.
+![Edit-Profile-Mockup](Images/WebApplicationMockup-CaregiverEditProfile.png)
+
+- Web application Payment methods mock-up: Este mock-up muestra la pantalla de métodos de pago en la aplicación web, con diseño visual y elementos de interfaz.
+![Payment-Methods-Mockup](Images/WebApplicationMockup-PaymentMethods.png)
+
+- Web application Payment mock-up: Este mock-up muestra la pantalla de pago en la aplicación web, con diseño visual y elementos de interfaz.
+![Payment-Mockup](Images/WebApplicationMockup-SelectCardForPayment.png)
+
+- Web application Card information form mock-up: Este mock-up muestra el formulario de información de tarjeta en la aplicación web para pagar una reserva, con diseño visual y elementos de interfaz.
+![Card-Information-Form-Mockup](Images/WebApplicationMockup-CardInformationFormToPayReservation.png)
+
+- Web application Add Card mock-up: Este mock-up muestra la pantalla para agregar una nueva tarjeta en la aplicación web, con diseño visual y elementos de interfaz.
+![Add-Card-Mockup](Images/WebApplicationMockup-CardInformationFormToAddCard.png)
+
+- Web application Delete Card mock-up: Este mock-up muestra la pantalla para eliminar una tarjeta en la aplicación web, con diseño visual y elementos de interfaz.
+![Delete-Card-Mockup](Images/WebApplicationMockup-DeleteCard.png)
+
 ### **4.4.4. Web Applications User Flow Diagrams**
 
 ## **4.5. Web Applications Prototyping**
