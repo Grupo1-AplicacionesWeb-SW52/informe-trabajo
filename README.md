@@ -750,6 +750,32 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
+
+- Web application login wireframe: Este wireframe muestra la pantalla de inicio de sesión de la aplicación web, con campos para correo electrónico y contraseña, y botón para iniciar sesión.
+![Login-Wireframe](Images/WebApplicationWireframe-Login.png)
+
+- Web application registration wireframe: Este wireframe muestra la pantalla de registro de la aplicación web, con campos para nombre, correo electrónico, contraseña, y botón para registrarse.
+![Registration-Wireframe](Images/WebApplicationWireframe-Register.png)
+
+- Web application Search Caregivers wireframe: Este wireframe muestra la pantalla de búsqueda de cuidadores de la aplicación web, con filtros y resultados de búsqueda.
+![Search-Caregivers-Wireframe](Images/WebApplicationWireframe-SearchCaregivers.png)
+
+- Web application Caregiver Profile wireframe: Este wireframe muestra el perfil de un cuidador en la aplicación web, con información detallada, calificaciones, opciones de contacto y opciones de reserva.
+![Caregiver-Profile-Wireframe](Images/WebApplicationWireframe-CaregiverDetail.png)
+
+- Web application Reservate Caregiver wireframe: Este wireframe muestra la pantalla de reserva de un cuidador en la aplicación web.
+![Reservate-Caregiver-Wireframe](Images/WebApplicationWireframe-CaregiverReservateOption.png)
+
+- Web application reservations wireframe: Este wireframe muestra la pantalla de reservas de la aplicación web, con un resumen de las reservas realizadas y opciones de gestión.
+![Reservations-Wireframe](Images/WebApplicationWireframe-Reservations.png)
+
+- Web application Chat wireframe: Este wireframe muestra la pantalla de chat de la aplicación web, con opciones de mensajería y visualización de mensajes.
+![Chat-Wireframe](Images/WebApplicationWireframe-ChatOnline.png)
+
+- Web application Chat Example wireframe: Este wireframe muestra un ejemplo de chat en la aplicación web, con conversación actual.
+![Chat-Example-Wireframe](Images/WebApplicationWireframe-ChatOnlineCaregiverExample.png)
+
+
 ### **4.4.2. Web Applications Wireflow Diagrams**
 ### **4.4.3. Web Applications Mock-ups**
 ### **4.4.4. Web Applications User Flow Diagrams**
