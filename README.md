@@ -742,6 +742,53 @@ En esta sección, presentaremos el lenguaje ubicuo, una herramienta clave para e
 
 ## **5.2.2. Sprint 2**
 ### **5.2.2.1. Sprint Planning 2**
+<table><thead>
+  <tr>
+    <th>Sprint#</th>
+    <th>Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Sprint planning Background</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-09-25</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>9:10 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared  By</td>
+    <td>Meza Camayo, Lynn Jeeferzon	</td>
+  </tr>
+  <tr>
+    <td>Attendees(to planning meeting)</td>
+    <td>Barturen Guzman, Alejandro Nicolas	 / Morales Sosa, Arnold Gabriel	 / Braithuaite Toledo, Gabriel Anthony / Araujo Ingunza, Renzo Jose / Lapa de la Cruz, Gabriel Omar	</td>
+  </tr>
+  <tr>
+    <td>Sprint goal &amp; User stories</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sprint 2 goal </td>
+    <td>Planificar e implementar el  Frontend  del Web Application de  CareNest  llamativa para el usuario</td>
+  </tr>
+  <tr>
+    <td>Sprint Velocity</td>
+    <td>2 semanas</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>52</td>
+  </tr>
+</tbody></table>
 ### **5.2.2.2. Sprint Backlog 2**
 ### **5.2.2.3. Development Evidence for Sprint Review**
 <table><thead>
