@@ -2278,10 +2278,10 @@ Entendido. La información sobre la aplicación se agregará en una etapa poster
 ### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
 Durante el desarrollo del Front End, se utilizó Visual Studio Code junto con GitHub, siguiendo las guías de estilo previamente establecidas. Posteriormente, para la implementación en HTML, CSS y JavaScript, se empleó WebStorm. A continuación, se presentarán los diagramas de flujo que muestran los commits realizados por cada miembro del equipo.<br>
-![image](https://github.com/user-attachments/assets/e5234760-6c36-40de-b58f-68e08fb36868)
+![image](https://github.com/user-attachments/assets/a109b3e9-625d-4d46-863a-ba8bd8bd859c)
 
 Asimismo, se presentará una representación visual del tráfico de "Git clones" y "Visitors" registrados con cada acción realizada en el repositorio. Esto reflejará el avance y compromiso del equipo a lo largo del periodo de desarrollo.
-![image](https://github.com/user-attachments/assets/a576f42e-c624-43a3-9164-82fc497067e5)
+![image](https://github.com/user-attachments/assets/24e572a4-b5f5-418c-a8b5-ded1c854f811)
 
 ![image](https://github.com/user-attachments/assets/91e91d40-95bf-4e2e-970b-ef79b48d8fb6)
 
