@@ -1567,11 +1567,110 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ## **4.4. Web Applications UX/UI Design**
 ### **4.4.1. Web Applications Wireframes**
+
+- Web application login wireframe: Este wireframe muestra la pantalla de inicio de sesión de la aplicación web, con campos para correo electrónico y contraseña, y botón para iniciar sesión.
+![Login-Wireframe](Images/WebApplicationWireframe-Login.png)
+
+- Web application registration wireframe: Este wireframe muestra la pantalla de registro de la aplicación web, con campos para nombre, correo electrónico, contraseña, y botón para registrarse.
+![Registration-Wireframe](Images/WebApplicationWireframe-Register.png)
+
+- Web application Search Caregivers wireframe: Este wireframe muestra la pantalla de búsqueda de cuidadores de la aplicación web, con filtros y resultados de búsqueda.
+![Search-Caregivers-Wireframe](Images/WebApplicationWireframe-SearchCaregivers.png)
+
+- Web application Caregiver Profile wireframe: Este wireframe muestra el perfil de un cuidador en la aplicación web, con información detallada, calificaciones, opciones de contacto y opciones de reserva.
+![Caregiver-Profile-Wireframe](Images/WebApplicationWireframe-CaregiverDetail.png)
+
+- Web application Reservate Caregiver wireframe: Este wireframe muestra la pantalla de reserva de un cuidador en la aplicación web.
+![Reservate-Caregiver-Wireframe](Images/WebApplicationWireframe-CaregiverReservateOption.png)
+
+- Web application reservations wireframe: Este wireframe muestra la pantalla de reservas de la aplicación web, con un resumen de las reservas realizadas y opciones de gestión.
+![Reservations-Wireframe](Images/WebApplicationWireframe-Reservations.png)
+
+- Web application Chat wireframe: Este wireframe muestra la pantalla de chat de la aplicación web, con opciones de mensajería y visualización de mensajes.
+![Chat-Wireframe](Images/WebApplicationWireframe-ChatOnline.png)
+
+- Web application Chat Example wireframe: Este wireframe muestra un ejemplo de chat en la aplicación web, con conversación actual.
+![Chat-Example-Wireframe](Images/WebApplicationWireframe-ChatOnlineCaregiverExample.png)
+
+
 ### **4.4.2. Web Applications Wireflow Diagrams**
 ### **4.4.3. Web Applications Mock-ups**
+
+- Web application login mock-up: Este mock-up muestra la pantalla de inicio de sesión de la aplicación web, con diseño visual y elementos de interfaz.
+![Login-Mockup](Images/WebApplicationMockUp-Login.png)
+
+- Web application registration mock-up: Este mock-up muestra la pantalla de registro de la aplicación web, con diseño visual y elementos de interfaz.
+![Registration-Mockup](Images/WebApplicationMockUp-Register.png)
+
+- Web application Search Caregivers mock-up: Este mock-up muestra la pantalla de búsqueda de cuidadores de la aplicación web, con diseño visual y elementos de interfaz.
+![Search-Caregivers-Mockup](Images/WebApplicationMockUp-SearchCaregiver.png)
+
+- Web application Caregiver Profile mock-up: Este mock-up muestra el perfil de un cuidador en la aplicación web, con diseño visual y elementos de interfaz.
+![Caregiver-Profile-Mockup](Images/WebApplicationMockUp-CaregiverDetail.png)
+
+- Web application Reservate Caregiver mock-up: Este mock-up muestra la pantalla de reserva de un cuidador en la aplicación web, con diseño visual y elementos de interfaz.
+![Reservate-Caregiver-Mockup](Images/WebApplicationMockUp-CaregiverReservateOption.png)
+
+- Web application reservations mock-up: Este mock-up muestra la pantalla de reservas de la aplicación web, con diseño visual y elementos de interfaz.
+![Reservations-Mockup](Images/WebApplicationMockUp-Reservations.png)
+
+- Web application Chat mock-up: Este mock-up muestra la pantalla de chat de la aplicación web, con diseño visual y elementos de interfaz.
+![Chat-Mockup](Images/WebApplicationMockUp-ChatOnline.png)
+
+- Web application Chat Example mock-up: Este mock-up muestra un ejemplo de chat en la aplicación web, con diseño visual y elementos de interfaz.
+![Chat-Example-Mockup](Images/WebApplicationMockUp-ChatOnlineCaregiverExample.png)
+
+- Web application Profile mock-up: Este mock-up muestra el perfil de usuario en la aplicación web, con diseño visual y elementos de interfaz.
+![Profile-Mockup](Images/WebApplicationMockUp-CaregiverProfile.png)
+
+- Web application Edit Profile mock-up: Este mock-up muestra la pantalla de edición de perfil en la aplicación web, con diseño visual y elementos de interfaz.
+![Edit-Profile-Mockup](Images/WebApplicationMockUp-CaregiverEditProfile.png)
+
+- Web application Payment methods mock-up: Este mock-up muestra la pantalla de métodos de pago en la aplicación web, con diseño visual y elementos de interfaz.
+![Payment-Methods-Mockup](Images/WebApplicationMockUp-PaymentMethods.png)
+
+- Web application Payment mock-up: Este mock-up muestra la pantalla de pago en la aplicación web, con diseño visual y elementos de interfaz.
+![Payment-Mockup](Images/WebApplicationMockUp-SelectCardForPayment.png)
+
+- Web application Card information form mock-up: Este mock-up muestra el formulario de información de tarjeta en la aplicación web para pagar una reserva, con diseño visual y elementos de interfaz.
+![Card-Information-Form-Mockup](Images/WebApplicationMockUp-CardInformationFormToPayReservation.png)
+
+- Web application Add Card mock-up: Este mock-up muestra la pantalla para agregar una nueva tarjeta en la aplicación web, con diseño visual y elementos de interfaz.
+![Add-Card-Mockup](Images/WebApplicationMockUp-CardInformationFormToAddCard.png)
+
+- Web application Delete Card mock-up: Este mock-up muestra la pantalla para eliminar una tarjeta en la aplicación web, con diseño visual y elementos de interfaz.
+![Delete-Card-Mockup](Images/WebApplicationMockUp-DeleteCard.png)
+
 ### **4.4.4. Web Applications User Flow Diagrams**
 
+<p align="center">
+  <img src="Images/userflow-1.JPG" alt="Userflow 1" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-2.JPG" alt="Userflow 2" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-3.JPG" alt="Userflow 3" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-4.JPG" alt="Userflow 4" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-5.JPG" alt="Userflow 5" width="100%">
+</p>
+
+
 ## **4.5. Web Applications Prototyping**
+
+<p align="center">
+  <img src="Images/prototype-carenest.png" alt="Prototype Carenest" width="100%">
+</p>
+
+**Link del video del Prototipo**: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216831_upc_edu_pe/ESv_YaT-VJRMucn0qAQuCZ8BwmFMBHKUI7KpwalIRIbk7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5kqHAx>
 
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
