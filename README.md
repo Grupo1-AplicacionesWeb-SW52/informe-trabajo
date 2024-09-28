@@ -2393,6 +2393,10 @@ Utilizamos el servicio de Google Firebase para el despliegue de la web Applicati
 
 - creamos y deplegamos el servicio para consumir en firebase.
   ![image](https://github.com/user-attachments/assets/e8d50930-1c03-4972-b0b7-a8829822a35a)
+- configuramos en el terminal de WebSorm para iniciar el firebase.
+  ![image](https://github.com/user-attachments/assets/8220be13-d41c-4366-becf-88ba6bf10e29)
+  ![image](https://github.com/user-attachments/assets/8fa69bd0-bb11-4b00-8a30-306c2565fd1e)
+  
 
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
 Durante el desarrollo del Front End, se utilizó Visual Studio Code junto con GitHub, siguiendo las guías de estilo previamente establecidas. Posteriormente, para la implementación en HTML, CSS y JavaScript, se empleó WebStorm. A continuación, se presentarán los diagramas de flujo que muestran los commits realizados por cada miembro del equipo.<br>
