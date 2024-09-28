@@ -2276,7 +2276,7 @@ Entendido. La información sobre la aplicación se agregará en una etapa poster
 ### **5.2.2.5. Execution Evidence for Sprint Review**
 En este sprint se lograron avances significativos en la implementación del Front-End del proyecto utilizando Angular CLI y WebStorm. Se consolidaron varias funcionalidades clave, como el sistema de registro e inicio de sesión de usuarios, el despliegue completo de la Landing Page con mejoras en la interactividad y la optimización del rendimiento. Estas mejoras no solo fortalecen la experiencia del usuario, sino que también refuerzan la base técnica de la aplicación.
 
-El enfoque en una interfaz amigable y fácil de usar permitió crear una navegación fluida, destacando por un diseño atractivo y adaptable a diferentes tamaños de pantalla. Además, se avanzó en la gestión de perfiles de usuarios, la elección de planes y la visualización de información nutricional. Las tareas pendientes fueron completadas y se realizaron varios ajustes en la estructura del proyecto.
+El enfoque en una interfaz amigable y fácil de usar permitió crear una navegación fluida, destacando por un diseño atractivo y adaptable a diferentes tamaños de pantalla. Además, se avanzó en la gestión de perfiles de usuarios, la elección de planes y la visualización de información nutricional. Las tareas pendientes fueron completadas y se realizaron varios ajustes en la estructura del proyecto. Link del proyecto: https://carenest-grupo1-appweb.web.app/search 
 
 - Se muestra el despliegue del Sign In:
   ![image](https://github.com/user-attachments/assets/d3ef758f-da73-4e32-b626-ed6f7053eaa0)
