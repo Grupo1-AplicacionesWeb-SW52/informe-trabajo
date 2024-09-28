@@ -826,6 +826,27 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ### **4.4.4. Web Applications User Flow Diagrams**
 
+<p align="center">
+  <img src="Images/userflow-1.JPG" alt="Userflow 1" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-2.JPG" alt="Userflow 2" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-3.JPG" alt="Userflow 3" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-4.JPG" alt="Userflow 4" width="100%">
+</p>
+
+<p align="center">
+  <img src="Images/userflow-5.JPG" alt="Userflow 5" width="100%">
+</p>
+
+
 ## **4.5. Web Applications Prototyping**
 
 ## **4.6. Domain-Driven Software Architecture**
