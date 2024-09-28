@@ -2274,6 +2274,20 @@ En este segundo sprint, es esencial seguir clarificando las tareas y mantener un
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 Entendido. La información sobre la aplicación se agregará en una etapa posterior, ya que en esta fase solo se ha trabajado en la Landing Page y el front-end.
 ### **5.2.2.5. Execution Evidence for Sprint Review**
+En este sprint se lograron avances significativos en la implementación del Front-End del proyecto utilizando Angular CLI y WebStorm. Se consolidaron varias funcionalidades clave, como el sistema de registro e inicio de sesión de usuarios, el despliegue completo de la Landing Page con mejoras en la interactividad y la optimización del rendimiento. Estas mejoras no solo fortalecen la experiencia del usuario, sino que también refuerzan la base técnica de la aplicación.
+
+El enfoque en una interfaz amigable y fácil de usar permitió crear una navegación fluida, destacando por un diseño atractivo y adaptable a diferentes tamaños de pantalla. Además, se avanzó en la gestión de perfiles de usuarios, la elección de planes y la visualización de información nutricional. Las tareas pendientes fueron completadas y se realizaron varios ajustes en la estructura del proyecto.
+
+- Se muestra el despliegue del Sign In:
+  ![image](https://github.com/user-attachments/assets/d3ef758f-da73-4e32-b626-ed6f7053eaa0)
+- Se muestra el despliegue del Sign Up:
+  ![image](https://github.com/user-attachments/assets/97fbab80-5a67-4b22-845c-6f888af7e536)
+- Se muestra el despliegue de los cuidadores disponibles:
+  ![image](https://github.com/user-attachments/assets/bf22a1f0-5e42-4496-90e9-86de5c01aec9)
+- Se muestra el despliegue del apartado del pago:
+  ![image](https://github.com/user-attachments/assets/d308dc62-2b72-4444-9067-661d7542519c)
+
+  
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 ### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
