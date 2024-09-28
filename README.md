@@ -849,6 +849,12 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 
 ## **4.5. Web Applications Prototyping**
 
+<p align="center">
+  <img src="Images/prototype-carenest.png" alt="Prototype Carenest" width="100%">
+</p>
+
+**Link del video del Prototipo**: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216831_upc_edu_pe/ESv_YaT-VJRMucn0qAQuCZ8BwmFMBHKUI7KpwalIRIbk7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5kqHAx>
+
 ## **4.6. Domain-Driven Software Architecture**
 ### **4.6.1. Software Architecture Context Diagram**
 <p align="center">
