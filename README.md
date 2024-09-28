@@ -2102,7 +2102,174 @@ Durante este sprint, se ha completado el desarrollo y la documentación de la la
 
 ## **5.2.2. Sprint 2**
 ### **5.2.2.1. Sprint Planning 2**
+En este segundo sprint, es esencial seguir clarificando las tareas y mantener un enfoque constante en nuestro proceso ágil. Continuamos ampliando las características ya definidas en el sprint anterior, optimizando el código funcional y progresando iterativamente en su desarrollo.
 ### **5.2.2.2. Sprint Backlog 2**
+<table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work - Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation(Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / InProcess / To-Review/ Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+    <td>US01</td>
+    <td>Presentación de la información</td>
+    <td>TKS001</td>
+    <td>Presentación de información</td>
+    <td>Como usuario interesado, Quiero que la landing page explique claramente los servicios ofrecidos Para entender cómo la plataforma puede ayudarme</td>
+    <td>3</td>
+    <td>Lynn</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>EP03</td>
+    <td>Redirección a la Plataforma</td>
+    <td>TSK002</td>
+    <td>Redirección a la plataforma</td>
+    <td>Como visitante de la landing page Quiero que al hacer click en el logo de la plataforma se me redirecciona a esta Para facilita el ingreso a esta.</td>
+    <td>3</td>
+    <td>Renzo</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-003</td>
+    <td>Inicio de sesión</td>
+    <td>TSK003</td>
+    <td>Acceder a cuenta</td>
+    <td>Como usuario deseo ingresar a la aplicación con mi cuenta registrada para usar mi perfil creado.</td>
+    <td>6</td>
+    <td>Renzo</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US04</td>
+    <td>Creación de Perfil Completo</td>
+    <td>TSK004</td>
+    <td>Crear Perfil</td>
+    <td>Como tutor Quiero crear un perfil que incluya mis habilidades, experiencia y certificaciones Para atraer a más padres.</td>
+    <td>2</td>
+    <td>Arnol</td>
+    <td>To-do</td>
+</tr>
+<tr>
+    <td>US05</td>
+    <td>Gestión de Calendario de Clases</td>
+    <td>TSK005</td>
+    <td>Gestión de Calendario de Clases	</td>
+    <td>Como tutor Quiero gestionar mi calendario de clases Para organizar mis horarios y evitar conflictos.</td>
+    <td>5</td>
+    <td>Lynn</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US08</td>
+    <td>Comunicación Directa con Padres</td>
+    <td>TSK006</td>
+    <td>Seleccionar plan</td>
+    <td>Como tutor Quiero tener un canal de comunicación directa con los padres Para resolver cualquier duda o preocupación.</td>
+    <td>4</td>
+    <td>Alejandro</td>
+    <td>In process</td>
+</tr>
+<tr>
+    <td>US10</td>
+    <td>Recepción de Solicitudes de Tutoría</td>
+    <td>TSK007</td>
+    <td>Recepción de Solicitudes de Tutoría</td>
+    <td>Como tutor Quiero recibir solicitudes de tutoría Para aceptar o rechazar según mi disponibilidad.</td>
+    <td>5</td>
+    <td>Gabriel</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US08</td>
+    <td>Comunicación Directa con Padres</td>
+    <td>TSK008</td>
+    <td>Comunicación Directa con Padres	</td>
+    <td>Como tutor Quiero tener un canal de comunicación directa con los padres Para resolver cualquier duda o preocupación.</td>
+    <td>3</td>
+    <td>Gabriel</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US11</td>
+    <td>Notificación de Cambios en el Calendario</td>
+    <td>TSK009</td>
+    <td>Notificación de Cambios en el Calendario</td>
+    <td>Como tutor Quiero notificar a los padres sobre cambios en el calendario de clases Para evitar confusiones.</td>
+    <td>4</td>
+    <td>Omar</td>
+    <td>InProcess</td>
+</tr>
+<tr>
+    <td>US12</td>
+    <td>Revisión de Feedback de Padres	</td>
+    <td>TSK010</td>
+    <td>Revisión de Feedback de Padres</td>
+    <td>Como tutor Quiero revisar el feedback de los padres Para mejorar mi método de enseñanza.</td>
+    <td>5</td>
+    <td>Alejandro</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US-025</td>
+    <td>Gestión de Pagos por Sesión</td>
+    <td>TSK011</td>
+    <td>Gestión de Pagos por Sesión</td>
+    <td>Como tutor Quiero gestionar los pagos de mis sesiones Para llevar un control de mis ingresos.</td>
+    <td>5</td>
+    <td>Omar</td>
+    <td>In process</td>
+</tr>
+<tr>
+    <td>US15</td>
+    <td>Verificación de Asistencia a Clases</td>
+    <td>TSK012</td>
+    <td>Verificación de Asistencia a Clases</td>
+    <td>Como tutor Quiero verificar la asistencia de los niños a las clases Para mantener un registro preciso.</td>
+    <td>3</td>
+    <td>Omar</td>
+    <td>In process</td>
+</tr>
+<tr>
+    <td>US16</td>
+    <td>Generación de reportes</td>
+    <td>TSK013</td>
+    <td>Generación de reportes</td>
+    <td>Como tutor Quiero generar reportes detallados sobre el desempeño de los niños en diferentes áreas Para compartir con los padres y ajustar mi enfoque educativo.</td>
+    <td>1</td>
+    <td>Lynn</td>
+    <td>Done</td>
+</tr>
+<tr>
+    <td>US26</td>
+    <td>Gestión de Pagos por Servicios</td>
+    <td>TSK014</td>
+    <td>Gestión de Pagos por Servicios</td>
+    <td>Como niñera Quiero gestionar los pagos de mis servicios Para llevar un control de mis ingresos. </td>
+    <td>3</td>
+    <td>Omar</td>
+    <td>Done</td>
+</tr>
+
+  </tbody>
+</table>
+
 ### **5.2.2.3. Development Evidence for Sprint Review**
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 ### **5.2.2.5. Execution Evidence for Sprint Review**
