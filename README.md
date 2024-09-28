@@ -2244,7 +2244,7 @@ En este segundo sprint, es esencial seguir clarificando las tareas y mantener un
     <td>Como tutor Quiero verificar la asistencia de los niños a las clases Para mantener un registro preciso.</td>
     <td>3</td>
     <td>Omar</td>
-    <td>In process</td>
+    <td>Done</td>
 </tr>
 <tr>
     <td>US16</td>
