@@ -744,6 +744,51 @@ En esta sección, presentaremos el lenguaje ubicuo, una herramienta clave para e
 ### **5.2.2.1. Sprint Planning 2**
 ### **5.2.2.2. Sprint Backlog 2**
 ### **5.2.2.3. Development Evidence for Sprint Review**
+<table><thead>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Frontend</td>
+    <td>feat/merge-dev</td>
+    <td>203ecea</td>
+    <td>feat: sign-in and sign-up component was created.</td>
+    <td>se agrego los componentes de incio de sesión y registro</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feat/chat-bounded-context</td>
+    <td>a29e476</td>
+    <td>feat: Add files via upload</td>
+    <td>se subió al repositorio todos los archivos que engloba el bonded contexto de chat</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feat/payment-method</td>
+    <td>123b966</td>
+    <td>feat: Implement bounded context for payment methods</td>
+    <td>se agrego los métodos de pagos y los precios </td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feat/reservation-bounded-context</td>
+    <td>cd5821d</td>
+    <td>feat: add ReservationCard.vue component.</td>
+    <td>se agrego todo las cards que se verán cuando se quiere reservar un servicio</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>feat/search-bounded-context</td>
+    <td>d78c644</td>
+    <td>feat:Implemento searches boundend context</td>
+    <td>se agrego el componente de búsqueda</td>
+  </tr>
+</tbody></table>
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 ### **5.2.2.5. Execution Evidence for Sprint Review**
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
