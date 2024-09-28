@@ -1,4 +1,4 @@
-<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
+![image](https://github.com/user-attachments/assets/2d8cc809-2e4f-4e57-9984-e77f5cc502dc)<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
 <h3 align="center"> Ciclo 2024 - 2 </h3>
@@ -795,9 +795,62 @@ En esta sección, presentaremos el lenguaje ubicuo, una herramienta clave para e
 ### **5.2.2.5. Execution Evidence for Sprint Review**
 En este Sprint, se logró el desarrollo del Frontend del Web Application . A continuación, presentamos capturas de pantalla de las principales vistas implementadas en este Sprint:
 
-- 
+- Register:
+<div align="center">
+  <img src="Images/register.png">
+</div>
+
+- Login:
+<div align="center">
+  <img src="Images/login.png">
+</div>
+
+- Filter:
+<div align="center">
+  <img src="Images/filter.png">
+</div>
+
+- Reservation:
+<div align="center">
+  <img src="Images/reservated.png">
+</div>
+
+- Chat:
+<div align="center">
+  <img src="Images/chat.png">
+</div>
+<div align="center">
+  <img src="Images/chatdetail.png">
+</div>
+
+- Payment:
+<div align="center">
+  <img src="Images/payment-methods.png">
+</div>
+<div align="center">
+  <img src="Images/payment-method-1.png">
+</div>
+
+<div align="center">
+  <img src="Images/payment-methods-2.png">
+</div>
+
+
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+Durante este sprint, se ha completado el desarrollo y la documentación del Fronted del Web Application. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados al Frontedn del Web Application. Esta mismo Fronted del Web Application tiene una interfaz de usuario dinamico.
+
 ### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+<h3>Durante el Sprint 2, llevamos a cabo el despliegue de nuestro Frontend del Web Applpication. A continuación, detallamos los pasos realizados:</h3>
+<ol>
+<li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de aplicación web.</li>
+<li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, como buena práctica para organizar el flujo de trabajo y futuros despliegues en entornos productivos.</li>
+<li><strong>Preparación del Frontend:</strong> Desarrollamos y diseñamos la interfaz de usuario de nuestra aplicación web, asegurándonos de que todos los archivos y recursos necesarios (HTML, CSS, JavaScript, imágenes, etc.) estén presentes en el repositorio.</li>
+<li><strong>Configuración del Entorno de Despliegue:</strong> Utilizamos un servicio de hosting como Vercel, Netlify o GitHub Pages para desplegar el frontend. Configuramos la plataforma para que tome el contenido de la rama main o cualquier rama que se use para producción.</li>
+<li><strong>Despliegue Automático:</strong> Configuramos el despliegue continuo (CI/CD) en la plataforma seleccionada para que detecte automáticamente los cambios en la rama principal (main) y despliegue la última versión del frontend de la aplicación web.</li>
+<li><strong>Verificación del Despliegue:</strong> Una vez desplegado, verificamos que la aplicación web esté accesible desde la URL proporcionada por el servicio de hosting, asegurándonos de que todas las funcionalidades del frontend operen correctamente.</li>
+
+</ol>
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
 
 ## **5.2.3. Sprint 3**
