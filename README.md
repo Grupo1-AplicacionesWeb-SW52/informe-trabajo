@@ -2272,6 +2272,7 @@ En este segundo sprint, es esencial seguir clarificando las tareas y mantener un
 
 ### **5.2.2.3. Development Evidence for Sprint Review**
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
+Entendido. La información sobre la aplicación se agregará en una etapa posterior, ya que en esta fase solo se ha trabajado en la Landing Page y el front-end.
 ### **5.2.2.5. Execution Evidence for Sprint Review**
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 ### **5.2.2.7. Software Deployment Evidence for Sprint Review**
