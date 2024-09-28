@@ -2290,6 +2290,11 @@ El enfoque en una interfaz amigable y fácil de usar permitió crear una navegac
   
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 ### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+Utilizamos el servicio de Google Firebase para el despliegue de la web Application. A continuación se mostrarán la evidencia del despliegue.
+
+- creamos y deplegamos el servicio para consumir en firebase.
+  ![image](https://github.com/user-attachments/assets/e8d50930-1c03-4972-b0b7-a8829822a35a)
+
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
 Durante el desarrollo del Front End, se utilizó Visual Studio Code junto con GitHub, siguiendo las guías de estilo previamente establecidas. Posteriormente, para la implementación en HTML, CSS y JavaScript, se empleó WebStorm. A continuación, se presentarán los diagramas de flujo que muestran los commits realizados por cada miembro del equipo.<br>
 ![image](https://github.com/user-attachments/assets/a109b3e9-625d-4d46-863a-ba8bd8bd859c)
