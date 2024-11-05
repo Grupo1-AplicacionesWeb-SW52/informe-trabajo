@@ -1022,6 +1022,87 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 | Sum of Story Points | 52 |
 
 ### **5.2.3.2. Sprint Backlog 3**
+
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-51</td>
+        <td>Navegacion</td>
+        <td>W-01</td>
+        <td>Apartado de Home y Navbar</td>
+        <td>Se creará una sección HOME y un navbar.</td>
+        <td>2</td>
+        <td>Lynn</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-52</td>
+        <td>Visualizacion de Services</td>
+        <td>W-02</td>
+        <td>Creación de la sección de "Why Choose Us?"</td>
+        <td>Se craerá la sección Why Choose Us? que presenta los beneficios o razones destacadas del producto</td>
+        <td>2</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-53</td>
+        <td>Visualización de reseñas</td>
+        <td>W-04</td>
+        <td>Creación de la sección de reseñas</td>
+        <td>Creación de una seccion de reseñas</td>
+        <td>2</td>
+        <td>Arnold</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-54</td>
+        <td>Visualización de Planes</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Planes</td>
+        <td>Se Creara la seccion de Planes </td>
+        <td>2</td>
+        <td>Anthony</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-55</td>
+        <td>Visualización de Contact</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Contact</td>
+        <td>Se Creara la seccion de Contact </td>
+        <td>2</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-56</td>
+        <td>Visualización de Footer</td>
+        <td>W-04</td>
+        <td>Creación de la sección de Footer</td>
+        <td>Se Creara la seccion de Footer con linjk de redes y contactos </td>
+        <td>2</td>
+        <td>Omar</td>
+        <td>Done</td>
+    </tr>
+</table>
 ### **5.2.3.3. Development Evidence for Sprint Review**
 ### **5.2.3.4. Testing Suite Evidence for Sprint Review**
 ### **5.2.3.5. Execution Evidence for Sprint Review**
