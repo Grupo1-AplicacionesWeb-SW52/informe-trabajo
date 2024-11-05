@@ -1043,61 +1043,61 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
         <td><strong>Status (To do / In process / To review / Done)</strong></td>
     </tr>
     <tr align="center">
-        <td>US-51</td>
+        <td>US-57</td>
         <td>Navegacion</td>
         <td>W-01</td>
-        <td>Apartado de Home y Navbar</td>
-        <td>Se creará una sección HOME y un navbar.</td>
-        <td>2</td>
+        <td>Apartado de filtrado dinamico</td>
+        <td>Se implemento el backend del filtro.</td>
+        <td>5</td>
         <td>Lynn</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-52</td>
-        <td>Visualizacion de Services</td>
+        <td>US-58</td>
+        <td>Funcionamiento del chat online</td>
         <td>W-02</td>
-        <td>Creación de la sección de "Why Choose Us?"</td>
-        <td>Se craerá la sección Why Choose Us? que presenta los beneficios o razones destacadas del producto</td>
-        <td>2</td>
+        <td>creacion del backend de chat</td>
+        <td>Se implemento el backend de la seccion de chat online</td>
+        <td>6</td>
         <td>Alejandro</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-53</td>
-        <td>Visualización de reseñas</td>
+        <td>US-59</td>
+        <td>Agregacion de servicios</td>
         <td>W-04</td>
-        <td>Creación de la sección de reseñas</td>
-        <td>Creación de una seccion de reseñas</td>
+        <td>Imnplementacion de agregacion de servicios</td>
+        <td>desarrollo del backend de agregacion de servicios</td>
         <td>2</td>
         <td>Arnold</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-54</td>
-        <td>Visualización de Planes</td>
+        <td>US-60</td>
+        <td>logica de reservaciones</td>
         <td>W-04</td>
-        <td>Creación de la sección de Planes</td>
-        <td>Se Creara la seccion de Planes </td>
+        <td>implementacion del backend para crear reservaciones</td>
+        <td>Se Creacion del backend de la seccion de "reservaciones"</td>
         <td>2</td>
         <td>Anthony</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-55</td>
-        <td>Visualización de Contact</td>
+        <td>US-61</td>
+        <td>logica de registro de cuenta</td>
         <td>W-04</td>
-        <td>Creación de la sección de Contact</td>
-        <td>Se Creara la seccion de Contact </td>
+        <td>implementacion del backend de creacion de usuario</td>
+        <td>Se Creacion del backend de la seccion de "log in" y "register" </td>
         <td>2</td>
         <td>Renzo</td>
         <td>Done</td>
     </tr>
     <tr align="center">
-        <td>US-56</td>
-        <td>Visualización de Footer</td>
+        <td>US-62</td>
+        <td>logica de pagos</td>
         <td>W-04</td>
-        <td>Creación de la sección de Footer</td>
-        <td>Se Creara la seccion de Footer con linjk de redes y contactos </td>
+        <td>Implementacion del backend del apartado "pagos"</td>
+        <td>Se Creasion del backend de la seccion de "pagos" </td>
         <td>2</td>
         <td>Omar</td>
         <td>Done</td>
