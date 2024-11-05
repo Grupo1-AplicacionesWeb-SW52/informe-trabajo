@@ -1008,6 +1008,19 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 
 ## **5.2.3. Sprint 3**
 ### **5.2.3.1. Sprint Planning 3**
+| Sprint# | Sprint 3 |
+|---|---|
+| Sprint planning Background |  |
+| Date | 2024-11-05 |
+| Time | 9:10 PM |
+| Location | Reunión virtual por Discord |
+| Prepared  By | Meza Camayo, Lynn Jeeferzon	 |
+| Attendees(to planning meeting) | Barturen Guzman, Alejandro Nicolas	 / Morales Sosa, Arnold Gabriel	 / Braithuaite Toledo, Gabriel Anthony / Araujo Ingunza, Renzo Jose / Lapa de la Cruz, Gabriel Omar	   |
+| Sprint goal & User stories |  |
+| Sprint 2 goal  | Desarrollar una parte del backend del web appplication  |
+| Sprint Velocity | 3 semanas |
+| Sum of Story Points | 52 |
+
 ### **5.2.3.2. Sprint Backlog 3**
 ### **5.2.3.3. Development Evidence for Sprint Review**
 ### **5.2.3.4. Testing Suite Evidence for Sprint Review**
