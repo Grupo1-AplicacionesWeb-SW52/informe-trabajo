@@ -58,10 +58,10 @@
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>03</td>
+        <td>06-11-24</td>
+        <td>        Meza Camayo, Lynn Jeeferzon <br> Barturen Guzman, Alejandro Nicolas <br> Morales Sosa, Arnold Gabriel<br>Braithuaite Toledo, Gabriel Anthony  <br> Araujo Ingunza, Renzo José <br> Lapa de la Cruz, Gabriel Omar <br> </td>
+        <td>Sprint 3, Heuritica, entrevistas de validacion y mejora del landing y comienzo de backend</td>
     </tr>
 </table>
 
@@ -80,6 +80,8 @@ Entregrable 1 o TB1 : (10-09-24)
 <div align="center">
 <img src="./Images/contribution-tb1.png" >
 </div>
+
+Entregrable TB2 : (06-11-24)
 
 # <font color="red">**Contenido**</font>
 
@@ -224,41 +226,98 @@ Entregrable 1 o TB1 : (10-09-24)
     <td>
       <strong>Renzo Araujo - TB1</strong><br>
       Aporté al equipo de manera asertiva mediante el desarrollo del informe del trabajo. Tales como: Competidores, análisis de competidores y sus estrategias, aporte con el diseño de las entrevistas, las entrevistas y el análisis de las mismas. Término completo del needfinding como los user personas para cada segmento objetivo, user task matrix, User journey mapping, empathy map y as-is scenario.<br>
+      <strong>Renzo Araujo - TP</strong><br>
+      Apoyé en el sprint 2 y colaboré en la mejora del informe, además de desarrollar la primera versión del bounded context de login y sign in para cuidadores y padres de familia. Contribuí activamente al liderazgo compartido y a la coordinación en el equipo para asegurar el progreso de estas funcionalidades clave.<br>
+      <strong>Renzo Araujo - TB2</strong><br>
+      Apoyé en el sprint 3 y colaboré en la mejora del informe, además de optimizar la aplicación web del bounded context de login y sign in para cuidadores y padres de familia. También inicié el desarrollo del proyecto backend de mi bounded context, contribuyendo al liderazgo compartido y al avance coordinado del equipo.<br>
       <strong>Alejandro Barturen- TB1 </strong><br>
       Aporte al equipo en el desarrollo del capitulo 3 ayudando en la creación del impact mapping y la creación de una parte de las user stories(creando las epics, las us del  segmento objetivo cuidador y las tecnical stories ). Además de mi aporte con una entrevista del segmento objetivo de cuidador <br>
+      <strong>Alejandro Barturen- TP </strong><br>
+      Durante el desarrollo del frontend para el bounded context de chat online, colaboré activamente con mi equipo para asegurar que los objetivos de mejora definidos en nuestras reuniones se implementaran con precisión. Me encargué de que la interfaz mostrara claramente la información de los usuarios y fuera intuitiva, facilitando la interacción y experiencia de uso. Este trabajo fue posible gracias a una estrecha coordinación y liderazgo compartido, donde cada miembro aportó sus ideas y habilidades para el éxito del proyecto.<br>
+      <strong>Alejandro Barturen- TB2 </strong><br>
+      Como equipo, definimos puntos de mejora para cada bounded context, y en mi caso, el de chat. Organizamos sesiones periódicas para registrar avances y resolver percances, fomentando colaboración y liderazgo compartido para cumplir los objetivos del proyecto.<br>
       <strong>Lynn Meza-TB1</strong><br>
       Fomentó la colaboración y el liderazgo compartido al participar en la descripción del StartUp y los segmentos objetivos. Desarrolló el Capítulo III: Especificación de Requisitos y trabajó en el Sprint 1 y Software Configuration Management. También se encargó del desarrollo de la sección Home y el navbar de la landing page.<br> 
+      <strong>Lynn Meza-TP</strong><br>
+      Fomentó la colaboración y el liderazgo compartido al participar en el desarrollo del sprint 2 y en la elboracion del web application. Ademas, de implementas la primera version del bounded context Search que es para buscar alos cuidadores<br> 
+      <strong>Lynn Meza-TB2</strong><br>
+      Fomentó la colaboración y el liderazgo compartido al participar en el desarrollo del sprint 3 y en la elboracion del web application. Ademas, dedesarrollar todo el bounded context de search-caregiver y del desarrollo del capitulo 5<br> 
       <strong>Arnold Morales - TB1</strong><br>
       Aporte a la colaboración del equipo en base a los temas relacionados con el Domain-Driven Software Architecture, Software Architecture Components Diagrams (Payment Context Component Diagram, User Profile Context Component Diagram, Chat Context Component Diagram & Appointment Context Component Diagram),  Software Object-Oriented Design (Class Diagram & Class Dictionary) y Database Design del capítulo 4 facilitando la estructura y arquitectura del programa para que podamos seguir con la implementación y despliegue del proyecto. Además, colaboré con una entrevista hacia el segmento objetivo de padres, apoyo en el ppt y desarrollo de la sección feature/about de la landing page.<br>
+      <strong>Arnold Morales - TP</strong><br>
+      Ayudé en la organización y desarrollo de la primera versión del frontend para el bounded context de Payment Method, enfocándome en una visualización inicial clara e intuitiva para los usuarios.<br>
+      <strong>Arnold Morales - TB2</strong><br>
+      Coordiné mejoras en la interfaz de "service-detail" para una visualización clara de disponibilidad y localización. En equipo, monitoreamos los avances en cada bounded context y realicé mi video de "about the project" para fortalecer la visión conjunta.<br>
       <strong>Gabriel Lapa - TB1</strong><br>
       Conceptualizó las características y soluciones del perfil de la startup, realizó entrevistas al segmento padre y cuidador. Además, trabajó en los Antecedentes y Problemática, así como en la elaboración del Capítulo 3 haciendo el To-Be Scenario Mapping y los User Stories. También desarrolló la sección del footer de la landing page.<br>
+      <strong>Gabriel Lapa - TP</strong><br>
+      Trabajé en definir objetivos junto con el equipo, asignando tareas específicas según las habilidades de cada miembro, para asegurar que el desarrollo de esta primera versión se completara de manera eficiente y en los tiempos acordados.<br>
+      <strong>Gabriel Lapa - TB2</strong><br>
+      Trabajé en definir objetivos junto con el equipo, asignando tareas específicas según las habilidades de cada miembro, para asegurar que el desarrollo de esta primera versión se completara de manera eficiente y en los tiempos acordados.<br>
       <strong>Gabriel Braithuaite - TB1<strong> <br>
       Realizó una guía conjunta para la creación de wireframes, donde se tomaron decisiones estratégicas para asegurar que el producto esté alineado con los principios de diseño establecidos. <br>
+      <strong>Gabriel Braithuaite - TP<strong> <br>
+      Ayudé organización de las mejoras en el frontend para el bounded context de reservations, coordinando la integración de tarjetas para una visualización más clara de los datos.<br>
+      <strong>Gabriel Braithuaite - TB2<strong> <br>
+      Coordiné junto a mi equipo la implementación de las mejoras en el bounded context de reservations, organizando sesiones de trabajo colaborativo donde discutimos y priorizamos las funcionalidades clave para optimizar el flujo de reservas<br>
     </td>
     <td>
     <strong>TB1</strong><br>
     El equipo demostró una comunicación efectiva al adaptar sus mensajes a diferentes audiencias, presentando información técnica y estratégica de manera clara y comprensible. Esta habilidad facilitó un entendimiento común y alineó los esfuerzos del proyecto, contribuyendo al éxito y a una colaboración eficiente entre todos los miembros y partes interesadas.<br>
+    <strong>TP</strong><br>
+    Durante el sprint 2, como equipo nos enfocamos en mejorar el informe y desarrollar las primeras versiones de varios bounded contexts, incluyendo los de login y sign in para cuidadores y padres de familia. Definimos objetivos de mejora y establecimos sesiones de seguimiento regulares para revisar avances y superar cualquier inconveniente. Este enfoque permitió una colaboración cercana y un liderazgo compartido, en el que cada miembro aportó su experiencia y contribuyó al éxito colectivo del proyecto.<br>
+    </td>
+    <strong>TB2</strong><br>
+    En el sprint 3, el equipo avanzó en la optimización de los bounded contexts ya desarrollados y en la implementación de mejoras en la aplicación web. Además, iniciamos el desarrollo del backend para algunos bounded contexts, fortaleciendo la estructura técnica del proyecto. Continuamos con nuestras sesiones de seguimiento para asegurar el cumplimiento de los objetivos y promover un entorno de liderazgo colaborativo, lo que nos permitió coordinar el trabajo y consolidar el progreso de manera conjunta.<br>
     </td>
   <tr>
   <tr>
     <th>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</th>
     <th>
       <strong>Renzo Araujo - TB1</strong><br>
-      Aportó efectivamente mediante el uso de las herramientas requeridas para la realización del proyecto como GitHub y UXPressia para la realización del needfinding y alcanzar el objetivo trazado.<br>
+      Aporte efectivamente mediante el uso de las herramientas requeridas para la realización del proyecto como GitHub y UXPressia para la realización del needfinding y alcanzar el objetivo trazado.<br>
+      <strong>Renzo Araujo - TP</strong><br>
+      En el sprint 2, apoyé al equipo en la mejora del informe y desarrollé la primera versión del bounded context de login y sign in para cuidadores y padres de familia. A través de una planificación estructurada y objetivos claros, contribuí a crear un ambiente colaborativo en el que todos los miembros podían participar y aportar sus ideas para el desarrollo exitoso de esta funcionalidad.<br>
+      <strong>Renzo Araujo - TB2</strong><br>
+      En el sprint 3, apoyé en la mejora del informe y optimicé la aplicación web del bounded context de login y sign in para cuidadores y padres de familia. Además, inicié el desarrollo del backend de mi bounded context. Planifiqué cada tarea de manera detallada para asegurar un flujo de trabajo claro y eficiente, contribuyendo así al cumplimiento de los objetivos y fortaleciendo el entorno de colaboración e inclusión dentro del equipo.<br>
       <strong>Alejandro Baruren -TB1</strong><br>
       Aportó efectivamente haciendo uso de las herramientas precisas para la culminación exitosa como el GitHub y Onedrive para el envio de informacion<br>
+      <strong>Alejandro Barturen- TP </strong><br>
+      Durante el desarrollo del frontend para el bounded context de chat online, promoví un entorno colaborativo donde cada miembro del equipo se sintiera escuchado e incluido en las decisiones clave. A partir de nuestras reuniones grupales, definimos objetivos de mejora y establecimos metas claras para cada fase del proyecto. Me encargué de planificar y coordinar las tareas necesarias para cumplir estos objetivos, asegurándome de que la interfaz final fuera intuitiva y mostrara claramente la información de los usuarios. Este enfoque estructurado y colaborativo permitió que el equipo alcanzara los resultados esperados de manera eficaz.<br>
+      <strong>Alejandro Barturen- TB2 </strong><br>
+      Como equipo, definimos puntos de mejora para cada bounded context, incluyendo el de chat en mi caso. Organizamos sesiones periódicas para monitorear los avances y resolver percances en el desarrollo de la página, lo cual permitió establecer metas claras y realizar un seguimiento continuo. Este enfoque colaborativo facilitó la inclusión de cada miembro en la planificación y cumplimiento de los objetivos del proyecto.<br>
       <strong>Lynn Meza - TB1</strong><br>
-      Contribuyó al desarrollo de las distintas metas propuestas para el primer sprint, trabajando en la descripción del startup, la especificación de requisitos, y el diseño y desarrollo de la landing page, asegurando la correcta implementación de la sección Home y el navbar.<br>
+      Participe con el desarrollo de las distintas metas propuestas para el primer sprint, trabajando en la descripción del startup, la especificación de requisitos, y el diseño y desarrollo de la landing page, asegurando la correcta implementación de la sección Home y el navbar.<br>
+      <strong>Lynn Meza-TP</strong><br>
+      Participe con la colaboración y el liderazgo compartido al participar en el desarrollo del sprint 2 y en la elboracion del web application. Ademas, de implementas la primera version del bounded context Search que es para buscar alos cuidadores<br> 
+      <strong>Lynn Meza-TB2</strong><br>
+      Participe con la colaboración y el liderazgo compartido al participar en el desarrollo del sprint 3, en la elboracion del web application y en el desarrollo de las validaciones de entrevistas segun heuristica. Ademas, de desarrollar el bounded context Search<br> 
       <strong>Arnold Morales - TB1</strong><br>
-      Participó en la creación de un entorno colaborativo al desarrollar las distintas metas propuestas para el primer sprint y trabajar en la arquitectura del diseño del programa para una mejor visión en torno a los objetivos a cumplir. Se usaron herramientas como Miro, LucidChart y dbdiagram.io para alcanzar dichos objetivos.<br>
+      Participe en la creación de un entorno colaborativo al desarrollar las distintas metas propuestas para el primer sprint y trabajar en la arquitectura del diseño del programa para una mejor visión en torno a los objetivos a cumplir. Se usaron herramientas como Miro, LucidChart y dbdiagram.io para alcanzar dichos objetivos.<br>
+      <strong>Arnold Morales - TP</strong><br>
+      Realicé mejoras en el Capítulo 4, rediseñando la estructura de la base de datos y enfocándome en el diseño de bounded contexts para segmentar funcionalidades. Implementé la primera versión del frontend en "service-detail," permitiendo a cuidadores/tutores gestionar su perfil y horarios. La interfaz fue diseñada para brindar una experiencia fluida e intuitiva, contribuyendo al cumplimiento de nuestros objetivos de mejora continua y experiencia de usuario.<br>
+      <strong>Arnold Morales - TB2  </strong><br>
+      Coordiné mejoras en la interfaz de "service-detail" para una visualización clara de disponibilidad y localización de servicios. En equipo, monitoreamos los avances en cada bounded context y realicé mi video de "about the project" para fortalecer la visión del proyecto y cumplir objetivos conjuntos.<br>
       <strong>Gabriel Lapa - TB1</strong><br>
       Mantuvo una colaboración continua con sus compañeros, lo que facilitó la creación del PPT de presentación y garantizó que el contenido refleja correctamente el avance y los resultados del proyecto. También gestionó de manera eficiente la planificación de tareas.<br>
+      <strong>Gabriel Lapa - TP</strong><br>
+      Ayudé en la organización y desarrollo de la primera versión del frontend para el bounded context de Payment Method, asegurando una visualización inicial clara e intuitiva para los usuarios. Trabajé junto con el equipo para definir objetivos, asignando tareas específicas según las habilidades de cada miembro, lo que facilitó un desarrollo eficiente y en los tiempos acordados.<br>
+      <strong>Gabriel Lapa - TB2</strong><br>
+      Coordiné la implementación de mejoras en el frontend del bounded context de Payment Method, añadiendo una función de historial para visualizar los pagos realizados. En equipo, definimos avances clave para la implementación del backend, estableciendo una base sólida para la gestión de datos de pagos, cumpliendo los objetivos establecidos y fortaleciendo la colaboración en cada fase del desarrollo.<br>
       <strong>Gabriel Braithuaite - TB1</strong><br>
       Contribuyó en el proceso de trabajo en Figma, fomentando la participación activa y colaborativa en la creación del diseño y asegurando que todas las decisiones fueran inclusivas y accesibles para diferentes tipos de usuarios.<br>
+      <strong>Gabriel Braithuaite - TP</strong><br>
+      Ayudé en la organización de mejoras en el frontend para el bounded context de Reservations, coordinando la integración de tarjetas para una visualización más clara de los datos. En conjunto con el equipo, definimos objetivos y asignamos tareas según las habilidades de cada miembro, asegurando una implementación efectiva de las mejoras en el frontend y cumpliendo con los tiempos establecidos.<br>
+      <strong>Gabriel Braithuaite - TB2</strong><br>
+      Coordiné junto a mi equipo la implementación de las mejoras en el bounded context de reservations, organizando sesiones de trabajo colaborativo donde discutimos y priorizamos las funcionalidades clave para optimizar el flujo de reservas.Contribuí a la creación entorno inclusivo en el equipo al fomentar la participación de cada miembro durante las revisiones de código y planificación de tareas del backend.<br>
     </th>
     <th>
       <strong>TB1:</strong><br>
       El equipo sobresalió en la comunicación escrita al adaptar documentos y presentaciones para distintos públicos, asegurando que la información técnica y estratégica fuera clara y accesible. Su capacidad para redactar especificaciones, informes y presentaciones adecuadas para diversas audiencias facilitó la comprensión y alineación de objetivos, contribuyendo significativamente al éxito y cohesión del proyecto<br>
+      <strong>TP:</strong><br>
+      Como equipo, organizamos y ejecutamos mejoras en el frontend de varios bounded contexts, como Payment Method y Reservations, para mejorar la experiencia de usuario con funcionalidades claras e intuitivas, como el historial de pagos y las tarjetas de visualización de datos. Establecimos objetivos claros y asignamos tareas específicas basadas en las fortalezas de cada miembro, logrando una colaboración fluida que permitió cumplir con los tiempos y asegurar un desarrollo eficiente.<br>
+      <strong>TB2:</strong><br>
+      En cada fase de implementación, definimos avances clave para el desarrollo del backend y frontend de los bounded contexts, lo que nos permitió establecer una base sólida para la gestión de datos y la interacción de los usuarios. Mediante reuniones de planificación y un enfoque inclusivo, trabajamos juntos para asegurar que todos los objetivos fueran cumplidos de manera efectiva, fortaleciendo así el entorno colaborativo y logrando un progreso continuo en el proyecto.<br>
     </th>
   </tr>
 </table>
@@ -2760,14 +2819,13 @@ Back-end:
 - **Conclución:** Rodirgo, como profesor particular, depende de este tipo de webs para poder contactar con futuros clientes, asi que siempre esta en busca de la mujor pagina que le facilite esta labor
 - **Evidencia:** ![image](Images/Huaman.png)
 
-
 **b) Elismar Sarmiento**
+
 - **Ocupación:** Niñera
 - **Duración de entrevista:** 3' 05''
 - **Interés de servicio:** Elismar es una niñera que le interesa la aplicacion web ya que le da la posibilidad de tener mas clientes y de tener una comunicacion mas directa con estos mismos
 - **Conclución:** Ella cree que la aplicación web mostrada presenta facilidad en el registro, tiene todo lo que se necesita para crear una cuenta, la sección de crear el perfil es intuitiva y fácil de usar. Además, ella cree que la información en el perfil de los cuidadores es completa, no tiene nada más que añadir. Cree que la comunicación con los padres es buena a través del chat. Una herramienta adicional que ella añadiría y lo encuentra beneficioso es que se pueda realizar llamadas a través del chat con los padres.
 - **Evidencia:** ![image](Images/ValidationInterview-CaregiverElismar.png)
-
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
