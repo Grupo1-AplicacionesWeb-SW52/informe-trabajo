@@ -2623,26 +2623,96 @@ Asimismo, se presentará una representación visual del tráfico de "Git clones"
 
 ### **5.2.3.3. Development Evidence for Sprint Review**
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+link de repositorio del front-ent: <https://github.com/Grupo1-AplicacionesWeb-SW52/Frontend>
+link de repositorio del back-end: <https://github.com/Grupo1-AplicacionesWeb-SW52/Backend>
+
+| **Repository** | **Branch**                       | **Commit Id**                            | **Commit Message**                                               | **Commit Message Body** | **Commited on (Date)** |
+| -------------- | -------------------------------- | ---------------------------------------- | ---------------------------------------------------------------- | ----------------------- | ---------------------- |
+| Frontend       | feat/reservation-bounded-context | 13d15e2da492d5b3a7aa9207952bccbd4527ccb2 | fix: modify App.vue                                              |                         | 28/09/2024             |
+| Frontend       | feat/reservation-bounded-context | 89c694165724e680edb6af0f7ab398926f9c97c2 | feat: add reservation item create and edit dialog component.     |                         | 28/09/2024             |
+| Frontend       | feat/reservation-bounded-context | a91f62e9381c3d7b388a235e5a65b50e01942a9b | feat: add styles to SideBar component.                           |                         | 28/09/2024             |
+| Frontend       | feat/reservation-bounded-context | 6cf9683c515e4e46aa434155573590db7ef7a769 | fix: modify template in reservation management component.        |                         | 28/09/2024             |
+| Frontend       | feat/payment-method              | 123b966f33dd4a0eb6db7ba93a613b19a8ff3774 | feat: Implement bounded context for payment methods              |                         | 28/09/2024             |
+| Frontend       | develop                          | 3712fc49f0a282826ecabc139362761af790b06e | feat: merge branch auth                                          |                         | 28/09/2024             |
+| Frontend       | develop                          | 49471f16611e455ad549bbd5f17b4e55affb62ed | fix: correction bugs                                             |                         | 28/09/2024             |
+| Frontend       | develop                          | a29e4766c39ee1c453c479b13d68d16c3d6607c1 | Add files via upload                                             |                         | 28/09/2024             |
+| Frontend       | develop                          | 339c81ffa4dc669bcd749bc22bffb7981c809974 | fix: update folder                                               |                         | 28/09/2024             |
+| Frontend       | develop                          | c42f4c8c6b46b81a5d3e7095b06ed23296643155 | fix:bug correction                                               |                         | 28/09/2024             |
+| Frontend       | develop                          | e69a6718be85528caf6f8bee049aa0787889730e | feat: merge chat boundend                                        |                         | 28/09/2024             |
+| Frontend       | develop                          | 4579cca4cd4f4d0b7bd622d73811f86127b33514 | feat: update merge                                               |                         | 28/09/2024             |
+| Frontend       | develop                          | b29d033b89d2b6ac07baac4f8d19ae1950ba6b78 | fix: update folder                                               |                         | 28/09/2024             |
+| Frontend       | develop                          | 4770a9ececd693c81ce711102f453dec133872e8 | fix: update bug                                                  |                         | 28/09/2024             |
+| Frontend       | develop                          | 0f243fde064a862f3be68bcb5cee83afdc6fb9ec | fix: merge payment boundend context                              |                         | 23/10/2024             |
+| Frontend       | develop                          | 5c997b273ee082b16feff3d2e878a74b6125a981 | fix: boundendt context reservations error correction             |                         | 23/10/2024             |
+| Frontend       | develop                          | 7d7b61bf954763301737c6cbf0f409242112ac3d | feat: merge merge-develop                                        |                         | 23/10/2024             |
+| Frontend       | develop                          | 9200251cc5a68144d087874014419adf5197d053 | update                                                           |                         | 23/10/2024             |
+| Frontend       | main                             | a5362cae5d1f8208168b73a962ebf64bd7d647f7 | update main                                                      |                         | 23/10/2024             |
+| Frontend       | main                             | befb8f35a49f6013c23cba7d18f98a9655341e76 | fix: correct errors                                              |                         | 23/10/2024             |
+| Frontend       | main                             | 5a9e3e4120331823788338ca0c5f0c4c2dac400e | Delete firebase.json                                             |                         | 04/11/2024             |
+| Frontend       | main                             | 77a36c9d80740cc09a582dcffc3f62f04787b4c2 | Delete vite.config.js                                            |                         | 04/11/2024             |
+| Frontend       | main                             | 7bd9f8307c1c28d28efaa50adf78b6c57e094a61 | update chat                                                      |                         | 04/11/2024             |
+| Frontend       | main                             | b422372150b88afced9e75c9dab0df10870e9ed3 | Update README.md                                                 |                         | 04/11/2024             |
+| Backend        | renzo                            | 34b81b7de0d6f2c92e37fb12612493b2374b2582 | chore: initial commit and aggregate shared package.              |                         | 02/11/2024             |
+| Backend        | renzo                            | 992573fdd516635c52a1917679dd7c137258cb5d | feat: create and update caregiver and parent are created.        |                         | 02/11/2024             |
+| Backend        | renzo                            | e3601bedd493ba88cff433f5cd244181bcfcf5ce | feat: Parent and Caregiver aggregate are created                 |                         | 02/11/2024             |
+| Backend        | renzo                            | 363eb092e776c23c2f4bb73cc3b26410c82e77b0 | feat: domain model are created                                   |                         | 02/11/2024             |
+| Backend        | renzo                            | 6875ff631f8b9fcb1906a7d0b0a9dfea9471251b | feat: entities and value objects.                                |                         | 02/11/2024             |
+| Backend        | renzo                            | e2cb3cb814a8eec9fd65387cab1a5b0c5e524bba | feat: update users                                               |                         | 02/11/2024             |
+| Backend        | renzo                            | 8e5cf1d918e82a5b4d7588e1813524be84ce692e | feat: update Parent endpoint and delete Caregiver endpoint       |                         | 02/10/2024             |
+| Backend        | renzo                            | d04922c54fb22ec482eb3921daa6bbbf3d5a17df | feat: endpoint ParentId is created, and "Parent" package updated |                         | 02/10/2024             |
+
 ### **5.2.3.4. Testing Suite Evidence for Sprint Review**
+
+En el alcance del sprint 3 se ha desarrollado el backend como primera instancia, por lo que no se evidencia testeo de servicios o interacciones.
 
 ### **5.2.3.5. Execution Evidence for Sprint Review**
 
+Front End:
+
+Tutor:
+
+![login](./Images/web-logind.png)
+
+![Tutor-search](./Images/webaplication-tutor.png)
+
+![Tutor-Payment](./Images/payment-tutor-sprt3.png)
+
+![Tutor-reservation](./Images/reservation-web-sprint3.png)
+
+![tutor-chat](./Images/chat-tutor1-sprint3.jpg)
+
+![tutor-char2](./Images/chat-tutor2-sprint3.jpg)
+
+Caregiver:
+
+![Caregiver-profile](./Images/caregiver-profile-sp3.png)
+
+![Caregiver-payment](./Images/caregiver-payment-sp3.png)
+
+![Caregiver-reservation](./Images/caregiver-reservation-sp3.png)
+
 ### **5.2.3.6. Services Documentation Evidence for Sprint Review**
 
-Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo del frontend y se implemento una parte del backend. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a al web application y una parte del backend.
+Durante este sprint, no se desarrollo tanto el backend.
 
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
-<h3>Durante el Sprint 3, llevamos a cabo el despliegue de nuestro Fonrtend y Backend en GitHub Pages. A continuación, detallamos los pasos realizados:</h3>
-<ol>
-  <li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de Frantend y Backend.</li>
-  <li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.</li>
-  <li><strong>Preparación del Contenido:</strong> Desarrollamos y diseñamos nuestra Frontend y Backend, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.</li>
-  <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
-  <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
-</ol>
+En el alcance del sprint 3 aun no se aprendio sobre el despliegue del backend, por lo que no se evidencia avance de ello.
 
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+front-end:
+![Insing-sprint3](./Images/insing-sp3-front.png)
+
+![contirbution-sprint3-frontend](./Images/contribution-sprint3.png)
+
+Back-end:
+
+![Insing-sprint3](./Images/insignt-backend-sp3.png)
+
+![Contribution-sprint-3](./Images/contribution-sprint3.png)
 
 ## **5.3. Validation Interviews**
 
@@ -2711,10 +2781,6 @@ UTL:
 ### **5.2.4.7. Software Deployment Evidence for Sprint Review**
 
 ### **5.2.4.8. Team Collaboration Insights during Sprint**
-
-=======
-
-> > > > > > > 47fe52ee7a878c57f23e8d58c56a60ddd7b51c68
 
 ## **5.4. Video About-the-Product**
 
