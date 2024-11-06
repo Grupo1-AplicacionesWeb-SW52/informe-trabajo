@@ -1193,7 +1193,58 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
   <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
   <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
 </ol>
+
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+## **5.3. Validation Interviews**
+
+### **5.3.1. Diseño de Entrevistas**
+
+#### Para Padres:
+
+1. ¿Qué opinas sobre la facilidad de navegación en la página web?
+2. ¿La información sobre cómo funciona el servicio es clara y comprensible?
+3. ¿Qué características del sitio consideras más útiles para encontrar un cuidador?
+4. ¿Te gustaría ver perfiles de cuidadores con más detalles? Si es así, ¿qué información adicional te gustaría incluir?
+5. ¿Cómo te sientes acerca del sistema de filtrado y búsqueda para los cuidadores?
+6. ¿Consideras que los recursos y artículos ofrecidos son relevantes y útiles?
+7. ¿La opción de contacto o chat en vivo es importante para ti? ¿Por qué?
+8. ¿Te parece que la estética de la página es atractiva y profesional?
+9. ¿Te sientes seguro/a al usar la plataforma para conectar con cuidadores?
+10. ¿Qué métodos de pago preferirías tener disponibles en la plataforma?
+11. ¿Cómo te gustaría que fuera el proceso de programación de clases con los cuidadores?
+12. ¿Tienes alguna sugerencia o mejora que te gustaría ver en la página?
+
+#### Para Cuidadores (Niñeras y Tutores)
+
+1. ¿Qué opinas sobre la facilidad de registro en la página web?
+2. ¿La sección para crear tu perfil es intuitiva y fácil de usar?
+3. ¿Qué información te gustaría incluir en tu perfil que actualmente no está disponible?
+4. ¿Consideras que el sistema de calificación y reseñas te beneficia como cuidador?
+5. ¿La presentación de la página te parece profesional y atractiva?
+6. ¿Qué características del sitio te parecen más útiles para conectar con padres?
+7. ¿Te gustaría tener herramientas adicionales en la plataforma para gestionar tu trabajo? Si es así, ¿cuáles?
+8. ¿La comunicación con los padres a través de la plataforma es clara y eficiente?
+9. ¿Qué piensas sobre el proceso de pago y las opciones que se ofrecen?
+10. ¿La sección de recursos para padres es útil para ti en tu rol como cuidador?
+11. ¿Cómo te gustaría que fuera el proceso de programación de clases con los padres?
+12. ¿Tienes alguna sugerencia o mejora que te gustaría ver en la página desde tu perspectiva como cuidador?
+
+### **5.3.2. Registro de Entrevistas**
+
+UTL:
+
+#### Segmento Objetivo 1: Cuidadores
+
+**a) Rodrigo Lopez Huaman**
+
+- **Ocupación:** Profesror particular
+- **Duración de entrevista:** 11' 24''
+- **Interés de servicio:**Rodrigo Lopez es un profesor particular que no cuenta que Le interesa la aplicacion web ya que aparte de darle visivilidad con nuevos clientes tambien le da facilidad de comunicacion con estos mismos
+- **Conclución:** Rodirgo, como profesor particular, depende de este tipo de webs para poder contactar con futuros clientes, asi que siempre esta en busca de la mujor pagina que le facilite esta labor
+- **Evidencia:** !![image](Images/Huaman.jpeg)
+
+### **5.3.3. Evaluaciones según heurísticas**
 
 ## **5.2.4. Sprint 4**
 
@@ -1213,13 +1264,9 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 
 ### **5.2.4.8. Team Collaboration Insights during Sprint**
 
-## **5.3. Validation Interviews**
+=======
 
-### **5.3.1. Diseño de Entrevistas**
-
-### **5.3.2. Registro de Entrevistas**
-
-### **5.3.3. Evaluaciones según heurísticas**
+> > > > > > > 47fe52ee7a878c57f23e8d58c56a60ddd7b51c68
 
 ## **5.4. Video About-the-Product**
 
