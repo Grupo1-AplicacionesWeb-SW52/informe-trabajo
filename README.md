@@ -2705,6 +2705,14 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 - **Interés de servicio:** Carlos Fernando es un estudiante de la carrera Ingeneria Civil que haveces hace servicios de clases particulares para un ingreso adicional, pero se le dificulta encontrar clientes. Por ello, le interesa la aplicacion para ofreser sus servicos.
 - **Conclución:** El comenta que el funcionamiento de navegacion de la aplicación es facil y simple. Las funcionalidades básicas, como la creación de reservas, visualización de precios y administración de horarios, están bien desarrolladas y son intuitivas. Resaltó la importancia de agregar un sistema de calificación para los cuidadores para asi tenr los opiniones de la gente, para uno mejorar su metodo de ofrecer sus servicios.
 - **Evidencia:** ![validation-caregiver](./Images/Entrevista-validadicon-cuidador.jpg)
+ 
+**D) Angela Fabiana, Ushiñahua Becerra**
+
+- **Ocupación:** Cuidadora a tiempo parcial
+- **Duración de entrevista:** 7:35
+- **Interés de servicio:** Angela es una cuidadora de tiempo parcial que se siente atraída por la página web porque le facilitaría encontrar clientes de manera más eficiente. Además, valora que la plataforma le permite organizar su horario de trabajo de forma más flexible, lo cual es fundamental para ella, ya que puede tener otros compromisos.
+- **Conclución:** Angela, como cuidadora de tiempo parcial, necesita plataformas web que le permitan organizar su horario de manera eficiente y acceder a más clientes. Esto no solo facilita su trabajo, sino que también mejora la calidad del servicio que ofrece, permitiéndole brindar una atención más personalizada y confiable.
+- **Evidencia:** ![validation-caregiver](./Images/Angela-entrevista.png)
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
