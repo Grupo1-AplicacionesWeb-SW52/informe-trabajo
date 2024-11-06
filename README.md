@@ -2760,14 +2760,13 @@ Back-end:
 - **Conclución:** Rodirgo, como profesor particular, depende de este tipo de webs para poder contactar con futuros clientes, asi que siempre esta en busca de la mujor pagina que le facilite esta labor
 - **Evidencia:** ![image](Images/Huaman.png)
 
-
 **b) Elismar Sarmiento**
+
 - **Ocupación:** Niñera
 - **Duración de entrevista:** 3' 05''
 - **Interés de servicio:** Elismar es una niñera que le interesa la aplicacion web ya que le da la posibilidad de tener mas clientes y de tener una comunicacion mas directa con estos mismos
 - **Conclución:** Ella cree que la aplicación web mostrada presenta facilidad en el registro, tiene todo lo que se necesita para crear una cuenta, la sección de crear el perfil es intuitiva y fácil de usar. Además, ella cree que la información en el perfil de los cuidadores es completa, no tiene nada más que añadir. Cree que la comunicación con los padres es buena a través del chat. Una herramienta adicional que ella añadiría y lo encuentra beneficioso es que se pueda realizar llamadas a través del chat con los padres.
 - **Evidencia:** ![image](Images/ValidationInterview-CaregiverElismar.png)
-
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
@@ -2805,9 +2804,11 @@ Back-end:
 
   - Incorporar recursos educativos y herramientas de seguimiento del desarrollo infantil desde el inicio. Esto no solo atraerá a más usuarios, sino que también proporcionará un valor añadido significativo a la plataforma.
 
+    - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
+
 # **Video About-the-Team**
 
-    - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
+# **Bibliografía**
 
 Del Rosario Rivero Pérez, M., & De Educación, P. M. (2013). _El valor educativo de los cuidados infantiles: para la atención de los niños y niñas de 0 a 3 años. Guía de orientación_. En Ministerio de Educación eBooks. [http://disde.minedu.gob.pe/handle/20.500.12799/5177](http://disde.minedu.gob.pe/handle/20.500.12799/5177)
 
