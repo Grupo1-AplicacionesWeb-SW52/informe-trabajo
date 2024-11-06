@@ -2680,8 +2680,6 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 
 ### **5.3.2. Registro de Entrevistas**
 
-UTL:
-
 #### Segmento Objetivo 1: Cuidadores
 
 **a) Rodrigo Lopez Huaman**
@@ -2690,7 +2688,16 @@ UTL:
 - **Duración de entrevista:** 11' 24''
 - **Interés de servicio:**Rodrigo Lopez es un profesor particular que no cuenta que Le interesa la aplicacion web ya que aparte de darle visivilidad con nuevos clientes tambien le da facilidad de comunicacion con estos mismos
 - **Conclución:** Rodirgo, como profesor particular, depende de este tipo de webs para poder contactar con futuros clientes, asi que siempre esta en busca de la mujor pagina que le facilite esta labor
-- **Evidencia:** !![image](Images/Huaman.jpeg)
+- **Evidencia:** ![image](Images/Huaman.png)
+
+
+**b) Elismar Sarmiento**
+- **Ocupación:** Niñera
+- **Duración de entrevista:** 3' 05''
+- **Interés de servicio:** Elismar es una niñera que le interesa la aplicacion web ya que le da la posibilidad de tener mas clientes y de tener una comunicacion mas directa con estos mismos
+- **Conclución:** Ella cree que la aplicación web mostrada presenta facilidad en el registro, tiene todo lo que se necesita para crear una cuenta, la sección de crear el perfil es intuitiva y fácil de usar. Además, ella cree que la información en el perfil de los cuidadores es completa, no tiene nada más que añadir. Cree que la comunicación con los padres es buena a través del chat. Una herramienta adicional que ella añadiría y lo encuentra beneficioso es que se pueda realizar llamadas a través del chat con los padres.
+- **Evidencia:** ![image](Images/ValidationInterview-CaregiverElismar.png)
+
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
