@@ -1108,6 +1108,9 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 ### **5.2.3.4. Testing Suite Evidence for Sprint Review**
 ### **5.2.3.5. Execution Evidence for Sprint Review**
 ### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+
+Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo del frontend y se implemento una parte del backend. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a al web application y una parte del backend.  
+
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
 
