@@ -19,16 +19,14 @@
 
 <div align="center">
 
-| Miembro                                |    Código     |
-| :------------------------------------- | :-----------: |
-| Meza Camayo, Lynn Jeeferzon            | U20201C320    |
-| Barturen Guzman, Alejandro Nicolas     | U202214406    |
-| Morales Sosa, Arnold Gabriel           | U201822516    |
-| Braithuaite Toledo, Gabriel Anthony    | U20201E889    |
-| Araujo Ingunza, Renzo José             | U202113612    |
-| Lapa de la Cruz, Gabriel Omar          | U202216831    |
-
-
+| Miembro                             |   Código   |
+| :---------------------------------- | :--------: |
+| Meza Camayo, Lynn Jeeferzon         | U20201C320 |
+| Barturen Guzman, Alejandro Nicolas  | U202214406 |
+| Morales Sosa, Arnold Gabriel        | U201822516 |
+| Braithuaite Toledo, Gabriel Anthony | U20201E889 |
+| Araujo Ingunza, Renzo José          | U202113612 |
+| Lapa de la Cruz, Gabriel Omar       | U202216831 |
 
 </div>
 
@@ -84,11 +82,13 @@ Entregrable 1 o TB1 : (10-09-24)
 </div>
 
 # <font color="red">**Contenido**</font>
+
 ### Tabla de contenidos
+
 - [**Registro de Versiones del Informe**](#registro-de-versiones-del-informe)
 - [**Project Report Collaboration Insights**](#project-report-collaboration-insights)
 - [**Contenido**](#contenido)
-    - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Tabla de contenidos](#tabla-de-contenidos)
 - [**Student Outcome**](#student-outcome)
 - [ **Capítulo I: Introducción** ](#-capítulo-i-introducción-)
   - [**1.1. Startup Profile**](#11-startup-profile)
@@ -165,41 +165,41 @@ Entregrable 1 o TB1 : (10-09-24)
     - [**5.1.4. Software Deployment Configuration**](#514-software-deployment-configuration)
   - [**5.2. Landing Page, Services \& Applications Implementation**](#52-landing-page-services--applications-implementation)
     - [**5.2.1. Sprint 1**](#521-sprint-1)
-        - [**5.2.1.1. Sprint Planning 1**](#5211-sprint-planning-1)
-        - [**5.2.1.2. Sprint Backlog 1**](#5212-sprint-backlog-1)
-        - [**5.2.1.3. Development Evidence for Sprint Review**](#5213-development-evidence-for-sprint-review)
-        - [**5.2.1.4. Testing Suite Evidence for Sprint Review**](#5214-testing-suite-evidence-for-sprint-review)
-        - [**5.2.1.5. Execution Evidence for Sprint Review**](#5215-execution-evidence-for-sprint-review)
-        - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
-        - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
-        - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
+      - [**5.2.1.1. Sprint Planning 1**](#5211-sprint-planning-1)
+      - [**5.2.1.2. Sprint Backlog 1**](#5212-sprint-backlog-1)
+      - [**5.2.1.3. Development Evidence for Sprint Review**](#5213-development-evidence-for-sprint-review)
+      - [**5.2.1.4. Testing Suite Evidence for Sprint Review**](#5214-testing-suite-evidence-for-sprint-review)
+      - [**5.2.1.5. Execution Evidence for Sprint Review**](#5215-execution-evidence-for-sprint-review)
+      - [**5.2.1.6. Services Documentation Evidence for Sprint Review**](#5216-services-documentation-evidence-for-sprint-review)
+      - [**5.2.1.7. Software Deployment Evidence for Sprint Review**](#5217-software-deployment-evidence-for-sprint-review)
+      - [**5.2.1.8. Team Collaboration Insights during Sprint**](#5218-team-collaboration-insights-during-sprint)
     - [**5.2.2. Sprint 2**](#522-sprint-2)
-        - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
-        - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
-        - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
-        - [**5.2.2.4. Testing Suite Evidence for Sprint Review**](#5224-testing-suite-evidence-for-sprint-review)
-        - [**5.2.2.5. Execution Evidence for Sprint Review**](#5225-execution-evidence-for-sprint-review)
-        - [**5.2.2.6. Services Documentation Evidence for Sprint Review**](#5226-services-documentation-evidence-for-sprint-review)
-        - [**5.2.2.7. Software Deployment Evidence for Sprint Review**](#5227-software-deployment-evidence-for-sprint-review)
-        - [**5.2.2.8. Team Collaboration Insights during Sprint**](#5228-team-collaboration-insights-during-sprint)
+      - [**5.2.2.1. Sprint Planning 2**](#5221-sprint-planning-2)
+      - [**5.2.2.2. Sprint Backlog 2**](#5222-sprint-backlog-2)
+      - [**5.2.2.3. Development Evidence for Sprint Review**](#5223-development-evidence-for-sprint-review)
+      - [**5.2.2.4. Testing Suite Evidence for Sprint Review**](#5224-testing-suite-evidence-for-sprint-review)
+      - [**5.2.2.5. Execution Evidence for Sprint Review**](#5225-execution-evidence-for-sprint-review)
+      - [**5.2.2.6. Services Documentation Evidence for Sprint Review**](#5226-services-documentation-evidence-for-sprint-review)
+      - [**5.2.2.7. Software Deployment Evidence for Sprint Review**](#5227-software-deployment-evidence-for-sprint-review)
+      - [**5.2.2.8. Team Collaboration Insights during Sprint**](#5228-team-collaboration-insights-during-sprint)
     - [**5.2.3. Sprint 3**](#523-sprint-3)
-        - [**5.2.3.1. Sprint Planning 3**](#5231-sprint-planning-3)
-        - [**5.2.3.2. Sprint Backlog 3**](#5232-sprint-backlog-3)
-        - [**5.2.3.3. Development Evidence for Sprint Review**](#5233-development-evidence-for-sprint-review)
-        - [**5.2.3.4. Testing Suite Evidence for Sprint Review**](#5234-testing-suite-evidence-for-sprint-review)
-        - [**5.2.3.5. Execution Evidence for Sprint Review**](#5235-execution-evidence-for-sprint-review)
-        - [**5.2.3.6. Services Documentation Evidence for Sprint Review**](#5236-services-documentation-evidence-for-sprint-review)
-        - [**5.2.3.7. Software Deployment Evidence for Sprint Review**](#5237-software-deployment-evidence-for-sprint-review)
-        - [**5.2.3.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
+      - [**5.2.3.1. Sprint Planning 3**](#5231-sprint-planning-3)
+      - [**5.2.3.2. Sprint Backlog 3**](#5232-sprint-backlog-3)
+      - [**5.2.3.3. Development Evidence for Sprint Review**](#5233-development-evidence-for-sprint-review)
+      - [**5.2.3.4. Testing Suite Evidence for Sprint Review**](#5234-testing-suite-evidence-for-sprint-review)
+      - [**5.2.3.5. Execution Evidence for Sprint Review**](#5235-execution-evidence-for-sprint-review)
+      - [**5.2.3.6. Services Documentation Evidence for Sprint Review**](#5236-services-documentation-evidence-for-sprint-review)
+      - [**5.2.3.7. Software Deployment Evidence for Sprint Review**](#5237-software-deployment-evidence-for-sprint-review)
+      - [**5.2.3.8. Team Collaboration Insights during Sprint**](#5238-team-collaboration-insights-during-sprint)
     - [**5.2.4. Sprint 4**](#524-sprint-4)
-        - [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
-        - [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
-        - [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
-        - [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
-        - [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
-        - [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
-        - [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
-        - [**5.2.4.8. Team Collaboration Insights during Sprint**](#5248-team-collaboration-insights-during-sprint)
+      - [**5.2.4.1. Sprint Planning 4**](#5241-sprint-planning-4)
+      - [**5.2.4.2. Sprint Backlog 4**](#5242-sprint-backlog-4)
+      - [**5.2.4.3. Development Evidence for Sprint Review**](#5243-development-evidence-for-sprint-review)
+      - [**5.2.4.4. Testing Suite Evidence for Sprint Review**](#5244-testing-suite-evidence-for-sprint-review)
+      - [**5.2.4.5. Execution Evidence for Sprint Review**](#5245-execution-evidence-for-sprint-review)
+      - [**5.2.4.6. Services Documentation Evidence for Sprint Review**](#5246-services-documentation-evidence-for-sprint-review)
+      - [**5.2.4.7. Software Deployment Evidence for Sprint Review**](#5247-software-deployment-evidence-for-sprint-review)
+      - [**5.2.4.8. Team Collaboration Insights during Sprint**](#5248-team-collaboration-insights-during-sprint)
   - [**5.3. Validation Interviews**](#53-validation-interviews)
     - [**5.3.1. Diseño de Entrevistas**](#531-diseño-de-entrevistas)
     - [**5.3.2. Registro de Entrevistas**](#532-registro-de-entrevistas)
@@ -264,6 +264,7 @@ Entregrable 1 o TB1 : (10-09-24)
 </table>
 
 # <font color="red"> **Capítulo I: Introducción** </font>
+
 ## **1.1. Startup Profile**
 
 ### **1.1.1. Descripción de la Startup**
@@ -292,29 +293,39 @@ El equipo de Edunest está compuesto por desarrolladores, diseñadores creativos
 ## **1.2. Solution Profile**
 
 ### **1.2.1 Antecedentes y problemática**
+
 ### What (¿Qué?)
+
 **Problema:** La creciente dificultad para acceder a cuidadores calificados y confiables para el cuidado infantil y la educación en el hogar. Este problema se traduce en un déficit en la atención personalizada que los niños necesitan para su desarrollo.  
 **Consecuencias:** Esta situación genera un alto nivel de estrés en los padres, quienes se sienten inseguros acerca del bienestar de sus hijos y la calidad de la educación que reciben en ausencia de supervisión adecuada.
 
 ### Who (¿Quién?)
+
 **Afectados:** Principalmente, padres y tutores que requieren apoyo adicional para equilibrar sus responsabilidades laborales y familiares. Este grupo incluye padres trabajadores, madres solteras y familias con múltiples hijos.  
 **Cuidadores:** Niñeras, tutores y educadores en busca de oportunidades laborales, quienes a menudo carecen de una plataforma eficiente para conectarse con las familias que necesitan sus servicios.
 
 ### Where (¿Dónde?)
+
 **Contexto:** En entornos urbanos y suburbanos de Perú, donde las familias enfrentan desafíos logísticos para encontrar cuidadores. Esto se agrava en áreas con alta densidad poblacional y donde las redes familiares son limitadas.
 
 ### When (¿Cuándo?)
+
 **Oportunidad:** La demanda de servicios de cuidado infantil y educación ha aumentado notablemente, especialmente tras la pandemia de COVID-19. Muchos padres buscan alternativas flexibles que se adapten a sus horarios y necesidades, haciendo que este sea el momento ideal para abordar esta problemática.
 
 ### Why (¿Por qué?)
+
 **Necesidad:** Los padres desean asegurar el bienestar y desarrollo educativo de sus hijos, pero enfrentan barreras como la falta de información sobre cuidadores verificados, altos costos y la incertidumbre sobre la calidad de los servicios disponibles. Esta situación no solo afecta la confianza de los padres, sino que también impacta el desarrollo emocional y educativo de los niños.
 
 ### How (¿Cómo?)
+
 **Soluciones:** Se propone desarrollar un sistema integral que facilite la búsqueda y conexión entre padres y cuidadores, garantizando que los perfiles de los cuidadores sean verificados a través de un proceso riguroso. Además, la implementación de recursos educativos y seguimiento del desarrollo infantil puede fortalecer la relación entre padres y cuidadores.
 
 ### How much (¿Cuánto?)
+
 **Impacto económico:** Los costos de contratar cuidadores a menudo son prohibitivos y pueden variar significativamente. La falta de opciones accesibles puede llevar a decisiones que no favorecen el bienestar infantil, lo que a su vez afecta la estabilidad emocional de las familias. La implementación de una plataforma eficiente puede no solo optimizar costos, sino también mejorar la calidad del servicio ofrecido.
+
 ### **1.2.2 Lean UX Process**
+
 ### 1.2.2.1. Lean UX Problem Statements
 
 #### Problem Statement para Padres:
@@ -328,12 +339,15 @@ El equipo de Edunest está compuesto por desarrolladores, diseñadores creativos
 ### 1.2.2.2. Lean UX Assumptions
 
 - **Asumimos que** los padres valorarán una plataforma que les permita acceder fácilmente a perfiles verificados de cuidadores y educadores, organizados según sus necesidades específicas.
+
   - **Sabremos que esto es cierto cuando** veamos un aumento en el uso regular de la plataforma para reservar servicios.
 
 - **Asumimos que** los cuidadores y educadores estarán dispuestos a unirse a la plataforma si se les ofrece una audiencia de familias que buscan servicios personalizados y verificados.
+
   - **Sabremos que esto es cierto cuando** observemos un incremento en el número de cuidadores registrados y activos.
 
 - **Asumimos que** la inclusión de actualizaciones en tiempo real sobre las actividades de los niños será un factor decisivo para los padres al elegir la plataforma.
+
   - **Sabremos que esto es cierto cuando** notemos un alto nivel de satisfacción entre los padres que utilizan esta funcionalidad.
 
 - **Asumimos que** los recursos educativos y el seguimiento del desarrollo infantil atraerán tanto a padres como a educadores, mejorando la retención en la plataforma.
@@ -356,6 +370,7 @@ El equipo de Edunest está compuesto por desarrolladores, diseñadores creativos
 ### **1.2.2.4. Lean UX Canvas**
 
 ##### 1.2.2.1. Lean UX Canvas
+
 <table>
   <tr>
     <th valign="top">
@@ -405,7 +420,6 @@ El equipo de Edunest está compuesto por desarrolladores, diseñadores creativos
   </tr>
 </table>
 
-
 ## **1.3. Segmentos objetivo**
 
 Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil, así como a los cuidadores, niñeras y educadores que desean expandir sus oportunidades laborales. A continuación, se presentan las características demográficas relevantes y la información estadística que respalda la importancia de cada segmento.
@@ -414,20 +428,21 @@ Nuestro segmento objetivo abarca a todos aquellos padres y tutores que buscan so
 
 Este segmento incluye a todos los padres y tutores que buscan soluciones confiables y flexibles para el cuidado infantil y la educación en el hogar. También abarca a familias que desean servicios personalizados que se adapten a sus horarios y necesidades específicas.
 
-  - Características Demográficas
-    - Edad: 20-45 años.
-    - Estado Civil: Casados, en pareja, o monoparentales.
-    - Motivaciones: Seguridad, conveniencia, educación de calidad, flexibilidad en el horario de cuidado y acceso a opciones educativas adaptadas a las necesidades de sus hijos.
+- Características Demográficas
+  - Edad: 20-45 años.
+  - Estado Civil: Casados, en pareja, o monoparentales.
+  - Motivaciones: Seguridad, conveniencia, educación de calidad, flexibilidad en el horario de cuidado y acceso a opciones educativas adaptadas a las necesidades de sus hijos.
+
 2. Niñeras
 
 Este segmento está compuesto por profesionales que trabajan como niñeras o cuidadoras infantiles. Buscan incrementar sus ingresos y expandir sus oportunidades laborales ofreciendo servicios de cuidado infantil de alta calidad. Estos profesionales valoran la flexibilidad que les permite gestionar su propio horario y trabajar en diferentes entornos.
 
-  - Características Demográficas
-    - Edad: 18-45 años.
-    - Educación: Varía desde secundaria completa hasta educación superior, con algunos poseyendo certificaciones específicas en cuidado infantil.
-    - Estado Civil: Casados, en pareja, o monoparentales.
-    - Motivaciones: Flexibilidad de horarios, la posibilidad de trabajar con familias que valoran sus habilidades, y establecer relaciones laborales estables y duraderas con las familias a las que prestan servicios.
-    
+- Características Demográficas
+  - Edad: 18-45 años.
+  - Educación: Varía desde secundaria completa hasta educación superior, con algunos poseyendo certificaciones específicas en cuidado infantil.
+  - Estado Civil: Casados, en pareja, o monoparentales.
+  - Motivaciones: Flexibilidad de horarios, la posibilidad de trabajar con familias que valoran sus habilidades, y establecer relaciones laborales estables y duraderas con las familias a las que prestan servicios.
+
 3. Educadores
 
 Este segmento está conformado por profesionales de la educación que proporcionan apoyo académico y educativo en el hogar. Buscan oportunidades para conectar con familias que necesitan servicios educativos personalizados y verificados, y están interesados en expandir sus oportunidades laborales ofreciendo servicios especializados.
@@ -438,10 +453,10 @@ Este segmento está conformado por profesionales de la educación que proporcion
   - Estado Civil: Casados, en pareja, o monoparentales.
   - Motivaciones: Ofrecer educación personalizada y adaptada a las necesidades individuales de los estudiantes, acceder a una audiencia amplia de familias en busca de apoyo educativo, y tener flexibilidad en la programación de clases y tutorías.
 
-
-
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
+
 ## **2.1. Competidores**
+
 A continuacion presentamos a nuestros tres principales competidores:
 
 - **Helpr:** se destaca por su enfoque en la seguridad y la facilidad de uso sin costos adicionales, ideal para reservas de último minuto y cuidado en situaciones imprevistas.
@@ -582,79 +597,85 @@ A continuacion presentamos a nuestros tres principales competidores:
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
-* **Diferenciación**<br>
-   ***Estrategia:*** Resaltar la tecnología avanzada y el proceso de verificación exhaustiva de cuidadores como principales diferenciadores frente a los competidores.<br>
-   ***Táctica:*** Crear contenido educativo (blogs, webinars, guías) sobre la importancia de las verificaciones de antecedentes y la tecnología en la elección de cuidadores, y cómo CareNest lidera en estos aspectos.
+- **Diferenciación**<br>
+  **_Estrategia:_** Resaltar la tecnología avanzada y el proceso de verificación exhaustiva de cuidadores como principales diferenciadores frente a los competidores.<br>
+  **_Táctica:_** Crear contenido educativo (blogs, webinars, guías) sobre la importancia de las verificaciones de antecedentes y la tecnología en la elección de cuidadores, y cómo CareNest lidera en estos aspectos.
 
-* **Expansión de Mercado**<br>
-  ***Estrategia:*** Expandir la presencia de CareNest a nuevos mercados geográficos y segmentos de clientes.<br>
-  ***Táctica:*** Adaptar la plataforma y las estrategias de marketing a los nuevos mercados identificados, incluyendo la localización de la app y la página web.
+- **Expansión de Mercado**<br>
+  **_Estrategia:_** Expandir la presencia de CareNest a nuevos mercados geográficos y segmentos de clientes.<br>
+  **_Táctica:_** Adaptar la plataforma y las estrategias de marketing a los nuevos mercados identificados, incluyendo la localización de la app y la página web.
 
-* **Fidelización y Retención**<br>
-  ***Estretegia:*** Aumentar la retención de clientes a través de programas de fidelización y mejoras en la experiencia de usuario.<br>
-  ***Táctica:*** Implementar un programa de referidos que recompense a los padres por recomendar CareNest a otros padres y cuidadores. 
+- **Fidelización y Retención**<br>
+  **_Estretegia:_** Aumentar la retención de clientes a través de programas de fidelización y mejoras en la experiencia de usuario.<br>
+  **_Táctica:_** Implementar un programa de referidos que recompense a los padres por recomendar CareNest a otros padres y cuidadores.
 
 ## **2.2. Entrevistas**
+
 ### **2.2.1. Diseño de entrevistas**
 
 #### Entrevista General:
 
-  1. ¿Podría compartir algunos de sus datos personales básicos?
-  2. ¿Qué sitios web o aplicaciones utiliza con frecuencia para buscar información sobre cuidado infantil o servicios educativos?
-  3. ¿Participa en algún grupo o foro en línea relacionado con el cuidado infantil? De ser así, ¿cuáles?
-  4. ¿Cómo se informa sobre nuevas ofertas de servicios para el cuidado infantil? (Por ejemplo, recomendaciones, redes sociales, publicidad, etc.)
+1. ¿Podría compartir algunos de sus datos personales básicos?
+2. ¿Qué sitios web o aplicaciones utiliza con frecuencia para buscar información sobre cuidado infantil o servicios educativos?
+3. ¿Participa en algún grupo o foro en línea relacionado con el cuidado infantil? De ser así, ¿cuáles?
+4. ¿Cómo se informa sobre nuevas ofertas de servicios para el cuidado infantil? (Por ejemplo, recomendaciones, redes sociales, publicidad, etc.)
 
 #### Para Padres:
 
-  1. ¿Cuáles son los aspectos más importantes que valora en un servicio de cuidado infantil? (Por ejemplo, seguridad, flexibilidad, calidad educativa, etc.)
-  2. ¿Cómo equilibra sus responsabilidades laborales con el cuidado de sus hijos?
-  3. ¿Qué desafíos ha encontrado al buscar soluciones para el cuidado infantil?
-  4. ¿Ha utilizado servicios de cuidado infantil anteriormente? ¿Cómo fue su experiencia?
-  5. ¿Qué características considera imprescindibles en una plataforma de cuidado infantil?
-  6. ¿Qué tipo de servicios educativos personalizados en el hogar le interesan?
-  7. ¿Qué nivel de flexibilidad busca en los servicios de cuidado infantil?
-  8. ¿Qué tan importante es para usted que los cuidadores estén verificados y certificados?
-  9. ¿Cuál es su presupuesto aproximado para servicios de cuidado infantil?
+1. ¿Cuáles son los aspectos más importantes que valora en un servicio de cuidado infantil? (Por ejemplo, seguridad, flexibilidad, calidad educativa, etc.)
+2. ¿Cómo equilibra sus responsabilidades laborales con el cuidado de sus hijos?
+3. ¿Qué desafíos ha encontrado al buscar soluciones para el cuidado infantil?
+4. ¿Ha utilizado servicios de cuidado infantil anteriormente? ¿Cómo fue su experiencia?
+5. ¿Qué características considera imprescindibles en una plataforma de cuidado infantil?
+6. ¿Qué tipo de servicios educativos personalizados en el hogar le interesan?
+7. ¿Qué nivel de flexibilidad busca en los servicios de cuidado infantil?
+8. ¿Qué tan importante es para usted que los cuidadores estén verificados y certificados?
+9. ¿Cuál es su presupuesto aproximado para servicios de cuidado infantil?
 
 #### Para Cuidadores (Niñeras y Tutores)
 
-  1. ¿Qué lo motivó a trabajar en el área de cuidado infantil o tutoría?
-  2. ¿Cuáles son los aspectos más importantes que valora en un empleo como cuidador o tutor? (Por ejemplo, flexibilidad, estabilidad, tipo de trabajo, etc.)
-  3. ¿Qué desafíos ha enfrentado en su carrera profesional hasta ahora?
-  4. ¿Qué tipo de servicios ofrece actualmente y cómo llegó a estos clientes?
-  5. ¿Cómo encuentra nuevas oportunidades laborales o clientes?
-  6. ¿Qué cualidades cree que son esenciales para ser un buen cuidador o tutor?
-  7. ¿Qué nivel de flexibilidad busca en su trabajo?
-  8. ¿Qué características valora en una plataforma que conecta cuidadores con familias?
-  9. ¿Qué tan importante es para usted la posibilidad de trabajar en diferentes entornos y con diferentes familias?
+1. ¿Qué lo motivó a trabajar en el área de cuidado infantil o tutoría?
+2. ¿Cuáles son los aspectos más importantes que valora en un empleo como cuidador o tutor? (Por ejemplo, flexibilidad, estabilidad, tipo de trabajo, etc.)
+3. ¿Qué desafíos ha enfrentado en su carrera profesional hasta ahora?
+4. ¿Qué tipo de servicios ofrece actualmente y cómo llegó a estos clientes?
+5. ¿Cómo encuentra nuevas oportunidades laborales o clientes?
+6. ¿Qué cualidades cree que son esenciales para ser un buen cuidador o tutor?
+7. ¿Qué nivel de flexibilidad busca en su trabajo?
+8. ¿Qué características valora en una plataforma que conecta cuidadores con familias?
+9. ¿Qué tan importante es para usted la posibilidad de trabajar en diferentes entornos y con diferentes familias?
 
 ### **2.2.2. Registro de entrevistas**
+
 UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhYnaSHMPzhMsO1lKQCt1qUBHMn25e3Zrx32djY5a0C87w?e=bMyzwk
 
 #### Segmento Objetivo 1: Padres o Tutores
+
 **a) Bertha de la Cruz**
 
 - **Ocupación:** Comerciante
 - **Duración de entrevista:** 4' 10''
-- **Interés de servicio:** Cree que un servicio de cuidado infantil le ayudaría con la labor de cuidar de sus hijos, debido a que no cuenta con el tiempo suficiente para estar al pendiente de ellos. Además, requiere  que la persona que le ayude con la labor sea ética.
+- **Interés de servicio:** Cree que un servicio de cuidado infantil le ayudaría con la labor de cuidar de sus hijos, debido a que no cuenta con el tiempo suficiente para estar al pendiente de ellos. Además, requiere que la persona que le ayude con la labor sea ética.
 - **Conclución:** Bertha es una señora que valora mucho la educación y ética de las personas, por ello requiere que los cuidadores que presten su servicio sean pacientes y tengan mucho respeto por sus hijos.
 - **Evidencia:** ![bertha de la cruz](https://github.com/user-attachments/assets/7dad2bd4-977f-403a-b960-d2337a51720c)
 
 **b) Josué Arrunátegui Aguilar**
-- **Ocupación:** Ingeniero 
+
+- **Ocupación:** Ingeniero
 - **Duración de entrevista:** 3' 58''
-- **Interés de servicio:** Josué es padre pimerizo,  y que, por motivos de trabajo no tiene tiempo para atender a su pequeño hijo, comenta que trabaja casi todo el día y que solo tiene tiempo en las noches para atenderlo. Por ello, está en búsqueda de encontrar a alguien para que los ayude en el cuidado de su pequeño hijo.
-- **Conclusión:** Josué, un padre primerizo con un horario laboral extenso, enfrenta dificultades para atender a su pequeño hijo durante el día, ya que solo dispone de tiempo en las noches debido a sus compromisos de trabajo. Esta situación lo ha llevado a buscar urgentemente a alguien que pueda ayudarlo con el cuidado de su hijo, brindándole el apoyo necesario para equilibrar sus responsabilidades laborales con sus obligaciones como padre. 
+- **Interés de servicio:** Josué es padre pimerizo, y que, por motivos de trabajo no tiene tiempo para atender a su pequeño hijo, comenta que trabaja casi todo el día y que solo tiene tiempo en las noches para atenderlo. Por ello, está en búsqueda de encontrar a alguien para que los ayude en el cuidado de su pequeño hijo.
+- **Conclusión:** Josué, un padre primerizo con un horario laboral extenso, enfrenta dificultades para atender a su pequeño hijo durante el día, ya que solo dispone de tiempo en las noches debido a sus compromisos de trabajo. Esta situación lo ha llevado a buscar urgentemente a alguien que pueda ayudarlo con el cuidado de su hijo, brindándole el apoyo necesario para equilibrar sus responsabilidades laborales con sus obligaciones como padre.
 - **Evidencia:** ![Josué arrunátegui](https://github.com/user-attachments/assets/26363fea-94e4-4fd8-a59b-ce80c03cbdf0)
 
 **c) Rodrigo Lopez Huamán**
+
 - **Ocupación:** Profesor
 - **Duración de la entrevista:** 8' 40''
-- **Interés de servicio:** Rodrigo es profesor de programación para chicos de 25 años. Además,  ayuda a estructurar las tareas y el día a día de los niños para que sean más responsables. Nos cuenta que le sería de gran ayuda una aplicación que le ayude a gestionar las tareas que les deja a sus alumnos y que pueda buscar por edades y demás.   
+- **Interés de servicio:** Rodrigo es profesor de programación para chicos de 25 años. Además, ayuda a estructurar las tareas y el día a día de los niños para que sean más responsables. Nos cuenta que le sería de gran ayuda una aplicación que le ayude a gestionar las tareas que les deja a sus alumnos y que pueda buscar por edades y demás.
 - **Conclución:** Rodrigo, un profesor de programación de 25 años que también se dedica a estructurar las tareas y la rutina diaria de sus alumnos para fomentar la responsabilidad, destaca la necesidad de una aplicación que le permita gestionar de manera más eficiente las tareas asignadas. Le gustaría contar con una herramienta que facilite la búsqueda y organización de actividades según las edades y necesidades específicas de los niños, lo cual mejoraría significativamente su labor educativa y la experiencia de aprendizaje de sus alumnos.
 - **Evidencia:** ![image](https://github.com/user-attachments/assets/6de949a4-4445-4caf-b763-b2a79532d420)
 
 **d) Henry Sosa**
+
 - **Ocupación:** Electricista / Padre de familia
 - **Duración de la entrevista:** 11' 11''
 - **Interés de servicio:** Henry es una electricista que por temas de trabajo no puede estar siempre viendo el progreso y cuidado de sus hijos. Le parece una buena idea que existiera un servicio de cuidado infantil y de aprendizaje que sea confiable y seguro. No participa en grupos de padres porque no tiene tiempo debido a su trabajo. Nos comenta que le gustaría un aplicativo que haga seguimientos constantes a sus hijos, ya que sería ideal tener el progreso constante de ellos. Además, hace enfasis en la importancia de la metodología de enseñanza de los tutores para que sus hijos aprendan y entiendan rapidamente los temas. Finalmente, también le parece muy importante la certificación y experiencia de dicho tutor o cuidador.
@@ -662,6 +683,7 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
 - **Evidencia:** ![image](https://github.com/user-attachments/assets/0965bce4-0c77-44e4-96f6-65a901e87e1f)
 
 #### Segmento Objetivo 2: Cuidadores
+
 **a) Angela Becerra**
 
 - **Ocupación:** Diseño gráfico / administración de empresas
@@ -671,33 +693,38 @@ UTL: https://upcedupe-my.sharepoint.com/:f:/g/personal/u202113612_upc_edu_pe/EhY
 - **Evidencia:** ![Angela Becerra](https://github.com/user-attachments/assets/96c88beb-f850-4640-b868-044aa1524b0c)
 
 **b) Carlos Fernando Caccha Moran**
+
 - **Ocupación:** Tutor
 - **Duración de la entrevista:** 9' 21''
-- **Interés de servicio:** Carlos desempeña la labor de tutor, encargado de orientar, enseñar y aconsejar. Utilizando aplicaciones whatsapp, discord, entre otros. Capacitado para enseñar a niños y jóvenes en cuanto al refuerzo de sus conocimientos. Interesado en tener una aplicación que le permita tener un contacto más cercano con sus alumnos y los padres de estos.    
+- **Interés de servicio:** Carlos desempeña la labor de tutor, encargado de orientar, enseñar y aconsejar. Utilizando aplicaciones whatsapp, discord, entre otros. Capacitado para enseñar a niños y jóvenes en cuanto al refuerzo de sus conocimientos. Interesado en tener una aplicación que le permita tener un contacto más cercano con sus alumnos y los padres de estos.
 - **Conclución:** Carlos, como tutor que utiliza herramientas digitales como WhatsApp y Discord para orientar y enseñar a niños y jóvenes, está buscando una solución que le permita un contacto más cercano y efectivo tanto con sus alumnos como con sus padres.
 - **Evidencia:** ![carlos fernando](https://github.com/user-attachments/assets/5a31bd34-2619-4c43-9974-34d861947418)
 
 **c) Elismar Sarmiento**
+
 - **Ocupación:** Niñera
-- **Duración de la entrevista:**  3' 26''
-- **Interés de servicio:**   Nos comenta que participa continuamente en grupos de niñera de facebook e instagram para estar al tanto de los servicios. Es una persona con paciencia y muy asertiva en su trabajo. Desaría tener una aplicación con la que se pueda comunicar y tener una mayor relación con los padres de los niños y estar al tanto de los servicios que pueda brindar.
+- **Duración de la entrevista:** 3' 26''
+- **Interés de servicio:** Nos comenta que participa continuamente en grupos de niñera de facebook e instagram para estar al tanto de los servicios. Es una persona con paciencia y muy asertiva en su trabajo. Desaría tener una aplicación con la que se pueda comunicar y tener una mayor relación con los padres de los niños y estar al tanto de los servicios que pueda brindar.
 - **Conclusión:** Nos comenta que participa activamente en grupos de niñeras en Facebook e Instagram para mantenerse informada sobre los servicios disponibles. Se describe como una persona paciente y asertiva en su trabajo, y expresa su deseo de contar con una aplicación que le permita comunicarse de manera más efectiva con los padres de los niños y fortalecer la relación con ellos. Además, busca una herramienta que le facilite estar al tanto de los servicios que puede ofrecer, optimizando así su labor como niñera.
 - **Evidencia:** ![Elismar](https://github.com/user-attachments/assets/c5293c3f-94c8-4702-b2d1-f4015458fe28)
 
 URL del video de las entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216831_upc_edu_pe/EasckSl0fndIn5dXjf5B-bEBme4iZpnu7Tk0VZaeG38rmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TXLmfw>
-  
+
 ### **2.2.3. Análisis de entrevistas**
 
 ## Análisis del Segmento Objetivo 1: Padres o Tutores
 
 1. **Interés en el Servicio:**
+
    - **100%** de los entrevistados (Bertha de la Cruz, Josué Arrunátegui Aguilar y Rodrigo López Huamán) expresan un interés significativo en mejorar el cuidado y la gestión de sus hijos. Todos buscan soluciones que les permitan conciliar sus responsabilidades laborales o mejorar la educación y estructura en la vida de sus hijos.
 
 2. **Necesidades Específicas:**
+
    - **66.7%** (Bertha de la Cruz y Josué Arrunátegui Aguilar) están principalmente preocupados por la falta de tiempo y la necesidad de encontrar cuidadores que sean éticos y confiables.
    - **33.3%** (Rodrigo López Huamán) busca una herramienta que le ayude a gestionar las tareas y actividades educativas de sus alumnos, lo que refleja una necesidad más orientada a la gestión educativa en lugar de cuidado infantil directo.
 
 3. **Características de los Entrevistados:**
+
    - **50%** (Bertha de la Cruz y Josué Arrunátegui Aguilar) trabajan en campos con horarios extensos o responsabilidades que limitan su disponibilidad para atender a sus hijos durante el día.
    - **50%** (Rodrigo López Huamán) se centra en la educación y estructura de los niños, indicando un interés en herramientas que faciliten la organización y la planificación.
 
@@ -709,26 +736,29 @@ URL del video de las entrevistas: <https://upcedupe-my.sharepoint.com/:v:/g/pers
 ## Análisis del Segmento Objetivo 2: Cuidadores
 
 1. **Interés en el Servicio:**
+
    - **100%** de los entrevistados (Ángela Becerra, Carlos Fernando Caccha Morán y Elismar Sarmiento) muestran un interés claro en una aplicación que facilite su trabajo y mejore la comunicación con padres y alumnos.
 
 2. **Necesidades Específicas:**
+
    - **66.7%** (Ángela Becerra y Elismar Sarmiento) están buscando herramientas para mejorar la visibilidad y las oportunidades de empleo, así como para comunicarse de manera más efectiva con los padres de los niños.
    - **33.3%** (Carlos Fernando Caccha Morán) está interesado en una solución que le permita gestionar de manera más efectiva la enseñanza y el contacto con los padres, destacando la importancia de la comunicación en su labor de tutoría.
 
 3. **Características de los Entrevistados:**
+
    - **66.7%** (Ángela Becerra y Elismar Sarmiento) tienen una experiencia significativa en el cuidado de niños y buscan maneras de mejorar su conexión con los padres y optimizar la búsqueda de empleo en su campo.
    - **33.3%** (Carlos Fernando Caccha Morán) utiliza herramientas digitales actuales pero busca una aplicación más especializada para facilitar su trabajo de tutoría.
 
 4. **Conclusión General:**
    - Los cuidadores en este segmento valoran enormemente la capacidad de una aplicación para mejorar su comunicación con los padres y proporcionar oportunidades de empleo más accesibles. Una herramienta que facilite estas áreas tendría un impacto positivo en su eficacia y satisfacción laboral.
 
-
 ## **2.3. Needfinding**
 
-A través del proceso de *needfinding*, se identificaron las necesidades y deseos de los usuarios finales, lo que permitió una comprensión profunda de sus expectativas y requerimientos en relación con la plataforma para el cuidado infantil y la educación en el hogar. A continuación, se destacan los hallazgos clave obtenidos a partir de las entrevistas y observaciones realizadas.
+A través del proceso de _needfinding_, se identificaron las necesidades y deseos de los usuarios finales, lo que permitió una comprensión profunda de sus expectativas y requerimientos en relación con la plataforma para el cuidado infantil y la educación en el hogar. A continuación, se destacan los hallazgos clave obtenidos a partir de las entrevistas y observaciones realizadas.
 
 ### **2.3.1. User Personas**
-En este apartado se presentan dos *user personas* que representan a los usuarios finales de la plataforma de cuidado infantil y educación en el hogar. Estas representaciones ficticias están basadas en los datos recopilados durante el proceso de *needfinding* y reflejan las características, necesidades y comportamientos de los usuarios reales.
+
+En este apartado se presentan dos _user personas_ que representan a los usuarios finales de la plataforma de cuidado infantil y educación en el hogar. Estas representaciones ficticias están basadas en los datos recopilados durante el proceso de _needfinding_ y reflejan las características, necesidades y comportamientos de los usuarios reales.
 
 **User Persona 1 - Segmento objetivo 1:** <br>
 ![Carlos Martínez](https://github.com/user-attachments/assets/4e235a35-f283-48e1-85f9-3b653bf97930)
@@ -823,36 +853,34 @@ En este apartado se presentan dos *user personas* que representan a los usuarios
   </tr>
 </table>
 
-
 **Análisis**: Analizando los User Task Matrix, Ana García se enfoca principalmente en tareas relacionadas con la búsqueda y aplicación a trabajos de niñera, y la organización de actividades educativas, con una fuerte prioridad en establecer buenas relaciones con los padres y monitorear la satisfacción de los niños bajo su cuidado. Esto refleja su objetivo de mantenerse empleada y ofrecer un cuidado de calidad. Carlos Martínez, por otro lado, se concentra en gestionar el calendario de cuidado y verificar referencias de cuidadores, priorizando la seguridad y calidad en la atención de sus hijos. Las diferencias clave radican en que Ana está más orientada a la búsqueda de oportunidades laborales y la interacción directa con los niños, mientras que Carlos está más enfocado en la gestión y verificación para garantizar un cuidado confiable para sus hijos. Ambos comparten la necesidad de optimizar el tiempo y garantizar un entorno seguro y educativo.
 
 ### **2.3.3. User Journey Mapping**
 
-***Usuario 1: Padres***
+**_Usuario 1: Padres_**
 ![Journey Map Padres](https://github.com/user-attachments/assets/7604e950-fe32-456c-9c20-4236f52cc1c8)
 
-***Usuario 2: Cuidadores***
+**_Usuario 2: Cuidadores_**
 
 ![AnaGarcía](https://github.com/user-attachments/assets/6600492d-77d6-48a1-abc8-90997dcd57b8)
 
 ### **2.3.4. Empathy Mapping**
-***Usuario 1: Padres***
+
+**_Usuario 1: Padres_**
 ![CarlosMartinezEmpathyMap](https://github.com/user-attachments/assets/b3eebc39-914a-4e2c-bd42-1d8e6ca17ec8)
 
-***Usuario 2: Cuidadores***
+**_Usuario 2: Cuidadores_**
 ![AnaGarcíaEmpathyMap](https://github.com/user-attachments/assets/83b2dd79-9034-4edf-9e5e-6e6cb96c2d7d)
-
-
 
 ### **2.3.5. As-is Scenario Mapping**
 
-**As-Is Scenario map del segmento 1: Carlos Martinez***
+**As-Is Scenario map del segmento 1: Carlos Martinez\***
 ![As-IsScenarioMappingCarlosMartinez](https://github.com/user-attachments/assets/fcf35123-2297-4213-ac23-add5e022724b)
-https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
+https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244
 
-**As-Is Scenario map del segmento 2: Ana García***
+**As-Is Scenario map del segmento 2: Ana García\***
 ![As-IsScenarioMappingAnaGarcía](https://github.com/user-attachments/assets/1366ddb7-057a-4061-b1dd-9afeaf2e4aea)
-https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244 
+https://miro.com/app/board/uXjVKjTSCdI=/?share_link_id=898690112244
 
 ## **2.4. Ubiquitous Language**
 
@@ -871,95 +899,100 @@ En esta sección, presentaremos el lenguaje ubicuo, una herramienta clave para e
 # <font color="red"> **Capítulo III: Requirements Specification**</font>
 
 ## **3.1. To-Be Scenario Mapping**
-**To-Be Scenario map del segmento 1: Carlos Martinez***
+
+**To-Be Scenario map del segmento 1: Carlos Martinez\***
 ![image](Images/ToBeScenario-Carlos.jpeg)
 https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 
-**To-Be Scenario map del segmento 2: Ana García***
+**To-Be Scenario map del segmento 2: Ana García\***
 ![image](Images/ToBeScenario-Ana.jpeg)
 https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 
 ## **3.2. User Stories**
-| Epic/User Story ID | Título | Descripción | Criterios de aceptación | Relación con (Epic ID) |
-|---|---|---|---|---|
-| EP01 | Presentación de información | Como usuario de la landing page Quiero visualizar la información del startup Para ver si hay interés por el proyecto  | No corresponde  | No corresponde  |
-| EP02 | Enviar Consulta | Como usuario de la landing page Quiero enviar una solicitud de consulta Para que los desarrolladores me informen | No corresponde  | No corresponde  |
-| EP03 | Redirección a la Plataforma  | Como usuario de la landing page Quiero  desde la landing page  se me redirecciona  a la plataforma  Para acceder de forma más sencilla  a la plataforma | No corresponde  | No corresponde  |
-| EP04 | Búsqueda de Cuidadores | Como padre Quiero buscar niñeras y tutores según las necesidades de mi hijo Para contratar al mejor cuidador | No corresponde  | No corresponde  |
-| EP05 | Programación de Sesiones | Como padre Quiero programar sesiones de cuidado o clases Para asegurarme de que mi hijo reciba la atención necesaria | No corresponde  | No corresponde  |
-| EP06 | Recepción de Actualizaciones en Tiempo Real | Como padre Quiero recibir actualizaciones en tiempo real sobre las actividades de mi hijo Para estar informado constantemente  | No corresponde  | No corresponde  |
-| EP07 | Gestión de Pagos | Como padre  Quiero gestionar los pagos a las niñeras y tutores Para asegurar una transacción segura y confiable | No corresponde  | No corresponde  |
-| EP08 | Creación de Perfil de Niñera | Como niñera Quiero crear un perfil detallado Para mostrar mis habilidades y experiencia. | No corresponde  | No corresponde  |
-| EP09 | Gestión de Disponibilidad | Como niñera Quiero gestionar mi calendario de disponibilidad Para organizar mis horarios de trabajo | No corresponde  | No corresponde  |
-| EP10 | Recepción de Solicitudes de Servicio | Como niñera Quiero recibir y responder a solicitudes de servicios de cuidado infantil Para aceptar trabajos rápidamente | No corresponde  | No corresponde  |
-| EP11 | Seguimiento de Actividades | Como niñera  Quiero registrar las actividades que realizo con los niños Para informar a los padres | No corresponde  | No corresponde  |
-| EP12 | Creación de Perfil de Tutor | Como educador Quiero crear un perfil detallado Para mostrar mis habilidades y experiencia en la enseñanza | No corresponde  | No corresponde  |
-| EP13 | Gestión de Sesiones Educativas | Como educador Quiero gestionar mis sesiones educativas Para mantener un registro de las clases que ofrezco | No corresponde  | No corresponde  |
-| EP14 | Comunicación con Padres | Como educador  Quiero comunicarme con los padres Para informarles sobre el progreso de sus hijos | No corresponde  | No corresponde  |
-| EP15 | Evaluación del Progreso Infantil | Como educador Quiero evaluar el progreso de los niños Para adaptar mis clases a sus necesidades | No corresponde  | No corresponde  |
-| US01 | Presentación de la información | Como usuario interesado, Quiero que la landing page explique claramente los servicios ofrecidos Para entender cómo la plataforma puede ayudarme | Escenario 1: Visualización de la información de servicios Dado que un usuario carga la landing page Cuando la información de los servicios aparece Entonces se muestra de manera clara  .  | EP01 |
-| US02 | Consulta de información  | Como visitante de la landing page Quiero enviar consultas sobre información a los desarrolladores Para no tener dudas sobre la plataforma | Escenario 1 : Envío de consultas desde la landing page Dado que un visitante desea hacer una consulta Cuando utiliza el formulario de contacto Entonces el sistema recibe y confirma el envío de la consulta   Escenario 2: Error al enviar consulta Dado que un visitante intenta enviar una consulta Cuando ocurre un error técnico Entonces recibe un mensaje de error solicitando que intente nuevamente más tarde. | EP02 |
-| US03 | Redirección a la plataforma  | Como visitante de la landing page Quiero que al hacer click en el logo de la plataforma se me redirecciona a esta Para facilita el ingreso a esta  | Escenario 1: Redirección exitosa al hacer clic en el logo Dado que un visitante ve el logo de la plataforma en la landing page Cuando hace clic en el logo Entonces es redirigido a la página principal de la plataforma. Escenario 2: Fallo en la redirección Dado que un visitante intenta acceder a la plataforma haciendo clic en el logo Cuando ocurre un problema en la redirección Entonces el visitante recibe un mensaje de error o no sucede nada. | EP03 |
-| US04 | Creación de Perfil Completo  | Como tutor Quiero crear un perfil que incluya mis habilidades, experiencia y certificaciones Para atraer a más padres |  Escenario 2: Creación y guardado de perfil exitoso Dado que un tutor ingresa sus habilidades, experiencia y certificación Cuando completa y guarda su perfil Entonces el perfil se guarda correctamente y es visible para los padres. Escenario 2: Error al guardar el perfil Dado que un tutor intenta guardar su perfil Cuando ocurre un problema técnico Entonces el tutor recibe un mensaje de error y no se guarda el perfil.     | EP12 |
-| US05 | Gestión de Calendario de Clases | Como tutor  Quiero gestionar mi calendario de clases Para organizar mis horarios y evitar conflictos | Escenario 1: Gestión exitosa del calendario Dado que un tutor planifica sus clases Cuando ingresa las fechas y horas en su calendario Entonces las clases se añaden sin conflictos de horarios. Escenario 2: Conflicto de horario en el calendario Dado que un tutor intenta agregar una clase Cuando elige un horario que ya está ocupado Entonces recibe una alerta para seleccionar un horario diferente. | EP13 |
-| US06 | Envío de Informes de Progreso | Como tutor Quiero enviar informes de progreso a los padres Para que estén informados sobre el avance de sus hijos. | Escenario 1: Envío exitoso de informes Dado que un tutor completa un informe de progreso, Cuando lo envía a los padres Entonces los padres reciben el informe y pueden visualizarlo. Escenario 2: Error en el envío de informes Dado que un tutor intenta enviar un informe Cuando ocurre un problema en el sistema Entonces el informe no se envía, y el tutor recibe un mensaje de error. | EP14 |
-| US07 | Evaluación del Desempeño Infantil | Como tutor, Quiero evaluar el desempeño de los niños en mis clases Para ajustar mi método de enseñanza | Escenario 1: Evaluación exitosa del desempeño Dado que un tutor completa la evaluación de un niño Cuando registra los resultados Entonces los resultados se guardan y se pueden usar para ajustar las lecciones futuras. Escenario 2: Fallo en la evaluación Dado que un tutor intenta registrar una evaluación Cuando ocurre un problema técnico Entonces la evaluación no se guarda, y el tutor recibe un mensaje de error. | EP15 |
-| US08 | Comunicación Directa con Padres | Como tutor Quiero tener un canal de comunicación directa con los padres Para resolver cualquier duda o preocupación | Escenario 1: Comunicación exitosa con los padres Dado que un tutor inicia una conversación con los padres Cuando envía un mensaje Entonces los padres reciben el mensaje y pueden responder. Escenario 2: Problemas en la comunicación Dado que un tutor intenta enviar un mensaje Cuando ocurre un problema en el sistema Entonces el mensaje no se envía, y el tutor recibe un mensaje de error. | EP14 |
-| US09 | Publicación de Disponibilidad | Como tutor, Quiero publicar mi disponibilidad Para que los padres puedan programar clases de manera conveniente | Escenario 1: Publicación exitosa de disponibilidad Dado que un tutor establece su disponibilidad Cuando publica su calendario Entonces los padres pueden ver los horarios disponibles y programar clases. Escenario 2: Error al publicar disponibilidad Dado que un tutor intenta publicar su disponibilidad Cuando ocurre un problema técnico Entonces la disponibilidad no se publica, y el tutor recibe un mensaje de error | EP13 |
-| US10 | Recepción de Solicitudes de Tutoría | Como tutor Quiero recibir solicitudes de tutoría Para aceptar o rechazar según mi disponibilidad | Escenario 1: Recepción exitosa de solicitud Dado que un tutor recibe una solicitud de tutoría Cuando revisa la solicitud Entonces puede aceptarla o rechazarla según su disponibilidad. Escenario 2: Error en la recepción de solicitud Dado que un tutor espera recibir una solicitud Cuando ocurre un problema técnico Entonces no recibe la solicitud, y se muestra un mensaje de error | EP13 |
-| US11 | Notificación de Cambios en el Calendario | Como tutor Quiero notificar a los padres sobre cambios en el calendario de clases Para evitar confusiones | Escenario 1: Notificación exitosa de cambios Dado que un tutor realiza un cambio en su calendario Cuando guarda el cambio Entonces los padres reciben una notificación con los detalles actualizados.  Escenario 2: Fallo en la notificación de cambios Dado que un tutor intenta notificar a los padres Cuando ocurre un problema técnico Entonces los padres no reciben la notificación, y el tutor recibe un mensaje de error | EP13 |
-| US12 | Revisión de Feedback de Padres | Como tutor Quiero revisar el feedback de los padres Para mejorar mi método de enseñanza | Escenario 1: Revisión exitosa de feedback Dado que un tutor recibe feedback de los padres Cuando revisa el feedback Entonces puede responder y hacer ajustes en su método de enseñanza Escenario 2: Problemas al revisar feedback Dado que un tutor intenta revisar el feedback Cuando ocurre un problema técnico Entonces el tutor no puede acceder al feedback, y recibe un mensaje de error. | EP14 |
-| US13 | Gestión de Pagos por Sesión | Como tutor Quiero gestionar los pagos de mis sesiones Para llevar un control de mis ingresos | Escenario 1: Gestión exitosa de pagos Dado que un tutor recibe un pago por una sesión Cuando verifica su cuenta Entonces ve el pago registrado correctamente. Escenario 2: Problemas en la gestión de pagos Dado que un tutor espera recibir un pago Cuando ocurre un problema en el sistema Entonces no ve el pago reflejado, y recibe una alerta para resolver el problema. | EP07 |
-| US14 | Configuración de Preferencias de Enseñanza | Como tutor Quiero configurar mis preferencias de enseñanza Para atraer a padres con necesidades específicas | Escenario 1: Configuración exitosa de preferencias Dado que un tutor establece sus preferencias Cuando guarda la configuración Entonces los padres pueden ver estas preferencias en el perfil del tutor. Escenario 2: Fallo en la configuración de preferencias Dado que un tutor intenta configurar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y el tutor recibe un mensaje de error. | EP13 |
-| US15 | Verificación de Asistencia a Clases | Como tutor Quiero verificar la asistencia de los niños a las clases Para mantener un registro preciso | Escenario 1: Verificación exitosa de asistencia Dado que un tutor registra la asistencia de los niños Cuando marca a un niño como presente o ausente Entonces la asistencia se guarda correctamente en el sistema. Escenario 2: Error en la verificación de asistencia Dado que un tutor intenta registrar la asistencia Cuando ocurre un problema técnico Entonces la asistencia no se guarda, y el tutor recibe un mensaje de error. | EP13 |
-| US16 | Generación de reportes  | Como tutor Quiero   generar reportes detallados sobre el desempeño de los niños en diferentes áreas Para compartir con los padres y ajustar mi enfoque educativo | Escenario 1: Generación exitosa de reportes Dado que un tutor completa un reporte Cuando genera el documento Entonces el reporte incluye todos los detalles relevantes y se envía a los padres. Escenario 2: Fallo en la generación de reportes Dado que un tutor intenta generar un reporte Cuando ocurre un problema técnico Entonces el reporte no se genera, y el tutor recibe un mensaje de error. | EP15 |
-| US17 | Asignación De tareas  | Como tutor Quiero revisar las tareas y proyectos enviados por los niños Para proporcionar retroalimentación constructiva | Escenario 1: Revisión exitosa de tareas Dado que un tutor recibe una tarea de un estudiante, Cuando revisa la tarea, Entonces puede proporcionar retroalimentación y asignar una calificación.  Escenario 2: Problema en la revisión de tareas Dado que un tutor intenta revisar una tarea Cuando ocurre un problema técnico Entonces no puede acceder a la tarea, y recibe un mensaje de error. | EP13 |
-| US18 | Recepción de preguntas de alumnos  | Como tutor Quiero  permitir que los niños envíen preguntas sobre las lecciones fuera de horario Para aclarar dudas y asegurar la comprensión del material | Escenario 1: Recepción exitosa de preguntas Dado que un tutor habilita la función de preguntas Cuando un estudiante envía una pregunta Entonces el tutor recibe la pregunta y puede responder en un plazo determinado. Escenario 2: Problema en la recepción de preguntas Dado que un tutor espera recibir preguntas de los estudiantes Cuando ocurre un problema en el sistema Entonces el tutor no recibe las preguntas, y se muestra un mensaje de error. | EP14 |
-| US19 | Creación de Perfil Completo | Como niñera Quiero crear un perfil que incluya mis habilidades, experiencia y certificaciones Para atraer a más padres | Escenario 1: Creación y guardado de perfil exitoso Dado que una niñera ingresa sus habilidades, experiencia y certificaciones Cuando completa y guarda su perfil Entonces el perfil se guarda correctamente y es visible para los padres Escenario 2: Error al guardar el perfil Dado que una niñera intenta guardar su perfil Cuando ocurre un problema técnico Entonces el perfil no se guarda, y recibe un mensaje de error | EP08 |
-| US20 | Gestión de Calendario de Disponibilidad | Como niñera Quiero gestionar mi calendario de disponibilidad Para organizar mis horarios y evitar conflictos | Escenario 1: Gestión exitosa del calendario Dado que una niñera establece su disponibilidad Cuando ingresa las fechas y horas en su calendario Entonces la disponibilidad se publica correctamente y está visible para los padre Escenario 2: Conflicto de horario en el calendario Dado que una niñera intenta agregar una disponibilidad Cuando elige un horario que ya está ocupado Entonces recibe una alerta para seleccionar otro horario. | EP09 |
-| US21 | Recepción de Solicitudes de Cuidado Infantil | Como niñera Quiero recibir solicitudes de cuidado infantil Para aceptar o rechazar según mi disponibilidad | Escenario 1: Recepción exitosa de solicitud Dado que una niñera recibe una solicitud de cuidado infantil Cuando revisa la solicitud Entonces puede aceptarla o rechazarla según su disponibilidad. Escenario 2: Error en la recepción de solicitud Dado que una niñera espera recibir una solicitud de cuidado infantil Cuando ocurre un problema técnico Entonces no recibe la solicitud, y se muestra un mensaje de error | EP10 |
-| US22 | Registro de Actividades Infantiles | Como niñera Quiero registrar las actividades que realizo con los niños Para informar a los padres | Escenario 1: Registro exitoso de actividades Dado que una niñera realiza actividades con los niños Cuando ingresa la información en el sistema Entonces los padres pueden ver el registro de actividades completado correctamente. Escenario 2: Error en el registro de actividades Dado que una niñera intenta registrar las actividades realizadas Cuando ocurre un problema técnico Entonces las actividades no se registran, y la niñera recibe un mensaje de error  | EP11 |
-| US23 | Comunicación Directa con Padres | Como niñera Quiero tener un canal de comunicación directa con los padres Para resolver cualquier duda o preocupación | Escenario 1: Comunicación exitosa con los padres Dado que una niñera inicia una conversación con los padres Cuando envía un mensaje Entonces los padres reciben el mensaje y pueden responder.  Escenario 2: Problemas en la comunicación Dado que una niñera intenta enviar un mensaje Cuando ocurre un problema en el sistema Entonces el mensaje no se envía, y la niñera recibe un mensaje de error | EP11 |
-| US24 | Publicación de Disponibilidad | Como niñera Quiero publicar mi disponibilidad Para que los padres puedan programar cuidado infantil de manera conveniente | Escenario 1: Publicación exitosa de disponibilidad Dado que una niñera establece su disponibilidad Cuando publica su calendario Entonces los padres pueden ver los horarios disponibles y programar el cuidado infantil. Escenario 2: Error al publicar disponibilidad Dado que una niñera intenta publicar su disponibilidad Cuando ocurre un problema técnico Entonces la disponibilidad no se publica, y la niñera recibe un mensaje de error | EP09 |
-| US25 | Revisión de Feedback de Padres | Como niñera Quiero revisar el feedback de los padres Para mejorar mi servicio de cuidado infantil | Escenario 1: Revisión exitosa de feedback Dado que una niñera recibe feedback de los padres Cuando revisa el feedback Entonces puede responder y hacer ajustes en su servicio de cuidado infantil. Escenario 2: Problemas al revisar feedback Dado que una niñera intenta revisar el feedback Cuando ocurre un problema técnico Entonces la niñera no puede acceder al feedback, y recibe un mensaje de error. | EP11 |
-| US26 | Gestión de Pagos por Servicios | Como niñera Quiero gestionar los pagos de mis servicios Para llevar un control de mis ingresos  | Escenario 1: Gestión exitosa de pagos Dado que una niñera recibe un pago por sus servicios Cuando verifica su cuenta Entonces ve el pago registrado correctamente. Escenario 2: Problemas en la gestión de pagos Dado que una niñera espera recibir un pago Cuando ocurre un problema en el sistema Entonces no ve el pago reflejado, y recibe una alerta para resolver el problema. | EP10 |
-| US27 | Evaluación de Solicitudes | Como niñera, quiero evaluar las solicitudes de cuidado infantil recibidas Para aceptar las que mejor se ajusten a mi disponibilidad y habilidades | Escenario 1: Evaluación exitosa de solicitudes Dado que una niñera recibe una solicitud de cuidado infantil Cuando revisa la solicitud Entonces puede aceptarla o rechazarla según su disponibilidad y habilidades. Escenario 2: Error en la evaluación de solicitudes Dado que una niñera intenta revisar una solicitud Cuando ocurre un problema técnico Entonces no puede evaluar la solicitud, y recibe un mensaje de error. | EP10 |
-| US28 | Actualización de Datos de Perfil | Como niñera, quiero actualizar la información en mi perfil Para mantener mis habilidades y experiencia al día | Escenario 1: Actualización exitosa del perfil Dado que una niñera actualiza la información en su perfil Cuando guarda los cambios Entonces la información actualizada se refleja correctamente en el perfil. Escenario 2: Error al actualizar el perfil Dado que una niñera intenta actualizar su perfil Cuando ocurre un problema técnico Entonces los cambios no se guardan, y la niñera recibe un mensaje de error. | EP08 |
-| US29 | Visualización de Solicitudes Recientes | Como niñera, quiero ver las solicitudes de cuidado infantil recientes Para responder rápidamente a las nuevas solicitudes | Escenario 1: Visualización exitosa de solicitudes recientes Dado que una niñera accede a la sección de solicitudes Cuando visualiza la lista de solicitudes Entonces puede ver las solicitudes recientes ordenadas por fecha. Escenario 2: Error en la visualización de solicitudes Dado que una niñera intenta ver las solicitudes recientes Cuando ocurre un problema técnico Entonces no puede ver las solicitudes, y recibe un mensaje de error. | EP10 |
-| US30 | Notificación de Nuevas Solicitudes | Como niñera, quiero recibir notificaciones de nuevas solicitudes de cuidado infantil Para actuar de inmediato y no perder oportunidades | Escenario 1: Notificación exitosa de nuevas solicitudes Dado que una niñera recibe una nueva solicitud Cuando el sistema envía una notificación Entonces la niñera recibe una alerta sobre la nueva solicitud. Escenario 2: Error en la notificación de nuevas solicitudes Dado que una niñera espera recibir una notificación Cuando ocurre un problema técnico Entonces no recibe la alerta, y recibe un mensaje de error. | EP10 |
-| US31 | Acceso a Recursos Educativos | Como niñera, quiero acceder a recursos educativos adicionales Para mejorar mis habilidades y conocimientos en cuidado infantil | Escenario 1: Acceso exitoso a recursos educativos Dado que una niñera busca recursos educativos Cuando accede a la sección de recursos Entonces puede visualizar y descargar materiales educativos. Escenario 2: Problemas en el acceso a recursos Dado que una niñera intenta acceder a recursos educativos Cuando ocurre un problema técnico Entonces no puede acceder a los materiales, y recibe un mensaje de error. | EP11 |
-| US32 | Registro de Horas de Trabajo | Como niñera, quiero registrar las horas de trabajo dedicadas a cada niño Para llevar un control preciso del tiempo trabajado | Escenario 1: Registro exitoso de horas de trabajo Dado que una niñera trabaja con un niño Cuando ingresa las horas trabajadas Entonces el tiempo se registra correctamente en el sistema. Escenario 2: Error en el registro de horas de trabajo Dado que una niñera intenta registrar horas de trabajo Cuando ocurre un problema técnico Entonces las horas no se registran, y la niñera recibe un mensaje de error. | EP11 |
-| US33 | Visualización de Reseñas de Padres | Como niñera, quiero ver las reseñas dejadas por los padres Para entender mejor mi desempeño y áreas de mejora | Escenario 1: Visualización exitosa de reseñas Dado que una niñera accede a la sección de reseñas Cuando revisa las reseñas Entonces puede ver todos los comentarios y calificaciones dejadas por los padres. Escenario 2: Error en la visualización de reseñas Dado que una niñera intenta ver reseñas Cuando ocurre un problema técnico Entonces no puede acceder a las reseñas, y recibe un mensaje de error. | EP11 |
-| US34 | Configuración de Preferencias de Trabajo | Como niñera, quiero configurar mis preferencias de trabajo (por ejemplo, edad de los niños, tipo de cuidado) Para recibir solicitudes que se ajusten a mis preferencias | Escenario 1: Configuración exitosa de preferencias Dado que una niñera establece sus preferencias de trabajo Cuando guarda los cambios Entonces las solicitudes recibidas se ajustan a estas preferencias. Escenario 2: Fallo en la configuración de preferencias Dado que una niñera intenta configurar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y la niñera recibe un mensaje de error. | EP08 |
-| US35 | Filtrado de Cuidadores por Experiencia | Como padre, quiero filtrar los cuidadores por experiencia y habilidades Para encontrar a los más calificados para mi hijo | Escenario 1: Filtrado exitoso por experiencia Dado que un padre utiliza los filtros de búsqueda Cuando selecciona las opciones de experiencia Entonces se muestran los cuidadores que cumplen con los criterios. Escenario 2: Error en el filtrado de cuidadores Dado que un padre intenta filtrar los cuidadores Cuando ocurre un problema técnico Entonces no se aplican los filtros y el padre recibe un mensaje de error. | EP04 |
-| US36 | Verificación de Certificaciones de Cuidadores | Como padre, quiero verificar las certificaciones de los cuidadores Para asegurarme de que cumplen con los requisitos necesarios | Escenario 1: Verificación exitosa de certificaciones Dado que un padre revisa el perfil de un cuidador Cuando accede a la sección de certificaciones Entonces puede ver las certificaciones válidas y actualizadas. Escenario 2: Problema en la verificación de certificaciones Dado que un padre intenta revisar certificaciones Cuando ocurre un problema técnico Entonces no puede ver las certificaciones, y recibe un mensaje de error. | EP04 |
-| US37 | Recepción de Notificaciones de Actividades | Como padre, quiero recibir notificaciones sobre las actividades diarias de mi hijo Para estar al tanto de su progreso y bienestar | Escenario 1: Recepción exitosa de notificaciones Dado que un padre se suscribe a las notificaciones Cuando el cuidador registra una actividad Entonces el padre recibe una notificación con los detalles de la actividad. Escenario 2: Error en la recepción de notificaciones Dado que un padre espera recibir notificaciones Cuando ocurre un problema técnico Entonces no recibe la notificación, y recibe un mensaje de error. | EP06 |
-| US38 | Revisión de Horarios de Disponibilidad de Cuidadores | Como padre, quiero revisar los horarios de disponibilidad de los cuidadores Para programar sesiones de cuidado de acuerdo a mi conveniencia | Escenario 1: Revisión exitosa de horarios Dado que un padre accede al calendario de disponibilidad Cuando revisa los horarios Entonces puede ver las fechas y horas disponibles para programar el cuidado. Escenario 2: Problema en la revisión de horarios Dado que un padre intenta revisar los horarios de disponibilidad Cuando ocurre un problema técnico Entonces no puede ver la disponibilidad, y recibe un mensaje de error. | EP05 |
-| US39 | Cancelación de Sesiones Programadas | Como padre, quiero cancelar una sesión programada con un cuidador Para reorganizar el cuidado según mis necesidades | Escenario 1: Cancelación exitosa de sesión Dado que un padre desea cancelar una sesión Cuando realiza la solicitud de cancelación Entonces la sesión se cancela correctamente y el padre recibe una confirmación. Escenario 2: Error en la cancelación de sesión Dado que un padre intenta cancelar una sesión Cuando ocurre un problema técnico Entonces la sesión no se cancela, y el padre recibe un mensaje de error. | EP05 |
-| US40 | Agregar Comentarios a Cuidadores | Como padre, quiero agregar comentarios sobre los cuidadores Para ayudar a otros padres a tomar decisiones informadas | Escenario 1: Agregación exitosa de comentarios Dado que un padre termina una sesión con un cuidador Cuando deja un comentario y lo envía Entonces el comentario se publica y es visible para otros padres. Escenario 2: Problema en la adición de comentarios Dado que un padre intenta dejar un comentario Cuando ocurre un problema técnico Entonces el comentario no se publica, y el padre recibe un mensaje de error. | EP11 |
-| US41 | Configuración de Preferencias de Cuidado | Como padre, quiero configurar mis preferencias de cuidado infantil (por ejemplo, edad, tipo de cuidado) Para encontrar cuidadores que se ajusten a mis necesidades | Escenario 1: Configuración exitosa de preferencias Dado que un padre establece sus preferencias Cuando guarda los cambios Entonces solo se muestran los cuidadores que cumplen con las preferencias configuradas. Escenario 2: Error en la configuración de preferencias Dado que un padre intenta configurar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y el padre recibe un mensaje de error. | EP04 |
-| US42 | Verificación de Experiencia de Cuidadores | Como padre, quiero verificar la experiencia laboral de los cuidadores Para asegurarme de que tienen la experiencia necesaria para cuidar a mi hijo | Escenario 1: Verificación exitosa de experiencia Dado que un padre revisa el perfil de un cuidador Cuando accede a la sección de experiencia Entonces puede ver la experiencia laboral detallada del cuidador. Escenario 2: Problema en la verificación de experiencia Dado que un padre intenta verificar la experiencia Cuando ocurre un problema técnico Entonces no puede ver la información, y recibe un mensaje de error. | EP04 |
-| US43 | Solicitud de Referencias de Cuidadores | Como padre, quiero solicitar referencias de cuidadores Para evaluar la calidad y fiabilidad del cuidado ofrecido | Escenario 1: Solicitud exitosa de referencias Dado que un padre solicita referencias de un cuidador Cuando el cuidador envía las referencias Entonces el padre recibe una lista de referencias y puede contactarlas. Escenario 2: Problema en la solicitud de referencias Dado que un padre intenta solicitar referencias Cuando ocurre un problema técnico Entonces la solicitud no se envía, y el padre recibe un mensaje de error. | EP07 |
-| US44 | Visualización de Perfiles de Cuidadores | Como padre, quiero visualizar perfiles completos de cuidadores Para conocer mejor sus habilidades, experiencia y disponibilidad | Escenario 1: Visualización exitosa de perfil Dado que un padre accede al perfil de un cuidador Cuando revisa el perfil Entonces puede ver información detallada como habilidades, experiencia, certificaciones y comentarios. Escenario 2: Problema en la visualización de perfil Dado que un padre intenta acceder a un perfil Cuando ocurre un problema técnico Entonces no puede ver la información del perfil, y recibe un mensaje de error. | EP03 |
-| US45 | Revisión de Historial de Cuidado | Como padre, quiero revisar el historial de cuidado de mis hijos Para asegurarme de que las sesiones se están llevando a cabo según lo acordado | Escenario 1: Revisión exitosa del historial Dado que un padre accede al historial de cuidado Cuando revisa el historial Entonces puede ver un registro detallado de todas las sesiones de cuidado y notas del cuidador. Escenario 2: Problema en la revisión del historial Dado que un padre intenta acceder al historial Cuando ocurre un problema técnico Entonces no puede ver la información, y recibe un mensaje de error. | EP08 |
-| US46 | Configuración de Alertas de Disponibilidad | Como padre, quiero configurar alertas de disponibilidad de cuidadores Para recibir notificaciones cuando los cuidadores que me interesan están disponibles | Escenario 1: Configuración exitosa de alertas Dado que un padre configura alertas de disponibilidad Cuando un cuidador se vuelve disponible Entonces el padre recibe una notificación. Escenario 2: Problema en la configuración de alertas Dado que un padre intenta configurar alertas Cuando ocurre un problema técnico Entonces las alertas no se configuran, y el padre recibe un mensaje de error. | EP09 |
-| US47 | Acceso a Recursos Educativos | Como padre, quiero acceder a recursos educativos recomendados Para ayudar en el desarrollo de mis hijos mientras están bajo cuidado | Escenario 1: Acceso exitoso a recursos Dado que un padre busca recursos educativos Cuando accede a los recomendados Entonces puede ver una lista de artículos, videos y materiales recomendados. Escenario 2: Problema en el acceso a recursos Dado que un padre intenta acceder a los recursos Cuando ocurre un problema técnico Entonces no puede ver los recursos, y recibe un mensaje de error. | EP10 |
-| US48 | Gestión de Preferencias de Cuidado | Como padre, quiero gestionar mis preferencias de cuidado (ej. horarios, necesidades especiales) Para asegurar que los cuidadores asignados cumplan con los requisitos específicos | Escenario 1: Gestión exitosa de preferencias Dado que un padre establece sus preferencias de cuidado Cuando guarda los cambios Entonces las preferencias se reflejan en las solicitudes y en el perfil del cuidador. Escenario 2: Problema en la gestión de preferencias Dado que un padre intenta ajustar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y el padre recibe un mensaje de error. | EP10 |
-| US49 | Programación de Actividades Especiales | Como padre, quiero programar actividades especiales para mis hijos (ej. tutorías, clases extraescolares) Para complementar el cuidado y aprendizaje mientras están con el cuidador | Escenario 1: Programación exitosa de actividades Dado que un padre desea programar una actividad especial Cuando organiza la actividad Entonces se añade al calendario y el cuidador recibe la notificación. Escenario 2: Problema en la programación de actividades Dado que un padre intenta organizar una actividad Cuando ocurre un problema técnico Entonces la actividad no se programa, y el padre recibe un mensaje de error. | EP11 |
-| TS01 | Post Niñeras | Como desarrollador de Carenest Quiero registrar una nueva niñera mediante una API Para que el cuidador sea agregado a la base de datos de cuidadores. | Escenario 1: Registro exitoso de cuidador Dado que tengo acceso a la API de registro de cuidadores Cuando envío una solicitud con datos válidos de un nuevo cuidador Entonces el cuidador se registra exitosamente en la base de datos y recibo una confirmación. Escenario 2: Error en el registro de cuidador Dado que tengo acceso a la API de registro de cuidadores Cuando envío una solicitud con datos inválidos de un nuevo cuidador Entonces la solicitud es rechazada y recibo un mensaje de error adecuado. |  |
-| TS02 | Get Niñeras | Como desarrollador de CareNest, Quiero obtener la información de una niñera mediante una API Para mostrarla en la aplicación cuando se solicite | Escenario 1: Obtención exitosa de información de cuidador Dado que tengo acceso a la API de obtención de cuidadores Cuando solicito la información de un cuidador existente Entonces recibo la información del cuidador en el formato esperado.  Escenario 2: Error en la obtención de información de cuidador Dado que tengo acceso a la API de obtención de cuidadores Cuando solicito la información de un cuidador que no existe Entonces recibo un mensaje de error adecuado |  |
-| TS03 | Post Tutores |  Como desarrollador de CareNest, Quiero registrar un nuevo tutor mediante una API Para que el tutor sea agregado a la base de datos de tutores. | Escenario 1: Registro exitoso de tutor Dado que tengo acceso a la API de registro de tutores Cuando envío una solicitud con datos válidos de un nuevo tutor Entonces el tutor se registra exitosamente en la base de datos y recibo una confirmación  Escenario 2: Error en el registro de tutor Dado que tengo acceso a la API de registro de tutores Cuando envío una solicitud con datos inválidos de un nuevo tutor Entonces la solicitud es rechazada y recibo un mensaje de error adecuado |  |
-| TS04 | Get Tutores | Como desarrollador de CareNest, Quiero obtener la información de un tutor mediante una API Para mostrarla en la aplicación cuando se solicite | Escenario 1: Obtención exitosa de información de tutor Dado que tengo acceso a la API de obtención de tutores Cuando solicito la información de un tutor existente Entonces recibo la información del tutor en el formato esperado. Escenario 2: Error en la obtención de información de tutor Dado que tengo acceso a la API de obtención de tutores Cuando solicito la información de un tutor que no existe Entonces recibo un mensaje de error adecuado. |  |
-| TS05 | Post Padres | Como desarrollador de CareNest, Quiero registrar un nuevo padre mediante una API Para que el padre sea agregado a la base de datos de padres. | Escenario 1: Registro exitoso de padre Dado que tengo acceso a la API de registro de padres Cuando envío una solicitud con datos válidos de un nuevo padre Entonces el padre se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de padre Dado que tengo acceso a la API de registro de padres Cuando envío una solicitud con datos inválidos de un nuevo padre Entonces la solicitud es rechazada y recibo un mensaje de error adecuado |  |
-| TS06 | Get Padres | Como desarrollador de CareNest, Quiero obtener la información de un padre mediante una API Para mostrarla en la aplicación cuando se solicite | Escenario 1: Obtención exitosa de información de padre Dado que tengo acceso a la API de obtención de padres Cuando solicito la información de un padre existente Entonces recibo la información del padre en el formato esperado Escenario 2: Error en la obtención de información de padre Dado que tengo acceso a la API de obtención de padres Cuando solicito la información de un padre que no existe Entonces recibo un mensaje de error adecuado |  |
-| TS07 | Post Pagos | Como desarrollador de CareNest, Quiero registrar un nuevo pago mediante una API Para que el pago sea añadido a la base de datos de pagos. | Escenario 1: Registro exitoso de pago Dado que tengo acceso a la API de registro de pagos Cuando envío una solicitud con datos válidos de un nuevo pago Entonces el pago se registra exitosamente en la base de datos y recibo una confirmación. Escenario 2: Error en el registro de pago Dado que tengo acceso a la API de registro de pagos Cuando envío una solicitud con datos inválidos de un pago Entonces la solicitud es rechazada y recibo un mensaje de error adecuado. |  |
-| TS08 | Get Pagos | Como desarrollador de CareNest, Quiero obtener la información de pagos mediante una API Para mostrarla en la aplicación cuando se solicite. | Escenario 1: Obtención exitosa de información de pagos Dado que tengo acceso a la API de obtención de pagos Cuando solicito la información de pagos existentes Entonces recibo la información de los pagos en el formato esperado Escenario 2: Error en la obtención de información de pagos Dado que tengo acceso a la API de obtención de pagos Cuando solicito la información de pagos y no hay pagos registrados Entonces recibo un mensaje indicando que no hay pagos registrados. . |  |
-| TS09 | Post Recursos educativos | Como desarrollador de CareNest, Quiero registrar un nuevo recurso educativo  mediante una API Para que el recurso  sea añadido a la base de datos de Recursos. | Escenario 1: Registro exitoso de recurso educativo Dado que tengo acceso a la API de registro de recursos educativos Cuando envío una solicitud con datos válidos de un recurso educativo Entonces el recurso se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de recurso educativo Dado que tengo acceso a la API de registro de recursos educativos Cuando envío una solicitud con datos inválidos de un recurso educativo Entonces la solicitud es rechazada y recibo un mensaje de error adecuado. |  |
-| TS10 | Get  Recursos educativos | Como desarrollador de CareNest, Quiero obtener la información de recursos educativos mediante una API Para mostrarla en la aplicación cuando se solicite. | Escenario 1: Obtención exitosa de recursos educativos Dado que tengo acceso a la API de obtención de recursos educativos Cuando solicito la información de recursos educativos existentes Entonces recibo la información de los recursos en el formato esperado. Escenario 2: Error en la obtención de recursos educativos Dado que tengo acceso a la API de obtención de recursos educativos Cuando solicito la información de recursos educativos y no hay recursos registrados Entonces recibo un mensaje indicando que no hay recursos registrados |  |
-| TS11 | Post Feedback de Padres | Como desarrollador de CareNest Quiero registrar un nuevo feedback de padres mediante una API Para que el feedback sea añadido a la base de datos de feedbacks. | Escenario 1: Registro exitoso de feedback de padres Dado que tengo acceso a la API de registro de feedback de padres Cuando envío una solicitud con datos válidos de feedback de padres Entonces el feedback se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de feedback de padres Dado que tengo acceso a la API de registro de feedback de padres Cuando envío una solicitud con datos inválidos de feedback de padres Entonces la solicitud es rechazada y recibo un mensaje de error adecuado |  |
-| TS12 | Get Feedback de Padres | Como desarrollador de CareNest, Quiero obtener la información de feedback de padres mediante una API Para mostrarla en la aplicación cuando se solicite | Escenario 1: Obtención exitosa de feedback de padres Dado que tengo acceso a la API de obtención de feedback de padres Cuando solicito la información de feedback existente Entonces recibo la información de los feedbacks en el formato esperado  Escenario 2: Error en la obtención de feedback de padres Dado que tengo acceso a la API de obtención de feedback de padres Cuando solicito la información de feedback y no hay feedbacks registrados Entonces recibo un mensaje indicando que no hay feedbacks registrados |  |
+
+| Epic/User Story ID | Título                                               | Descripción                                                                                                                                                                        | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Relación con (Epic ID) |
+| ------------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| EP01               | Presentación de información                          | Como usuario de la landing page Quiero visualizar la información del startup Para ver si hay interés por el proyecto                                                               | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP02               | Enviar Consulta                                      | Como usuario de la landing page Quiero enviar una solicitud de consulta Para que los desarrolladores me informen                                                                   | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP03               | Redirección a la Plataforma                          | Como usuario de la landing page Quiero desde la landing page se me redirecciona a la plataforma Para acceder de forma más sencilla a la plataforma                                 | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP04               | Búsqueda de Cuidadores                               | Como padre Quiero buscar niñeras y tutores según las necesidades de mi hijo Para contratar al mejor cuidador                                                                       | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP05               | Programación de Sesiones                             | Como padre Quiero programar sesiones de cuidado o clases Para asegurarme de que mi hijo reciba la atención necesaria                                                               | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP06               | Recepción de Actualizaciones en Tiempo Real          | Como padre Quiero recibir actualizaciones en tiempo real sobre las actividades de mi hijo Para estar informado constantemente                                                      | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP07               | Gestión de Pagos                                     | Como padre Quiero gestionar los pagos a las niñeras y tutores Para asegurar una transacción segura y confiable                                                                     | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP08               | Creación de Perfil de Niñera                         | Como niñera Quiero crear un perfil detallado Para mostrar mis habilidades y experiencia.                                                                                           | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP09               | Gestión de Disponibilidad                            | Como niñera Quiero gestionar mi calendario de disponibilidad Para organizar mis horarios de trabajo                                                                                | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP10               | Recepción de Solicitudes de Servicio                 | Como niñera Quiero recibir y responder a solicitudes de servicios de cuidado infantil Para aceptar trabajos rápidamente                                                            | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP11               | Seguimiento de Actividades                           | Como niñera Quiero registrar las actividades que realizo con los niños Para informar a los padres                                                                                  | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP12               | Creación de Perfil de Tutor                          | Como educador Quiero crear un perfil detallado Para mostrar mis habilidades y experiencia en la enseñanza                                                                          | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP13               | Gestión de Sesiones Educativas                       | Como educador Quiero gestionar mis sesiones educativas Para mantener un registro de las clases que ofrezco                                                                         | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP14               | Comunicación con Padres                              | Como educador Quiero comunicarme con los padres Para informarles sobre el progreso de sus hijos                                                                                    | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| EP15               | Evaluación del Progreso Infantil                     | Como educador Quiero evaluar el progreso de los niños Para adaptar mis clases a sus necesidades                                                                                    | No corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | No corresponde         |
+| US01               | Presentación de la información                       | Como usuario interesado, Quiero que la landing page explique claramente los servicios ofrecidos Para entender cómo la plataforma puede ayudarme                                    | Escenario 1: Visualización de la información de servicios Dado que un usuario carga la landing page Cuando la información de los servicios aparece Entonces se muestra de manera clara .                                                                                                                                                                                                                                                                                                                                                                       | EP01                   |
+| US02               | Consulta de información                              | Como visitante de la landing page Quiero enviar consultas sobre información a los desarrolladores Para no tener dudas sobre la plataforma                                          | Escenario 1 : Envío de consultas desde la landing page Dado que un visitante desea hacer una consulta Cuando utiliza el formulario de contacto Entonces el sistema recibe y confirma el envío de la consulta Escenario 2: Error al enviar consulta Dado que un visitante intenta enviar una consulta Cuando ocurre un error técnico Entonces recibe un mensaje de error solicitando que intente nuevamente más tarde.                                                                                                                                          | EP02                   |
+| US03               | Redirección a la plataforma                          | Como visitante de la landing page Quiero que al hacer click en el logo de la plataforma se me redirecciona a esta Para facilita el ingreso a esta                                  | Escenario 1: Redirección exitosa al hacer clic en el logo Dado que un visitante ve el logo de la plataforma en la landing page Cuando hace clic en el logo Entonces es redirigido a la página principal de la plataforma. Escenario 2: Fallo en la redirección Dado que un visitante intenta acceder a la plataforma haciendo clic en el logo Cuando ocurre un problema en la redirección Entonces el visitante recibe un mensaje de error o no sucede nada.                                                                                                   | EP03                   |
+| US04               | Creación de Perfil Completo                          | Como tutor Quiero crear un perfil que incluya mis habilidades, experiencia y certificaciones Para atraer a más padres                                                              | Escenario 2: Creación y guardado de perfil exitoso Dado que un tutor ingresa sus habilidades, experiencia y certificación Cuando completa y guarda su perfil Entonces el perfil se guarda correctamente y es visible para los padres. Escenario 2: Error al guardar el perfil Dado que un tutor intenta guardar su perfil Cuando ocurre un problema técnico Entonces el tutor recibe un mensaje de error y no se guarda el perfil.                                                                                                                             | EP12                   |
+| US05               | Gestión de Calendario de Clases                      | Como tutor Quiero gestionar mi calendario de clases Para organizar mis horarios y evitar conflictos                                                                                | Escenario 1: Gestión exitosa del calendario Dado que un tutor planifica sus clases Cuando ingresa las fechas y horas en su calendario Entonces las clases se añaden sin conflictos de horarios. Escenario 2: Conflicto de horario en el calendario Dado que un tutor intenta agregar una clase Cuando elige un horario que ya está ocupado Entonces recibe una alerta para seleccionar un horario diferente.                                                                                                                                                   | EP13                   |
+| US06               | Envío de Informes de Progreso                        | Como tutor Quiero enviar informes de progreso a los padres Para que estén informados sobre el avance de sus hijos.                                                                 | Escenario 1: Envío exitoso de informes Dado que un tutor completa un informe de progreso, Cuando lo envía a los padres Entonces los padres reciben el informe y pueden visualizarlo. Escenario 2: Error en el envío de informes Dado que un tutor intenta enviar un informe Cuando ocurre un problema en el sistema Entonces el informe no se envía, y el tutor recibe un mensaje de error.                                                                                                                                                                    | EP14                   |
+| US07               | Evaluación del Desempeño Infantil                    | Como tutor, Quiero evaluar el desempeño de los niños en mis clases Para ajustar mi método de enseñanza                                                                             | Escenario 1: Evaluación exitosa del desempeño Dado que un tutor completa la evaluación de un niño Cuando registra los resultados Entonces los resultados se guardan y se pueden usar para ajustar las lecciones futuras. Escenario 2: Fallo en la evaluación Dado que un tutor intenta registrar una evaluación Cuando ocurre un problema técnico Entonces la evaluación no se guarda, y el tutor recibe un mensaje de error.                                                                                                                                  | EP15                   |
+| US08               | Comunicación Directa con Padres                      | Como tutor Quiero tener un canal de comunicación directa con los padres Para resolver cualquier duda o preocupación                                                                | Escenario 1: Comunicación exitosa con los padres Dado que un tutor inicia una conversación con los padres Cuando envía un mensaje Entonces los padres reciben el mensaje y pueden responder. Escenario 2: Problemas en la comunicación Dado que un tutor intenta enviar un mensaje Cuando ocurre un problema en el sistema Entonces el mensaje no se envía, y el tutor recibe un mensaje de error.                                                                                                                                                             | EP14                   |
+| US09               | Publicación de Disponibilidad                        | Como tutor, Quiero publicar mi disponibilidad Para que los padres puedan programar clases de manera conveniente                                                                    | Escenario 1: Publicación exitosa de disponibilidad Dado que un tutor establece su disponibilidad Cuando publica su calendario Entonces los padres pueden ver los horarios disponibles y programar clases. Escenario 2: Error al publicar disponibilidad Dado que un tutor intenta publicar su disponibilidad Cuando ocurre un problema técnico Entonces la disponibilidad no se publica, y el tutor recibe un mensaje de error                                                                                                                                 | EP13                   |
+| US10               | Recepción de Solicitudes de Tutoría                  | Como tutor Quiero recibir solicitudes de tutoría Para aceptar o rechazar según mi disponibilidad                                                                                   | Escenario 1: Recepción exitosa de solicitud Dado que un tutor recibe una solicitud de tutoría Cuando revisa la solicitud Entonces puede aceptarla o rechazarla según su disponibilidad. Escenario 2: Error en la recepción de solicitud Dado que un tutor espera recibir una solicitud Cuando ocurre un problema técnico Entonces no recibe la solicitud, y se muestra un mensaje de error                                                                                                                                                                     | EP13                   |
+| US11               | Notificación de Cambios en el Calendario             | Como tutor Quiero notificar a los padres sobre cambios en el calendario de clases Para evitar confusiones                                                                          | Escenario 1: Notificación exitosa de cambios Dado que un tutor realiza un cambio en su calendario Cuando guarda el cambio Entonces los padres reciben una notificación con los detalles actualizados. Escenario 2: Fallo en la notificación de cambios Dado que un tutor intenta notificar a los padres Cuando ocurre un problema técnico Entonces los padres no reciben la notificación, y el tutor recibe un mensaje de error                                                                                                                                | EP13                   |
+| US12               | Revisión de Feedback de Padres                       | Como tutor Quiero revisar el feedback de los padres Para mejorar mi método de enseñanza                                                                                            | Escenario 1: Revisión exitosa de feedback Dado que un tutor recibe feedback de los padres Cuando revisa el feedback Entonces puede responder y hacer ajustes en su método de enseñanza Escenario 2: Problemas al revisar feedback Dado que un tutor intenta revisar el feedback Cuando ocurre un problema técnico Entonces el tutor no puede acceder al feedback, y recibe un mensaje de error.                                                                                                                                                                | EP14                   |
+| US13               | Gestión de Pagos por Sesión                          | Como tutor Quiero gestionar los pagos de mis sesiones Para llevar un control de mis ingresos                                                                                       | Escenario 1: Gestión exitosa de pagos Dado que un tutor recibe un pago por una sesión Cuando verifica su cuenta Entonces ve el pago registrado correctamente. Escenario 2: Problemas en la gestión de pagos Dado que un tutor espera recibir un pago Cuando ocurre un problema en el sistema Entonces no ve el pago reflejado, y recibe una alerta para resolver el problema.                                                                                                                                                                                  | EP07                   |
+| US14               | Configuración de Preferencias de Enseñanza           | Como tutor Quiero configurar mis preferencias de enseñanza Para atraer a padres con necesidades específicas                                                                        | Escenario 1: Configuración exitosa de preferencias Dado que un tutor establece sus preferencias Cuando guarda la configuración Entonces los padres pueden ver estas preferencias en el perfil del tutor. Escenario 2: Fallo en la configuración de preferencias Dado que un tutor intenta configurar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y el tutor recibe un mensaje de error.                                                                                                                        | EP13                   |
+| US15               | Verificación de Asistencia a Clases                  | Como tutor Quiero verificar la asistencia de los niños a las clases Para mantener un registro preciso                                                                              | Escenario 1: Verificación exitosa de asistencia Dado que un tutor registra la asistencia de los niños Cuando marca a un niño como presente o ausente Entonces la asistencia se guarda correctamente en el sistema. Escenario 2: Error en la verificación de asistencia Dado que un tutor intenta registrar la asistencia Cuando ocurre un problema técnico Entonces la asistencia no se guarda, y el tutor recibe un mensaje de error.                                                                                                                         | EP13                   |
+| US16               | Generación de reportes                               | Como tutor Quiero generar reportes detallados sobre el desempeño de los niños en diferentes áreas Para compartir con los padres y ajustar mi enfoque educativo                     | Escenario 1: Generación exitosa de reportes Dado que un tutor completa un reporte Cuando genera el documento Entonces el reporte incluye todos los detalles relevantes y se envía a los padres. Escenario 2: Fallo en la generación de reportes Dado que un tutor intenta generar un reporte Cuando ocurre un problema técnico Entonces el reporte no se genera, y el tutor recibe un mensaje de error.                                                                                                                                                        | EP15                   |
+| US17               | Asignación De tareas                                 | Como tutor Quiero revisar las tareas y proyectos enviados por los niños Para proporcionar retroalimentación constructiva                                                           | Escenario 1: Revisión exitosa de tareas Dado que un tutor recibe una tarea de un estudiante, Cuando revisa la tarea, Entonces puede proporcionar retroalimentación y asignar una calificación. Escenario 2: Problema en la revisión de tareas Dado que un tutor intenta revisar una tarea Cuando ocurre un problema técnico Entonces no puede acceder a la tarea, y recibe un mensaje de error.                                                                                                                                                                | EP13                   |
+| US18               | Recepción de preguntas de alumnos                    | Como tutor Quiero permitir que los niños envíen preguntas sobre las lecciones fuera de horario Para aclarar dudas y asegurar la comprensión del material                           | Escenario 1: Recepción exitosa de preguntas Dado que un tutor habilita la función de preguntas Cuando un estudiante envía una pregunta Entonces el tutor recibe la pregunta y puede responder en un plazo determinado. Escenario 2: Problema en la recepción de preguntas Dado que un tutor espera recibir preguntas de los estudiantes Cuando ocurre un problema en el sistema Entonces el tutor no recibe las preguntas, y se muestra un mensaje de error.                                                                                                   | EP14                   |
+| US19               | Creación de Perfil Completo                          | Como niñera Quiero crear un perfil que incluya mis habilidades, experiencia y certificaciones Para atraer a más padres                                                             | Escenario 1: Creación y guardado de perfil exitoso Dado que una niñera ingresa sus habilidades, experiencia y certificaciones Cuando completa y guarda su perfil Entonces el perfil se guarda correctamente y es visible para los padres Escenario 2: Error al guardar el perfil Dado que una niñera intenta guardar su perfil Cuando ocurre un problema técnico Entonces el perfil no se guarda, y recibe un mensaje de error                                                                                                                                 | EP08                   |
+| US20               | Gestión de Calendario de Disponibilidad              | Como niñera Quiero gestionar mi calendario de disponibilidad Para organizar mis horarios y evitar conflictos                                                                       | Escenario 1: Gestión exitosa del calendario Dado que una niñera establece su disponibilidad Cuando ingresa las fechas y horas en su calendario Entonces la disponibilidad se publica correctamente y está visible para los padre Escenario 2: Conflicto de horario en el calendario Dado que una niñera intenta agregar una disponibilidad Cuando elige un horario que ya está ocupado Entonces recibe una alerta para seleccionar otro horario.                                                                                                               | EP09                   |
+| US21               | Recepción de Solicitudes de Cuidado Infantil         | Como niñera Quiero recibir solicitudes de cuidado infantil Para aceptar o rechazar según mi disponibilidad                                                                         | Escenario 1: Recepción exitosa de solicitud Dado que una niñera recibe una solicitud de cuidado infantil Cuando revisa la solicitud Entonces puede aceptarla o rechazarla según su disponibilidad. Escenario 2: Error en la recepción de solicitud Dado que una niñera espera recibir una solicitud de cuidado infantil Cuando ocurre un problema técnico Entonces no recibe la solicitud, y se muestra un mensaje de error                                                                                                                                    | EP10                   |
+| US22               | Registro de Actividades Infantiles                   | Como niñera Quiero registrar las actividades que realizo con los niños Para informar a los padres                                                                                  | Escenario 1: Registro exitoso de actividades Dado que una niñera realiza actividades con los niños Cuando ingresa la información en el sistema Entonces los padres pueden ver el registro de actividades completado correctamente. Escenario 2: Error en el registro de actividades Dado que una niñera intenta registrar las actividades realizadas Cuando ocurre un problema técnico Entonces las actividades no se registran, y la niñera recibe un mensaje de error                                                                                        | EP11                   |
+| US23               | Comunicación Directa con Padres                      | Como niñera Quiero tener un canal de comunicación directa con los padres Para resolver cualquier duda o preocupación                                                               | Escenario 1: Comunicación exitosa con los padres Dado que una niñera inicia una conversación con los padres Cuando envía un mensaje Entonces los padres reciben el mensaje y pueden responder. Escenario 2: Problemas en la comunicación Dado que una niñera intenta enviar un mensaje Cuando ocurre un problema en el sistema Entonces el mensaje no se envía, y la niñera recibe un mensaje de error                                                                                                                                                         | EP11                   |
+| US24               | Publicación de Disponibilidad                        | Como niñera Quiero publicar mi disponibilidad Para que los padres puedan programar cuidado infantil de manera conveniente                                                          | Escenario 1: Publicación exitosa de disponibilidad Dado que una niñera establece su disponibilidad Cuando publica su calendario Entonces los padres pueden ver los horarios disponibles y programar el cuidado infantil. Escenario 2: Error al publicar disponibilidad Dado que una niñera intenta publicar su disponibilidad Cuando ocurre un problema técnico Entonces la disponibilidad no se publica, y la niñera recibe un mensaje de error                                                                                                               | EP09                   |
+| US25               | Revisión de Feedback de Padres                       | Como niñera Quiero revisar el feedback de los padres Para mejorar mi servicio de cuidado infantil                                                                                  | Escenario 1: Revisión exitosa de feedback Dado que una niñera recibe feedback de los padres Cuando revisa el feedback Entonces puede responder y hacer ajustes en su servicio de cuidado infantil. Escenario 2: Problemas al revisar feedback Dado que una niñera intenta revisar el feedback Cuando ocurre un problema técnico Entonces la niñera no puede acceder al feedback, y recibe un mensaje de error.                                                                                                                                                 | EP11                   |
+| US26               | Gestión de Pagos por Servicios                       | Como niñera Quiero gestionar los pagos de mis servicios Para llevar un control de mis ingresos                                                                                     | Escenario 1: Gestión exitosa de pagos Dado que una niñera recibe un pago por sus servicios Cuando verifica su cuenta Entonces ve el pago registrado correctamente. Escenario 2: Problemas en la gestión de pagos Dado que una niñera espera recibir un pago Cuando ocurre un problema en el sistema Entonces no ve el pago reflejado, y recibe una alerta para resolver el problema.                                                                                                                                                                           | EP10                   |
+| US27               | Evaluación de Solicitudes                            | Como niñera, quiero evaluar las solicitudes de cuidado infantil recibidas Para aceptar las que mejor se ajusten a mi disponibilidad y habilidades                                  | Escenario 1: Evaluación exitosa de solicitudes Dado que una niñera recibe una solicitud de cuidado infantil Cuando revisa la solicitud Entonces puede aceptarla o rechazarla según su disponibilidad y habilidades. Escenario 2: Error en la evaluación de solicitudes Dado que una niñera intenta revisar una solicitud Cuando ocurre un problema técnico Entonces no puede evaluar la solicitud, y recibe un mensaje de error.                                                                                                                               | EP10                   |
+| US28               | Actualización de Datos de Perfil                     | Como niñera, quiero actualizar la información en mi perfil Para mantener mis habilidades y experiencia al día                                                                      | Escenario 1: Actualización exitosa del perfil Dado que una niñera actualiza la información en su perfil Cuando guarda los cambios Entonces la información actualizada se refleja correctamente en el perfil. Escenario 2: Error al actualizar el perfil Dado que una niñera intenta actualizar su perfil Cuando ocurre un problema técnico Entonces los cambios no se guardan, y la niñera recibe un mensaje de error.                                                                                                                                         | EP08                   |
+| US29               | Visualización de Solicitudes Recientes               | Como niñera, quiero ver las solicitudes de cuidado infantil recientes Para responder rápidamente a las nuevas solicitudes                                                          | Escenario 1: Visualización exitosa de solicitudes recientes Dado que una niñera accede a la sección de solicitudes Cuando visualiza la lista de solicitudes Entonces puede ver las solicitudes recientes ordenadas por fecha. Escenario 2: Error en la visualización de solicitudes Dado que una niñera intenta ver las solicitudes recientes Cuando ocurre un problema técnico Entonces no puede ver las solicitudes, y recibe un mensaje de error.                                                                                                           | EP10                   |
+| US30               | Notificación de Nuevas Solicitudes                   | Como niñera, quiero recibir notificaciones de nuevas solicitudes de cuidado infantil Para actuar de inmediato y no perder oportunidades                                            | Escenario 1: Notificación exitosa de nuevas solicitudes Dado que una niñera recibe una nueva solicitud Cuando el sistema envía una notificación Entonces la niñera recibe una alerta sobre la nueva solicitud. Escenario 2: Error en la notificación de nuevas solicitudes Dado que una niñera espera recibir una notificación Cuando ocurre un problema técnico Entonces no recibe la alerta, y recibe un mensaje de error.                                                                                                                                   | EP10                   |
+| US31               | Acceso a Recursos Educativos                         | Como niñera, quiero acceder a recursos educativos adicionales Para mejorar mis habilidades y conocimientos en cuidado infantil                                                     | Escenario 1: Acceso exitoso a recursos educativos Dado que una niñera busca recursos educativos Cuando accede a la sección de recursos Entonces puede visualizar y descargar materiales educativos. Escenario 2: Problemas en el acceso a recursos Dado que una niñera intenta acceder a recursos educativos Cuando ocurre un problema técnico Entonces no puede acceder a los materiales, y recibe un mensaje de error.                                                                                                                                       | EP11                   |
+| US32               | Registro de Horas de Trabajo                         | Como niñera, quiero registrar las horas de trabajo dedicadas a cada niño Para llevar un control preciso del tiempo trabajado                                                       | Escenario 1: Registro exitoso de horas de trabajo Dado que una niñera trabaja con un niño Cuando ingresa las horas trabajadas Entonces el tiempo se registra correctamente en el sistema. Escenario 2: Error en el registro de horas de trabajo Dado que una niñera intenta registrar horas de trabajo Cuando ocurre un problema técnico Entonces las horas no se registran, y la niñera recibe un mensaje de error.                                                                                                                                           | EP11                   |
+| US33               | Visualización de Reseñas de Padres                   | Como niñera, quiero ver las reseñas dejadas por los padres Para entender mejor mi desempeño y áreas de mejora                                                                      | Escenario 1: Visualización exitosa de reseñas Dado que una niñera accede a la sección de reseñas Cuando revisa las reseñas Entonces puede ver todos los comentarios y calificaciones dejadas por los padres. Escenario 2: Error en la visualización de reseñas Dado que una niñera intenta ver reseñas Cuando ocurre un problema técnico Entonces no puede acceder a las reseñas, y recibe un mensaje de error.                                                                                                                                                | EP11                   |
+| US34               | Configuración de Preferencias de Trabajo             | Como niñera, quiero configurar mis preferencias de trabajo (por ejemplo, edad de los niños, tipo de cuidado) Para recibir solicitudes que se ajusten a mis preferencias            | Escenario 1: Configuración exitosa de preferencias Dado que una niñera establece sus preferencias de trabajo Cuando guarda los cambios Entonces las solicitudes recibidas se ajustan a estas preferencias. Escenario 2: Fallo en la configuración de preferencias Dado que una niñera intenta configurar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y la niñera recibe un mensaje de error.                                                                                                                   | EP08                   |
+| US35               | Filtrado de Cuidadores por Experiencia               | Como padre, quiero filtrar los cuidadores por experiencia y habilidades Para encontrar a los más calificados para mi hijo                                                          | Escenario 1: Filtrado exitoso por experiencia Dado que un padre utiliza los filtros de búsqueda Cuando selecciona las opciones de experiencia Entonces se muestran los cuidadores que cumplen con los criterios. Escenario 2: Error en el filtrado de cuidadores Dado que un padre intenta filtrar los cuidadores Cuando ocurre un problema técnico Entonces no se aplican los filtros y el padre recibe un mensaje de error.                                                                                                                                  | EP04                   |
+| US36               | Verificación de Certificaciones de Cuidadores        | Como padre, quiero verificar las certificaciones de los cuidadores Para asegurarme de que cumplen con los requisitos necesarios                                                    | Escenario 1: Verificación exitosa de certificaciones Dado que un padre revisa el perfil de un cuidador Cuando accede a la sección de certificaciones Entonces puede ver las certificaciones válidas y actualizadas. Escenario 2: Problema en la verificación de certificaciones Dado que un padre intenta revisar certificaciones Cuando ocurre un problema técnico Entonces no puede ver las certificaciones, y recibe un mensaje de error.                                                                                                                   | EP04                   |
+| US37               | Recepción de Notificaciones de Actividades           | Como padre, quiero recibir notificaciones sobre las actividades diarias de mi hijo Para estar al tanto de su progreso y bienestar                                                  | Escenario 1: Recepción exitosa de notificaciones Dado que un padre se suscribe a las notificaciones Cuando el cuidador registra una actividad Entonces el padre recibe una notificación con los detalles de la actividad. Escenario 2: Error en la recepción de notificaciones Dado que un padre espera recibir notificaciones Cuando ocurre un problema técnico Entonces no recibe la notificación, y recibe un mensaje de error.                                                                                                                             | EP06                   |
+| US38               | Revisión de Horarios de Disponibilidad de Cuidadores | Como padre, quiero revisar los horarios de disponibilidad de los cuidadores Para programar sesiones de cuidado de acuerdo a mi conveniencia                                        | Escenario 1: Revisión exitosa de horarios Dado que un padre accede al calendario de disponibilidad Cuando revisa los horarios Entonces puede ver las fechas y horas disponibles para programar el cuidado. Escenario 2: Problema en la revisión de horarios Dado que un padre intenta revisar los horarios de disponibilidad Cuando ocurre un problema técnico Entonces no puede ver la disponibilidad, y recibe un mensaje de error.                                                                                                                          | EP05                   |
+| US39               | Cancelación de Sesiones Programadas                  | Como padre, quiero cancelar una sesión programada con un cuidador Para reorganizar el cuidado según mis necesidades                                                                | Escenario 1: Cancelación exitosa de sesión Dado que un padre desea cancelar una sesión Cuando realiza la solicitud de cancelación Entonces la sesión se cancela correctamente y el padre recibe una confirmación. Escenario 2: Error en la cancelación de sesión Dado que un padre intenta cancelar una sesión Cuando ocurre un problema técnico Entonces la sesión no se cancela, y el padre recibe un mensaje de error.                                                                                                                                      | EP05                   |
+| US40               | Agregar Comentarios a Cuidadores                     | Como padre, quiero agregar comentarios sobre los cuidadores Para ayudar a otros padres a tomar decisiones informadas                                                               | Escenario 1: Agregación exitosa de comentarios Dado que un padre termina una sesión con un cuidador Cuando deja un comentario y lo envía Entonces el comentario se publica y es visible para otros padres. Escenario 2: Problema en la adición de comentarios Dado que un padre intenta dejar un comentario Cuando ocurre un problema técnico Entonces el comentario no se publica, y el padre recibe un mensaje de error.                                                                                                                                     | EP11                   |
+| US41               | Configuración de Preferencias de Cuidado             | Como padre, quiero configurar mis preferencias de cuidado infantil (por ejemplo, edad, tipo de cuidado) Para encontrar cuidadores que se ajusten a mis necesidades                 | Escenario 1: Configuración exitosa de preferencias Dado que un padre establece sus preferencias Cuando guarda los cambios Entonces solo se muestran los cuidadores que cumplen con las preferencias configuradas. Escenario 2: Error en la configuración de preferencias Dado que un padre intenta configurar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y el padre recibe un mensaje de error.                                                                                                               | EP04                   |
+| US42               | Verificación de Experiencia de Cuidadores            | Como padre, quiero verificar la experiencia laboral de los cuidadores Para asegurarme de que tienen la experiencia necesaria para cuidar a mi hijo                                 | Escenario 1: Verificación exitosa de experiencia Dado que un padre revisa el perfil de un cuidador Cuando accede a la sección de experiencia Entonces puede ver la experiencia laboral detallada del cuidador. Escenario 2: Problema en la verificación de experiencia Dado que un padre intenta verificar la experiencia Cuando ocurre un problema técnico Entonces no puede ver la información, y recibe un mensaje de error.                                                                                                                                | EP04                   |
+| US43               | Solicitud de Referencias de Cuidadores               | Como padre, quiero solicitar referencias de cuidadores Para evaluar la calidad y fiabilidad del cuidado ofrecido                                                                   | Escenario 1: Solicitud exitosa de referencias Dado que un padre solicita referencias de un cuidador Cuando el cuidador envía las referencias Entonces el padre recibe una lista de referencias y puede contactarlas. Escenario 2: Problema en la solicitud de referencias Dado que un padre intenta solicitar referencias Cuando ocurre un problema técnico Entonces la solicitud no se envía, y el padre recibe un mensaje de error.                                                                                                                          | EP07                   |
+| US44               | Visualización de Perfiles de Cuidadores              | Como padre, quiero visualizar perfiles completos de cuidadores Para conocer mejor sus habilidades, experiencia y disponibilidad                                                    | Escenario 1: Visualización exitosa de perfil Dado que un padre accede al perfil de un cuidador Cuando revisa el perfil Entonces puede ver información detallada como habilidades, experiencia, certificaciones y comentarios. Escenario 2: Problema en la visualización de perfil Dado que un padre intenta acceder a un perfil Cuando ocurre un problema técnico Entonces no puede ver la información del perfil, y recibe un mensaje de error.                                                                                                               | EP03                   |
+| US45               | Revisión de Historial de Cuidado                     | Como padre, quiero revisar el historial de cuidado de mis hijos Para asegurarme de que las sesiones se están llevando a cabo según lo acordado                                     | Escenario 1: Revisión exitosa del historial Dado que un padre accede al historial de cuidado Cuando revisa el historial Entonces puede ver un registro detallado de todas las sesiones de cuidado y notas del cuidador. Escenario 2: Problema en la revisión del historial Dado que un padre intenta acceder al historial Cuando ocurre un problema técnico Entonces no puede ver la información, y recibe un mensaje de error.                                                                                                                                | EP08                   |
+| US46               | Configuración de Alertas de Disponibilidad           | Como padre, quiero configurar alertas de disponibilidad de cuidadores Para recibir notificaciones cuando los cuidadores que me interesan están disponibles                         | Escenario 1: Configuración exitosa de alertas Dado que un padre configura alertas de disponibilidad Cuando un cuidador se vuelve disponible Entonces el padre recibe una notificación. Escenario 2: Problema en la configuración de alertas Dado que un padre intenta configurar alertas Cuando ocurre un problema técnico Entonces las alertas no se configuran, y el padre recibe un mensaje de error.                                                                                                                                                       | EP09                   |
+| US47               | Acceso a Recursos Educativos                         | Como padre, quiero acceder a recursos educativos recomendados Para ayudar en el desarrollo de mis hijos mientras están bajo cuidado                                                | Escenario 1: Acceso exitoso a recursos Dado que un padre busca recursos educativos Cuando accede a los recomendados Entonces puede ver una lista de artículos, videos y materiales recomendados. Escenario 2: Problema en el acceso a recursos Dado que un padre intenta acceder a los recursos Cuando ocurre un problema técnico Entonces no puede ver los recursos, y recibe un mensaje de error.                                                                                                                                                            | EP10                   |
+| US48               | Gestión de Preferencias de Cuidado                   | Como padre, quiero gestionar mis preferencias de cuidado (ej. horarios, necesidades especiales) Para asegurar que los cuidadores asignados cumplan con los requisitos específicos  | Escenario 1: Gestión exitosa de preferencias Dado que un padre establece sus preferencias de cuidado Cuando guarda los cambios Entonces las preferencias se reflejan en las solicitudes y en el perfil del cuidador. Escenario 2: Problema en la gestión de preferencias Dado que un padre intenta ajustar sus preferencias Cuando ocurre un problema técnico Entonces las preferencias no se guardan, y el padre recibe un mensaje de error.                                                                                                                  | EP10                   |
+| US49               | Programación de Actividades Especiales               | Como padre, quiero programar actividades especiales para mis hijos (ej. tutorías, clases extraescolares) Para complementar el cuidado y aprendizaje mientras están con el cuidador | Escenario 1: Programación exitosa de actividades Dado que un padre desea programar una actividad especial Cuando organiza la actividad Entonces se añade al calendario y el cuidador recibe la notificación. Escenario 2: Problema en la programación de actividades Dado que un padre intenta organizar una actividad Cuando ocurre un problema técnico Entonces la actividad no se programa, y el padre recibe un mensaje de error.                                                                                                                          | EP11                   |
+| TS01               | Post Niñeras                                         | Como desarrollador de Carenest Quiero registrar una nueva niñera mediante una API Para que el cuidador sea agregado a la base de datos de cuidadores.                              | Escenario 1: Registro exitoso de cuidador Dado que tengo acceso a la API de registro de cuidadores Cuando envío una solicitud con datos válidos de un nuevo cuidador Entonces el cuidador se registra exitosamente en la base de datos y recibo una confirmación. Escenario 2: Error en el registro de cuidador Dado que tengo acceso a la API de registro de cuidadores Cuando envío una solicitud con datos inválidos de un nuevo cuidador Entonces la solicitud es rechazada y recibo un mensaje de error adecuado.                                         |                        |
+| TS02               | Get Niñeras                                          | Como desarrollador de CareNest, Quiero obtener la información de una niñera mediante una API Para mostrarla en la aplicación cuando se solicite                                    | Escenario 1: Obtención exitosa de información de cuidador Dado que tengo acceso a la API de obtención de cuidadores Cuando solicito la información de un cuidador existente Entonces recibo la información del cuidador en el formato esperado. Escenario 2: Error en la obtención de información de cuidador Dado que tengo acceso a la API de obtención de cuidadores Cuando solicito la información de un cuidador que no existe Entonces recibo un mensaje de error adecuado                                                                               |                        |
+| TS03               | Post Tutores                                         | Como desarrollador de CareNest, Quiero registrar un nuevo tutor mediante una API Para que el tutor sea agregado a la base de datos de tutores.                                     | Escenario 1: Registro exitoso de tutor Dado que tengo acceso a la API de registro de tutores Cuando envío una solicitud con datos válidos de un nuevo tutor Entonces el tutor se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de tutor Dado que tengo acceso a la API de registro de tutores Cuando envío una solicitud con datos inválidos de un nuevo tutor Entonces la solicitud es rechazada y recibo un mensaje de error adecuado                                                                |                        |
+| TS04               | Get Tutores                                          | Como desarrollador de CareNest, Quiero obtener la información de un tutor mediante una API Para mostrarla en la aplicación cuando se solicite                                      | Escenario 1: Obtención exitosa de información de tutor Dado que tengo acceso a la API de obtención de tutores Cuando solicito la información de un tutor existente Entonces recibo la información del tutor en el formato esperado. Escenario 2: Error en la obtención de información de tutor Dado que tengo acceso a la API de obtención de tutores Cuando solicito la información de un tutor que no existe Entonces recibo un mensaje de error adecuado.                                                                                                   |                        |
+| TS05               | Post Padres                                          | Como desarrollador de CareNest, Quiero registrar un nuevo padre mediante una API Para que el padre sea agregado a la base de datos de padres.                                      | Escenario 1: Registro exitoso de padre Dado que tengo acceso a la API de registro de padres Cuando envío una solicitud con datos válidos de un nuevo padre Entonces el padre se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de padre Dado que tengo acceso a la API de registro de padres Cuando envío una solicitud con datos inválidos de un nuevo padre Entonces la solicitud es rechazada y recibo un mensaje de error adecuado                                                                  |                        |
+| TS06               | Get Padres                                           | Como desarrollador de CareNest, Quiero obtener la información de un padre mediante una API Para mostrarla en la aplicación cuando se solicite                                      | Escenario 1: Obtención exitosa de información de padre Dado que tengo acceso a la API de obtención de padres Cuando solicito la información de un padre existente Entonces recibo la información del padre en el formato esperado Escenario 2: Error en la obtención de información de padre Dado que tengo acceso a la API de obtención de padres Cuando solicito la información de un padre que no existe Entonces recibo un mensaje de error adecuado                                                                                                       |                        |
+| TS07               | Post Pagos                                           | Como desarrollador de CareNest, Quiero registrar un nuevo pago mediante una API Para que el pago sea añadido a la base de datos de pagos.                                          | Escenario 1: Registro exitoso de pago Dado que tengo acceso a la API de registro de pagos Cuando envío una solicitud con datos válidos de un nuevo pago Entonces el pago se registra exitosamente en la base de datos y recibo una confirmación. Escenario 2: Error en el registro de pago Dado que tengo acceso a la API de registro de pagos Cuando envío una solicitud con datos inválidos de un pago Entonces la solicitud es rechazada y recibo un mensaje de error adecuado.                                                                             |                        |
+| TS08               | Get Pagos                                            | Como desarrollador de CareNest, Quiero obtener la información de pagos mediante una API Para mostrarla en la aplicación cuando se solicite.                                        | Escenario 1: Obtención exitosa de información de pagos Dado que tengo acceso a la API de obtención de pagos Cuando solicito la información de pagos existentes Entonces recibo la información de los pagos en el formato esperado Escenario 2: Error en la obtención de información de pagos Dado que tengo acceso a la API de obtención de pagos Cuando solicito la información de pagos y no hay pagos registrados Entonces recibo un mensaje indicando que no hay pagos registrados. .                                                                      |                        |
+| TS09               | Post Recursos educativos                             | Como desarrollador de CareNest, Quiero registrar un nuevo recurso educativo mediante una API Para que el recurso sea añadido a la base de datos de Recursos.                       | Escenario 1: Registro exitoso de recurso educativo Dado que tengo acceso a la API de registro de recursos educativos Cuando envío una solicitud con datos válidos de un recurso educativo Entonces el recurso se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de recurso educativo Dado que tengo acceso a la API de registro de recursos educativos Cuando envío una solicitud con datos inválidos de un recurso educativo Entonces la solicitud es rechazada y recibo un mensaje de error adecuado. |                        |
+| TS10               | Get Recursos educativos                              | Como desarrollador de CareNest, Quiero obtener la información de recursos educativos mediante una API Para mostrarla en la aplicación cuando se solicite.                          | Escenario 1: Obtención exitosa de recursos educativos Dado que tengo acceso a la API de obtención de recursos educativos Cuando solicito la información de recursos educativos existentes Entonces recibo la información de los recursos en el formato esperado. Escenario 2: Error en la obtención de recursos educativos Dado que tengo acceso a la API de obtención de recursos educativos Cuando solicito la información de recursos educativos y no hay recursos registrados Entonces recibo un mensaje indicando que no hay recursos registrados         |                        |
+| TS11               | Post Feedback de Padres                              | Como desarrollador de CareNest Quiero registrar un nuevo feedback de padres mediante una API Para que el feedback sea añadido a la base de datos de feedbacks.                     | Escenario 1: Registro exitoso de feedback de padres Dado que tengo acceso a la API de registro de feedback de padres Cuando envío una solicitud con datos válidos de feedback de padres Entonces el feedback se registra exitosamente en la base de datos y recibo una confirmación Escenario 2: Error en el registro de feedback de padres Dado que tengo acceso a la API de registro de feedback de padres Cuando envío una solicitud con datos inválidos de feedback de padres Entonces la solicitud es rechazada y recibo un mensaje de error adecuado     |                        |
+| TS12               | Get Feedback de Padres                               | Como desarrollador de CareNest, Quiero obtener la información de feedback de padres mediante una API Para mostrarla en la aplicación cuando se solicite                            | Escenario 1: Obtención exitosa de feedback de padres Dado que tengo acceso a la API de obtención de feedback de padres Cuando solicito la información de feedback existente Entonces recibo la información de los feedbacks en el formato esperado Escenario 2: Error en la obtención de feedback de padres Dado que tengo acceso a la API de obtención de feedback de padres Cuando solicito la información de feedback y no hay feedbacks registrados Entonces recibo un mensaje indicando que no hay feedbacks registrados                                  |                        |
+
 ## **3.3. Impact Mapping**
+
 ![image](Images/impactmapping.png)
+
 ## **3.4. Product Backlog**
 
 <table><thead>
@@ -1319,22 +1352,29 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 # <font color="red">**Capítulo IV: Product Design**</font>
 
 ## **4.1. Style Guidelines**
+
 En esta sección, establecemos las bases para un repositorio centralizado y organizado, accesible para todo el equipo. Este repositorio incluye assets, tipografías, y otros recursos necesarios para asegurar una presentación consistente y enfocada a lo largo del proyecto.
 
 ### **4.1.1. General Style Guidelines**
+
 En esta sección, establecemos los lineamientos generales de diseño que guiarán la identidad visual de nuestra plataforma. Estos lineamientos están diseñados para asegurar que cada elemento de nuestra interfaz transmita la personalidad y valores de la marca **Care Nest**, orientada a ofrecer soluciones confiables y flexibles para el cuidado infantil.
 
 ### **Branding:**
+
 Nuestra marca combina seriedad y casualidad, buscando transmitir seguridad, confianza y sabiduría. Estos valores están alineados con nuestro objetivo de proporcionar un entorno seguro tanto para los padres y tutores como para los cuidadores que utilizan nuestra plataforma.
 
 ![Safe Child Logo](Images/Carenest_logo.jpeg)
 
 ### **Typography:**
+
 Para la tipografía, hemos elegido **Poppins** en sus variantes bold, medium, y regular. Esta fuente será utilizada en todo el proyecto para mantener la coherencia visual. Los tamaños de fuente se definirán más adelante.
 
 ![Safe Child Logo](Images/Poppins.png)
+
 ### **Colors:**
+
 La paleta de colores de nuestra plataforma se compone de:
+
 - **DEEFE7** y **FFFFFF** como colores de fondo para las secciones de la landing page.
 - **002333** para los textos grandes.
 - **149A9B** para los textos más pequeños.
@@ -1342,64 +1382,83 @@ La paleta de colores de nuestra plataforma se compone de:
 Estos colores han sido seleccionados para transmitir un sentido de seguridad y confianza, complementando la personalidad de la marca.
 
 ![Safe Child Logo](Images/ColorsPalette.jpeg)
+
 ### **Tono de Comunicación:**
+
 El tono de comunicación de nuestra plataforma será serio pero accesible, transmitiendo seguridad y confianza. Utilizaremos un lenguaje claro y directo, evitando tecnicismos innecesarios.
 
 Estos principios y elementos de diseño serán la base para todas las decisiones visuales y de branding que tomemos a lo largo del desarrollo de nuestro proyecto.
 
 ### **4.1.2. Web Style Guidelines**
+
 En esta sección, se describen los estándares visuales y de interacción que se aplicarán a las interfaces web responsivas de **Care Nest**. Estos lineamientos aseguran que la experiencia del usuario sea coherente y accesible, independientemente del dispositivo o tamaño de pantalla.
 
 #### **Responsive Typography:**
+
 La tipografía utilizada en **Care Nest** se adaptará fluidamente a diferentes tamaños de pantalla para mantener la legibilidad y consistencia visual. A continuación, se definen las reglas de adaptación para los tamaños de texto:
+
 - **Encabezados:** Los encabezados utilizarán la tipografía **Poppins** y se escalarán en relación al tamaño de la pantalla. El tamaño inicial irá aumentando o disminuyendo proporcionalmente en tabletas, celulares y desktops.
 - **Cuerpo de Texto:** El cuerpo del texto también utilizará **Poppins** con un tamaño base de **16 px** en dispositivos móviles, ajustándose de manera fluida en pantallas más grandes.
 
 #### **Color Usage:**
+
 La paleta de colores será consistente en todas las versiones de la interfaz web, asegurando que los colores seleccionados para los textos y fondos se adapten bien a los cambios de tamaño de pantalla. Se respetarán las siguientes reglas:
+
 - **Contraste:** El contraste entre el texto y el fondo será alto para mejorar la legibilidad, especialmente en dispositivos móviles donde la luz ambiental puede variar.
 
 #### **Spacing and Layout:**
+
 El espaciado y la disposición de los elementos se ajustarán dinámicamente para garantizar que la interfaz sea clara y fácil de usar en todas las resoluciones. Las principales reglas de espaciado incluyen:
+
 - **Padding y Margen:** El padding y margen se establecerán en unidades relativas (como em o rem) para mantener la proporción entre diferentes tamaños de pantalla.
 - **Grid System:** Se implementará un sistema de grilla fluido que permita que los elementos se reorganicen de manera natural conforme cambie el ancho de la pantalla, manteniendo una estructura equilibrada y consistente.
 
 #### **Responsive Interactions:**
+
 Las interacciones en la plataforma **Care Nest** estarán optimizadas tanto para dispositivos táctiles como no táctiles. Algunas de las consideraciones incluyen:
+
 - **Touch Targets:** Los elementos interactivos tendrán áreas táctiles suficientemente grandes para evitar errores de interacción en dispositivos móviles.
 - **Gestos y Animaciones:** Los gestos comunes (como deslizar y tocar) serán soportados en dispositivos táctiles, y las animaciones serán ligeras para garantizar una experiencia rápida y responsiva en todos los dispositivos.
 
 Estos lineamientos aseguran que la experiencia de usuario en **Care Nest** sea intuitiva y consistente en cualquier dispositivo, apoyando la misión de nuestra plataforma de ofrecer una solución confiable y accesible para el cuidado infantil.
 
 ## **4.2. Information Architecture**
+
 En esta sección, definimos las decisiones clave que guiarán la arquitectura de la información en **Care Nest**, abarcando tanto la landing page como las aplicaciones web y móviles. Nuestro objetivo es asegurar que los usuarios puedan navegar fácilmente por la plataforma y encontrar la información o funcionalidad que necesitan sin esfuerzo.
 
 ### **4.2.1. Organization Systems**
+
 En esta sección, explicamos los sistemas de organización que aplicaremos a los diferentes grupos de información en **Care Nest**. La organización del contenido se basa en esquemas que optimizan la experiencia del usuario, permitiendo un acceso rápido y sencillo a la información relevante.
 
 #### **Visual Hierarchy (Jerarquía Visual)**
+
 La jerarquía visual es el enfoque principal para organizar la información en la landing page. Esto asegura que los elementos más importantes capten la atención del usuario de inmediato.
 
 - **Header:**
+
   - Colocaremos el logotipo de **Care Nest** junto con el menú de navegación principal en la parte superior de la página. Estos elementos servirán como el primer punto de contacto visual, estableciendo la identidad de la marca y proporcionando acceso a secciones clave como "Sobre Nosotros", "Servicios", y "Contacto".
 
 - **Secciones Principales:**
+
   - La landing page se organizará en secciones jerárquicas claras, comenzando con una imagen destacada y un mensaje que comunica el valor principal de **Care Nest**.
   - A continuación, se presentará información sobre los servicios ofrecidos, beneficios de la plataforma, y testimonios de usuarios, todo en un orden lógico que guía a los visitantes a través de la página.
 
 - **Call to Action (Llamada a la Acción):**
+
   - Las llamadas a la acción, como "Regístrate" o "Conoce Más", serán destacadas mediante un diseño visual que resalte sobre el resto del contenido, motivando a los visitantes a interactuar con la plataforma.
 
 - **Footer:**
   - El pie de página incluirá información de contacto, enlaces a redes sociales, y un mapa del sitio, organizado de manera que no distraiga de los elementos principales pero siga siendo accesible.
 
 #### **Sequential Organization (Organización Secuencial)**
+
 Aunque la landing page no implica pasos secuenciales complejos, aplicaremos una organización secuencial en el flujo de contenido para guiar a los usuarios a través de la información de manera lógica.
 
 - **Exploración de Servicios:** Los visitantes serán guiados de forma secuencial desde una introducción general sobre **Care Nest**, pasando por una explicación de los servicios, hasta llegar a las opciones para registrarse o contactar a la empresa.
 - **Navegación Fluida:** La estructura de la página facilitará una navegación fluida, donde los usuarios puedan seguir un flujo natural desde la parte superior hasta el final, con la posibilidad de saltar a secciones específicas mediante el menú de navegación.
 
 #### **Categorization Schemes (Esquemas de Categorización)**
+
 En la landing page, utilizaremos un esquema de categorización por tópicos para organizar la información de manera que los visitantes puedan encontrar rápidamente lo que buscan.
 
 - **Por Tópicos:** El contenido estará dividido en secciones temáticas como "Sobre Nosotros", "Servicios", y "Planes", permitiendo a los usuarios acceder fácilmente a la información relevante para sus necesidades.
@@ -1419,16 +1478,19 @@ En esta sección, explicamos cómo representaremos los datos en la landing page 
 #### **Etiquetas y Asociaciones**
 
 - **Header:**
+
   - **Logo:** El logotipo de **Care Nest** estará etiquetado claramente como "Care Nest", asegurando que los visitantes identifiquen la marca de inmediato.
   - **Menú de Navegación:** Las opciones del menú se etiquetarán con términos simples y descriptivos como "Inicio", "Servicios", "Sobre Nosotros", "Planes", y "Contacto". Esto permitirá a los visitantes encontrar rápidamente la información que buscan.
 
 - **Secciones Principales:**
+
   - **Inicio:** La sección de inicio estará claramente etiquetada para destacar el valor principal de **Care Nest**, con una etiqueta como "Bienvenido a Care Nest" o "Tu Solución de Cuidado Infantil".
   - **Servicios:** Esta sección estará etiquetada como "Servicios", y cada servicio individual se identificará con nombres descriptivos como "Cuidado Infantil", "Educadores Capacitados", y "Atención Personalizada".
   - **Beneficios:** Se etiquetará como "Beneficios", destacando las ventajas de utilizar **Care Nest**.
   - **Planes:** Esta sección estará etiquetada como "planes" y mostrará los diferentes planes de suscripción para Care Nest.
 
 - **Call to Action (Llamada a la Acción):**
+
   - **Botones de Acción:** Los botones de llamada a la acción estarán etiquetados con frases claras y motivadoras como "Regístrate Ahora", "Descubre Más", y "Contáctanos", facilitando la interacción con la plataforma.
 
 - **Footer:**
@@ -1443,26 +1505,32 @@ En esta sección, detallamos los SEO Tags y Meta Tags que se aplicarán a la lan
 #### **Landing Page**
 
 **Title Tag:**
+
 - **Valor:** "Care Nest - Soluciones de Cuidado Infantil Confiables y Flexibles"
 - **Descripción:** El título es conciso y describe claramente el propósito de la plataforma, integrando palabras clave relevantes para SEO.
 
 **Meta Description:**
+
 - **Valor:** "Care Nest ofrece soluciones confiables y flexibles para el cuidado infantil, ayudando a padres y tutores a equilibrar sus responsabilidades laborales con la tranquilidad de saber que sus hijos están bien atendidos. Descubre nuestros servicios personalizados."
 - **Descripción:** La descripción proporciona un resumen atractivo de la plataforma, utilizando palabras clave relevantes para mejorar el ranking en los motores de búsqueda.
 
 **Meta Keywords:**
+
 - **Valor:** "cuidado infantil, soluciones de cuidado, cuidado flexible, servicios para padres, educación infantil, cuidado de niños, plataforma de cuidado infantil"
 - **Descripción:** Las palabras clave están seleccionadas para captar los términos de búsqueda relevantes para la plataforma y atraer a los usuarios interesados en el cuidado infantil.
 
 **Meta Author:**
+
 - **Valor:** "Care Nest Team"
 - **Descripción:** Indica el autor del contenido de la página, en este caso, el equipo detrás de **Care Nest**.
 
 **Meta Robots:**
+
 - **Valor:** "index, follow"
 - **Descripción:** Permite a los motores de búsqueda indexar la página y seguir los enlaces en ella, facilitando la visibilidad en los resultados de búsqueda.
 
 **Meta Viewport:**
+
 - **Valor:** "width=device-width, initial-scale=1.0"
 - **Descripción:** Asegura que la página sea responsive y se adapte adecuadamente a diferentes tamaños de pantalla y dispositivos.
 
@@ -1475,13 +1543,16 @@ En esta sección, describimos cómo facilitaremos la búsqueda de información d
 #### **Sistema de Navegación en la Landing Page**
 
 **Navegación Clara y Estructurada:**
+
 - **Menú de Navegación Principal:** La landing page incluirá un menú de navegación claro y bien estructurado en la parte superior, que permitirá a los usuarios acceder a las secciones principales del sitio, como "Servicios", "Acerca de Nosotros" y "Contacto".
 - **Enlaces Internos:** Enlaces estratégicamente ubicados dentro del contenido para dirigir a los usuarios a las secciones relevantes del sitio.
 
 **Contenido Destacado:**
+
 - **Secciones Destacadas:** La landing page presentará secciones destacadas con información clave, como los beneficios del servicio y planes, para guiar a los usuarios hacia la información más relevante sin necesidad de una búsqueda específica.
 
 **Visualización de Contenido:**
+
 - **Diseño Visual Atractivo:** Utilizaremos un diseño visual que facilite la navegación intuitiva, con llamados a la acción claros y botones visibles para que los usuarios encuentren la información que buscan de manera natural.
 
 #### **Sistema de Búsqueda en la Aplicación Web (futuro)**
@@ -1489,13 +1560,16 @@ En esta sección, describimos cómo facilitaremos la búsqueda de información d
 Para la futura aplicación web, implementaremos un sistema de búsqueda más avanzado que permita a los usuarios encontrar información específica de manera eficiente.
 
 **Barra de Búsqueda:**
+
 - **Ubicación:** En la parte superior de la interfaz de usuario.
 - **Funcionalidad:** Permitirá buscar entre diversos recursos y servicios específicos de la aplicación.
 
 **Filtros de Búsqueda:**
+
 - **Filtros Disponibles:** Los usuarios podrán aplicar filtros como categoría de servicio, ubicación, disponibilidad y valoración para refinar los resultados.
 
 **Resultados de Búsqueda:**
+
 - **Presentación:** Resultados organizados en formato de lista o cuadrícula con detalles adicionales y coincidencias destacadas.
 
 Estos sistemas de búsqueda y navegación están diseñados para mejorar la experiencia del usuario, garantizando que la landing page sea clara y fácil de usar, mientras que la futura aplicación web ofrecerá funcionalidades de búsqueda avanzadas.
@@ -1507,41 +1581,52 @@ En esta sección, describimos las acciones y técnicas que guiarán a los usuari
 #### **Sistema de Navegación en la Landing Page**
 
 **Menú de Navegación Principal:**
+
 - **Ubicación y Diseño:** El menú de navegación estará ubicado en la parte superior de la landing page, visible en todo momento. Utilizaremos un diseño fijo y claro para asegurar que los usuarios puedan acceder a cualquier sección en cualquier momento.
 - **Secciones del Menú:** Incluirá enlaces a las secciones principales del sitio como "Servicios", "Acerca de Nosotros" y "Contacto". Estos enlaces estarán organizados de manera lógica para facilitar el acceso a la información relevante.
 
 **Llamados a la Acción (CTAs):**
+
 - **Botones Destacados:** Utilizaremos botones de llamados a la acción visibles y atractivos para guiar a los usuarios hacia las acciones deseadas, como "Solicitar Información", "Registrarse", o "Ver Servicios". Estos botones estarán ubicados en lugares estratégicos a lo largo de la página para maximizar la visibilidad.
 
 **Organización del Contenido:**
+
 - **Diseño en Secciones:** La landing page estará organizada en secciones claramente delimitadas, cada una con un encabezado y un propósito específico. Esto permitirá a los usuarios navegar de manera fluida a través del contenido, entendiendo rápidamente la estructura del sitio.
 - **Enlaces Internos:** Incluirá enlaces internos dentro del contenido para dirigir a los usuarios a partes específicas de la página o a otras secciones relacionadas.
 
 **Indicadores de Progreso:**
+
 - **Desplazamiento y Anclajes:** Utilizaremos indicadores visuales y anclajes para ayudar a los usuarios a entender dónde se encuentran dentro de la página y facilitar el desplazamiento entre secciones importantes.
 
 #### **Sistema de Navegación en la Aplicación Web (futuro)**
 
 **Barra de Navegación:**
+
 - **Ubicación y Diseño:** En la parte superior o lateral de la interfaz, proporcionará acceso a todas las secciones importantes de la aplicación, como "Perfil", "Mis Servicios", "Mensajes", y "Configuración".
 - **Menú Desplegable:** Se implementará un menú desplegable para organizar las opciones de navegación de manera compacta y accesible.
 
 **Navegación Basada en Roles:**
+
 - **Acceso a Funcionalidades:** La navegación se ajustará según el rol del usuario (por ejemplo, padres, cuidadores). Los usuarios tendrán acceso a las funcionalidades y datos relevantes para su perfil específico.
 
 **Sistema de Páginas y Subpáginas:**
+
 - **Estructura Jerárquica:** La aplicación web tendrá una estructura de páginas y subpáginas para organizar la información y servicios. Los usuarios podrán navegar a través de secciones principales y acceder a detalles adicionales según sus necesidades.
 
 **Asistencia y Orientación:**
+
 - **Ayuda Contextual:** Ofreceremos ayuda contextual y tutoriales dentro de la aplicación para guiar a los usuarios en el uso de las funcionalidades y la navegación a través de la interfaz.
 
 **Indicadores de Navegación:**
+
 - **Breadcrumbs y Menú de Navegación:** Implementaremos breadcrumbs (migas de pan) y un menú de navegación claro para ayudar a los usuarios a seguir su camino a través de la aplicación y retroceder si es necesario.
 
 Estos sistemas de navegación están diseñados para asegurar una experiencia fluida y eficiente tanto en la landing page como en la futura aplicación web, permitiendo a los usuarios interactuar con el contenido y alcanzar sus objetivos de manera satisfactoria.
 
 ## **4.3. Landing Page UI Design**
+
 ### **4.3.1. Landing Page Wireframe**
+
 El wireframe de la landing page para Desktop y Mobile se diseñó aplicando principios de claridad y simplicidad, priorizando la navegación fácil y eficiente. Se destacan las siguientes secciones:
 
 - **Barra de navegación** con enlaces clave y un botón de "Register".
@@ -1555,6 +1640,7 @@ El diseño inclusivo asegura accesibilidad mediante tipografía legible, buen co
 ![Landing-PAge-Wireframe](Images/LandingPage-Wireframe.png)
 
 ### **4.3.2. Landing Page Mock-up**
+
 El mock-up implementa los elementos visuales definidos en el Design System:
 
 - **Tipografía y colores** de la paleta `#DEEFE7`, `#FFFFFF`, `#002333`, y `#149A9B` con fuentes Poppins.
@@ -1566,80 +1652,81 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 ![Landing-Page-Mockup](Images/landing-page-mockup.png)
 
 ## **4.4. Web Applications UX/UI Design**
+
 ### **4.4.1. Web Applications Wireframes**
 
 - Web application login wireframe: Este wireframe muestra la pantalla de inicio de sesión de la aplicación web, con campos para correo electrónico y contraseña, y botón para iniciar sesión.
-![Login-Wireframe](Images/WebApplicationWireframe-Login.png)
+  ![Login-Wireframe](Images/WebApplicationWireframe-Login.png)
 
 - Web application registration wireframe: Este wireframe muestra la pantalla de registro de la aplicación web, con campos para nombre, correo electrónico, contraseña, y botón para registrarse.
-![Registration-Wireframe](Images/WebApplicationWireframe-Register.png)
+  ![Registration-Wireframe](Images/WebApplicationWireframe-Register.png)
 
 - Web application Search Caregivers wireframe: Este wireframe muestra la pantalla de búsqueda de cuidadores de la aplicación web, con filtros y resultados de búsqueda.
-![Search-Caregivers-Wireframe](Images/WebApplicationWireframe-SearchCaregivers.png)
+  ![Search-Caregivers-Wireframe](Images/WebApplicationWireframe-SearchCaregivers.png)
 
 - Web application Caregiver Profile wireframe: Este wireframe muestra el perfil de un cuidador en la aplicación web, con información detallada, calificaciones, opciones de contacto y opciones de reserva.
-![Caregiver-Profile-Wireframe](Images/WebApplicationWireframe-CaregiverDetail.png)
+  ![Caregiver-Profile-Wireframe](Images/WebApplicationWireframe-CaregiverDetail.png)
 
 - Web application Reservate Caregiver wireframe: Este wireframe muestra la pantalla de reserva de un cuidador en la aplicación web.
-![Reservate-Caregiver-Wireframe](Images/WebApplicationWireframe-CaregiverReservateOption.png)
+  ![Reservate-Caregiver-Wireframe](Images/WebApplicationWireframe-CaregiverReservateOption.png)
 
 - Web application reservations wireframe: Este wireframe muestra la pantalla de reservas de la aplicación web, con un resumen de las reservas realizadas y opciones de gestión.
-![Reservations-Wireframe](Images/WebApplicationWireframe-Reservations.png)
+  ![Reservations-Wireframe](Images/WebApplicationWireframe-Reservations.png)
 
 - Web application Chat wireframe: Este wireframe muestra la pantalla de chat de la aplicación web, con opciones de mensajería y visualización de mensajes.
-![Chat-Wireframe](Images/WebApplicationWireframe-ChatOnline.png)
+  ![Chat-Wireframe](Images/WebApplicationWireframe-ChatOnline.png)
 
 - Web application Chat Example wireframe: Este wireframe muestra un ejemplo de chat en la aplicación web, con conversación actual.
-![Chat-Example-Wireframe](Images/WebApplicationWireframe-ChatOnlineCaregiverExample.png)
-
+  ![Chat-Example-Wireframe](Images/WebApplicationWireframe-ChatOnlineCaregiverExample.png)
 
 ### **4.4.2. Web Applications Wireflow Diagrams**
+
 ### **4.4.3. Web Applications Mock-ups**
 
 - Web application login mock-up: Este mock-up muestra la pantalla de inicio de sesión de la aplicación web, con diseño visual y elementos de interfaz.
-![Login-Mockup](Images/WebApplicationMockUp-Login.png)
+  ![Login-Mockup](Images/WebApplicationMockUp-Login.png)
 
 - Web application registration mock-up: Este mock-up muestra la pantalla de registro de la aplicación web, con diseño visual y elementos de interfaz.
-![Registration-Mockup](Images/WebApplicationMockUp-Register.png)
+  ![Registration-Mockup](Images/WebApplicationMockUp-Register.png)
 
 - Web application Search Caregivers mock-up: Este mock-up muestra la pantalla de búsqueda de cuidadores de la aplicación web, con diseño visual y elementos de interfaz.
-![Search-Caregivers-Mockup](Images/WebApplicationMockUp-SearchCaregiver.png)
+  ![Search-Caregivers-Mockup](Images/WebApplicationMockUp-SearchCaregiver.png)
 
 - Web application Caregiver Profile mock-up: Este mock-up muestra el perfil de un cuidador en la aplicación web, con diseño visual y elementos de interfaz.
-![Caregiver-Profile-Mockup](Images/WebApplicationMockUp-CaregiverDetail.png)
+  ![Caregiver-Profile-Mockup](Images/WebApplicationMockUp-CaregiverDetail.png)
 
 - Web application Reservate Caregiver mock-up: Este mock-up muestra la pantalla de reserva de un cuidador en la aplicación web, con diseño visual y elementos de interfaz.
-![Reservate-Caregiver-Mockup](Images/WebApplicationMockUp-CaregiverReservateOption.png)
+  ![Reservate-Caregiver-Mockup](Images/WebApplicationMockUp-CaregiverReservateOption.png)
 
 - Web application reservations mock-up: Este mock-up muestra la pantalla de reservas de la aplicación web, con diseño visual y elementos de interfaz.
-![Reservations-Mockup](Images/WebApplicationMockUp-Reservations.png)
+  ![Reservations-Mockup](Images/WebApplicationMockUp-Reservations.png)
 
 - Web application Chat mock-up: Este mock-up muestra la pantalla de chat de la aplicación web, con diseño visual y elementos de interfaz.
-![Chat-Mockup](Images/WebApplicationMockUp-ChatOnline.png)
+  ![Chat-Mockup](Images/WebApplicationMockUp-ChatOnline.png)
 
 - Web application Chat Example mock-up: Este mock-up muestra un ejemplo de chat en la aplicación web, con diseño visual y elementos de interfaz.
-![Chat-Example-Mockup](Images/WebApplicationMockUp-ChatOnlineCaregiverExample.png)
+  ![Chat-Example-Mockup](Images/WebApplicationMockUp-ChatOnlineCaregiverExample.png)
 
 - Web application Profile mock-up: Este mock-up muestra el perfil de usuario en la aplicación web, con diseño visual y elementos de interfaz.
-![Profile-Mockup](Images/WebApplicationMockUp-CaregiverProfile.png)
+  ![Profile-Mockup](Images/WebApplicationMockUp-CaregiverProfile.png)
 
 - Web application Edit Profile mock-up: Este mock-up muestra la pantalla de edición de perfil en la aplicación web, con diseño visual y elementos de interfaz.
-![Edit-Profile-Mockup](Images/WebApplicationMockUp-CaregiverEditProfile.png)
+  ![Edit-Profile-Mockup](Images/WebApplicationMockUp-CaregiverEditProfile.png)
 
 - Web application Payment methods mock-up: Este mock-up muestra la pantalla de métodos de pago en la aplicación web, con diseño visual y elementos de interfaz.
-![Payment-Methods-Mockup](Images/WebApplicationMockUp-PaymentMethods.png)
+  ![Payment-Methods-Mockup](Images/WebApplicationMockUp-PaymentMethods.png)
 
 - Web application Payment mock-up: Este mock-up muestra la pantalla de pago en la aplicación web, con diseño visual y elementos de interfaz.
-![Payment-Mockup](Images/WebApplicationMockUp-SelectCardForPayment.png)
+  ![Payment-Mockup](Images/WebApplicationMockUp-SelectCardForPayment.png)
 
 - Web application Card information form mock-up: Este mock-up muestra el formulario de información de tarjeta en la aplicación web para pagar una reserva, con diseño visual y elementos de interfaz.
-![Card-Information-Form-Mockup](Images/WebApplicationMockUp-CardInformationFormToPayReservation.png)
+  ![Card-Information-Form-Mockup](Images/WebApplicationMockUp-CardInformationFormToPayReservation.png)
 
 - Web application Add Card mock-up: Este mock-up muestra la pantalla para agregar una nueva tarjeta en la aplicación web, con diseño visual y elementos de interfaz.
-![Add-Card-Mockup](Images/WebApplicationMockUp-CardInformationFormToAddCard.png)
+  ![Add-Card-Mockup](Images/WebApplicationMockUp-CardInformationFormToAddCard.png)
 
 - Web application Delete Card mock-up: Este mock-up muestra la pantalla para eliminar una tarjeta en la aplicación web, con diseño visual y elementos de interfaz.
-![Delete-Card-Mockup](Images/WebApplicationMockUp-DeleteCard.png)
+  ![Delete-Card-Mockup](Images/WebApplicationMockUp-DeleteCard.png)
 
 ### **4.4.4. Web Applications User Flow Diagrams**
 
@@ -1663,7 +1750,6 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
   <img src="Images/userflow-5.JPG" alt="Userflow 5" width="100%">
 </p>
 
-
 ## **4.5. Web Applications Prototyping**
 
 <p align="center">
@@ -1673,40 +1759,51 @@ El mock-up resalta la experiencia de usuario con un diseño visual atractivo y f
 **Link del video del Prototipo**: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216831_upc_edu_pe/ESv_YaT-VJRMucn0qAQuCZ8BwmFMBHKUI7KpwalIRIbk7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5kqHAx>
 
 ## **4.6. Domain-Driven Software Architecture**
+
 ### **4.6.1. Software Architecture Context Diagram**
+
 <p align="center">
   <img src="Images/Software%20Architecture%20Context%20Diagram.jpg" alt="tipografia" width="100%">
 </p>
 
 ### **4.6.2. Software Architecture Container Diagrams**
+
 <p align="center">
   <img src="Images/Software%20Architecture%20Container%20Diagrams.jpg" alt="tipografia" width="100%">
 </p>
 
 ### **4.6.3. Software Architecture Components Diagrams**
+
 **Payment Context Component Diagram**
+
 <p align="center">
   <img src="Images/Payment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
   </p>
 
 **User Profile Context Component Diagram**
+
 <p align="center">
   <img src="Images/User%20Profile%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%">
   </p>
 
 **Chat Context Component Diagram**
+
 <p align="center"> 
   <img src="Images/Chat%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
 </p>
 
 **Appointment Context Component Diagram**
+
 <p align="center"> 
   <img src="Images/Appointment%20Context%20Component%20Diagram.jpg" alt="tipografia" width="100%"> 
 </p>
 
 ## **4.7. Software Object-Oriented Design**
+
 ### **4.7.1. Class Diagrams**
+
 **Link: https://lucid.app/lucidchart/88db94c2-09b6-49af-a324-6110a192c788/edit?viewport_loc=-1158%2C-1328%2C5193%2C2463%2C0_0&invitationId=inv_52f56317-6d9f-4f85-888e-c4197b3e3193**
+
 <p align="center"> 
   <img src="Images/Class%20Diagrams%20CareNest.png" alt="tipografia" width="100%"> 
 </p>
@@ -1766,10 +1863,12 @@ A continuación, se presentan las clases principales del diagrama de clases:
   </tbody>
 </table>
 
-
 ## **4.8. Database Design**
+
 ### **4.8.1. Database Diagram**
+
 **Link: https://dbdiagram.io/d/66dfbed4550cd927eab1cd37**
+
 <p align="center"> 
   <img src="Images/database%20diagram.png" alt="tipografia" width="100%"> 
 </p>
@@ -1777,6 +1876,7 @@ A continuación, se presentan las clases principales del diagrama de clases:
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 
 ## **5.1. Software Configuration Management**
+
 ### **5.1.1. Software Development Environment Configuration**
 
 En esta sección describimos la configuración de las herramientas necesarias para el desarrollo del software, organizadas según las distintas fases y actividades del proyecto.
@@ -1786,7 +1886,6 @@ En esta sección describimos la configuración de las herramientas necesarias pa
 Para planificar y organizar el desarrollo del software, incluyendo la asignación de tareas, el seguimiento del progreso y la coordinación del equipo, utilizamos :
 
 Trello: Utilizamos Trello, una plataforma de gestión de proyectos basada en tableros, para organizar tareas y colaborar en tiempo real. Trello facilita la visualización del progreso del proyecto y la coordinación entre los miembros del equipo.
-
 
 **Diseño UX/UI**
 
@@ -1822,20 +1921,23 @@ Durante todos los próximos sprints, emplearemos Git Flow para gestionar el desa
 Para la gestión de cambios en nuestro repositorio, seguimos el modelo Git Flow. Este modelo organiza las ramas de la siguiente manera:
 
 - **Ramas Principales:**
+
   - 'master': Contiene el código de producción estable y listo para el despliegue.
   - 'develop': Es la rama de integración donde se consolidan todas las características desarrolladas y se prepara para el próximo lanzamiento.
 
 - **Ramas de Soporte:**
+
   - feature: Se crean a partir de la rama develop para el desarrollo de nuevas características. Una vez completada la característica, se fusionan nuevamente en develop.
 
     - Ejemplo de Creación de Rama de Característica:
 
 ```
-git checkout -b feature/[nombre-de-la-caracteristica] 
+git checkout -b feature/[nombre-de-la-caracteristica]
 git add .
 git commit -m "feat: [descripcion-de-la-caracteristica]"
 git push -u origin feature/[nombre-de-la-caracteristica]
 ```
+
 <div align="center">
 <image src="./Images/02 Feature branches.svg">
 </div>
@@ -1860,6 +1962,7 @@ git commit -m "test: [descripcion de los cambios en las pruebas]"
 * [chore: cambios en la configuracion]
 git commit -m "chore: [descripcion de los cambios en la configuracion]"
 ```
+
 Este modelo da una estructura clara y organizada para que los desarrolladores puedan comprender el flujo de trabajo y colaborar de manera eficiente.
 
 ### **5.1.3. Source Code Style Guide & Conventions**
@@ -1870,7 +1973,7 @@ En el desarrollo del proyecto se utilizarán los siguientes lenguajes y tecnolog
 
 - CSS
 
-Variables de Colores: Los colores globales se definen en el archivo de estilos principal utilizando variables en el selector ``` :root. ``` Esto facilita la reutilización y el mantenimiento de los estilos en toda la página.
+Variables de Colores: Los colores globales se definen en el archivo de estilos principal utilizando variables en el selector `:root.` Esto facilita la reutilización y el mantenimiento de los estilos en toda la página.
 
 <div align="center">
 <image src="./Images/Tutorial-de-Variables-CSS-con-var.png">
@@ -1886,6 +1989,7 @@ Nombres de Clases Compuestas: Los nombres de las clases compuestas deben estar u
 ```
 
 Unidad de Medida rem: Usar la unidad de medida rem para mantener un diseño responsivo y consistente:
+
 ```
 font-size: 1rem;
 ```
@@ -1910,6 +2014,7 @@ export default {
 }
 </script>
 ```
+
 Personalización de Componentes: Personalizar los componentes mediante la extensión de temas cuando sea necesario.
 
 ### **5.1.4. Software Deployment Configuration**
@@ -1917,7 +2022,9 @@ Personalización de Componentes: Personalizar los componentes mediante la extens
 Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una plataforma que ofrece alojamiento para sitios web estáticos directamente desde un repositorio de GitHub. Hemos creado un repositorio en GitHub donde subiremos las versiones del proyecto y utilizaremos GitHub Pages para gestionar el despliegue y la publicación del sitio web.
 
 ## **5.2. Landing Page, Services & Applications Implementation**
+
 ## **5.2.1. Sprint 1**
+
 ### **5.2.1.1. Sprint Planning 1**
 
 <table BORDER>
@@ -1965,7 +2072,6 @@ Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una 
   </tr>
   
 </table>
-
 
 ### **5.2.1.2. Sprint Backlog 1**
 
@@ -2136,7 +2242,6 @@ Para desplegar la página de inicio del proyecto, optamos por GitHub Pages, una 
 
 En este Sprint, se logró el desarrollo del landing page. A continuación, presentamos capturas de pantalla de las principales vistas implementadas en este Sprint:
 
-
 - Navbar:
 <div align="center">
   <img src="Images/nabvar-landing-page.png">
@@ -2200,9 +2305,13 @@ Durante este sprint, se ha completado el desarrollo y la documentación de la la
 </div>
 
 ## **5.2.2. Sprint 2**
+
 ### **5.2.2.1. Sprint Planning 2**
+
 En este segundo sprint, es esencial seguir clarificando las tareas y mantener un enfoque constante en nuestro proceso ágil. Continuamos ampliando las características ya definidas en el sprint anterior, optimizando el código funcional y progresando iterativamente en su desarrollo.
+
 ### **5.2.2.2. Sprint Backlog 2**
+
 <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <thead>
     <tr>
@@ -2370,12 +2479,16 @@ En este segundo sprint, es esencial seguir clarificando las tareas y mantener un
 </table>
 
 ### **5.2.2.3. Development Evidence for Sprint Review**
+
 ### **5.2.2.4. Testing Suite Evidence for Sprint Review**
+
 Entendido. La información sobre la aplicación se agregará en una etapa posterior, ya que en esta fase solo se ha trabajado en la Landing Page y el front-end.
+
 ### **5.2.2.5. Execution Evidence for Sprint Review**
+
 En este sprint se lograron avances significativos en la implementación del Front-End del proyecto utilizando Angular CLI y WebStorm. Se consolidaron varias funcionalidades clave, como el sistema de registro e inicio de sesión de usuarios, el despliegue completo de la Landing Page con mejoras en la interactividad y la optimización del rendimiento. Estas mejoras no solo fortalecen la experiencia del usuario, sino que también refuerzan la base técnica de la aplicación.
 
-El enfoque en una interfaz amigable y fácil de usar permitió crear una navegación fluida, destacando por un diseño atractivo y adaptable a diferentes tamaños de pantalla. Además, se avanzó en la gestión de perfiles de usuarios, la elección de planes y la visualización de información nutricional. Las tareas pendientes fueron completadas y se realizaron varios ajustes en la estructura del proyecto. Link del proyecto: https://carenest-grupo1-appweb.web.app/search 
+El enfoque en una interfaz amigable y fácil de usar permitió crear una navegación fluida, destacando por un diseño atractivo y adaptable a diferentes tamaños de pantalla. Además, se avanzó en la gestión de perfiles de usuarios, la elección de planes y la visualización de información nutricional. Las tareas pendientes fueron completadas y se realizaron varios ajustes en la estructura del proyecto. Link del proyecto: https://carenest-grupo1-appweb.web.app/search
 
 - Se muestra el despliegue del Sign In:
   ![image](https://github.com/user-attachments/assets/d3ef758f-da73-4e32-b626-ed6f7053eaa0)
@@ -2386,9 +2499,10 @@ El enfoque en una interfaz amigable y fácil de usar permitió crear una navegac
 - Se muestra el despliegue del apartado del pago:
   ![image](https://github.com/user-attachments/assets/d308dc62-2b72-4444-9067-661d7542519c)
 
-  
 ### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
 ### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
 Utilizamos el servicio de Google Firebase para el despliegue de la web Application. A continuación se mostrarán la evidencia del despliegue.
 
 - creamos y deplegamos el servicio para consumir en firebase.
@@ -2396,9 +2510,9 @@ Utilizamos el servicio de Google Firebase para el despliegue de la web Applicati
 - configuramos en el terminal de WebSorm para iniciar el firebase.
   ![image](https://github.com/user-attachments/assets/8220be13-d41c-4366-becf-88ba6bf10e29)
   ![image](https://github.com/user-attachments/assets/8fa69bd0-bb11-4b00-8a30-306c2565fd1e)
-  
 
 ### **5.2.2.8. Team Collaboration Insights during Sprint**
+
 Durante el desarrollo del Front End, se utilizó Visual Studio Code junto con GitHub, siguiendo las guías de estilo previamente establecidas. Posteriormente, para la implementación en HTML, CSS y JavaScript, se empleó WebStorm. A continuación, se presentarán los diagramas de flujo que muestran los commits realizados por cada miembro del equipo.<br>
 ![image](https://github.com/user-attachments/assets/a109b3e9-625d-4d46-863a-ba8bd8bd859c)
 
@@ -2408,57 +2522,224 @@ Asimismo, se presentará una representación visual del tráfico de "Git clones"
 ![image](https://github.com/user-attachments/assets/91e91d40-95bf-4e2e-970b-ef79b48d8fb6)
 
 ## **5.2.3. Sprint 3**
+
 ### **5.2.3.1. Sprint Planning 3**
+
+| Sprint#                        | Sprint 3                                                                                                                                                             |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint planning Background     |                                                                                                                                                                      |
+| Date                           | 2024-11-05                                                                                                                                                           |
+| Time                           | 9:10 PM                                                                                                                                                              |
+| Location                       | Reunión virtual por Discord                                                                                                                                          |
+| Prepared By                    | Meza Camayo, Lynn Jeeferzon                                                                                                                                          |
+| Attendees(to planning meeting) | Barturen Guzman, Alejandro Nicolas / Morales Sosa, Arnold Gabriel / Braithuaite Toledo, Gabriel Anthony / Araujo Ingunza, Renzo Jose / Lapa de la Cruz, Gabriel Omar |
+| Sprint goal & User stories     |                                                                                                                                                                      |
+| Sprint 2 goal                  | Desarrollar una parte del backend del web appplication                                                                                                               |
+| Sprint Velocity                | 3 semanas                                                                                                                                                            |
+| Sum of Story Points            | 52                                                                                                                                                                   |
+
 ### **5.2.3.2. Sprint Backlog 3**
+
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-57</td>
+        <td>Navegacion</td>
+        <td>W-01</td>
+        <td>Apartado de filtrado dinamico</td>
+        <td>Se implemento el backend del filtro.</td>
+        <td>5</td>
+        <td>Lynn</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-58</td>
+        <td>Funcionamiento del chat online</td>
+        <td>W-02</td>
+        <td>creacion del backend de chat</td>
+        <td>Se implemento el backend de la seccion de chat online</td>
+        <td>6</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-59</td>
+        <td>Agregacion de servicios</td>
+        <td>W-04</td>
+        <td>Imnplementacion de agregacion de servicios</td>
+        <td>desarrollo del backend de agregacion de servicios</td>
+        <td>2</td>
+        <td>Arnold</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-60</td>
+        <td>logica de reservaciones</td>
+        <td>W-04</td>
+        <td>implementacion del backend para crear reservaciones</td>
+        <td>Se Creacion del backend de la seccion de "reservaciones"</td>
+        <td>2</td>
+        <td>Anthony</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-61</td>
+        <td>logica de registro de cuenta</td>
+        <td>W-04</td>
+        <td>implementacion del backend de creacion de usuario</td>
+        <td>Se Creacion del backend de la seccion de "log in" y "register" </td>
+        <td>2</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-62</td>
+        <td>logica de pagos</td>
+        <td>W-04</td>
+        <td>Implementacion del backend del apartado "pagos"</td>
+        <td>Se Creasion del backend de la seccion de "pagos" </td>
+        <td>2</td>
+        <td>Omar</td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ### **5.2.3.3. Development Evidence for Sprint Review**
+
 ### **5.2.3.4. Testing Suite Evidence for Sprint Review**
+
 ### **5.2.3.5. Execution Evidence for Sprint Review**
+
 ### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+
+Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo del frontend y se implemento una parte del backend. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a al web application y una parte del backend.
+
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+<h3>Durante el Sprint 3, llevamos a cabo el despliegue de nuestro Fonrtend y Backend en GitHub Pages. A continuación, detallamos los pasos realizados:</h3>
+<ol>
+  <li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de Frantend y Backend.</li>
+  <li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.</li>
+  <li><strong>Preparación del Contenido:</strong> Desarrollamos y diseñamos nuestra Frontend y Backend, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.</li>
+  <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
+  <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
+</ol>
+
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
 
+## **5.3. Validation Interviews**
+
+### **5.3.1. Diseño de Entrevistas**
+
+#### Para Padres:
+
+1. ¿Qué opinas sobre la facilidad de navegación en la página web?
+2. ¿La información sobre cómo funciona el servicio es clara y comprensible?
+3. ¿Qué características del sitio consideras más útiles para encontrar un cuidador?
+4. ¿Te gustaría ver perfiles de cuidadores con más detalles? Si es así, ¿qué información adicional te gustaría incluir?
+5. ¿Cómo te sientes acerca del sistema de filtrado y búsqueda para los cuidadores?
+6. ¿Consideras que los recursos y artículos ofrecidos son relevantes y útiles?
+7. ¿La opción de contacto o chat en vivo es importante para ti? ¿Por qué?
+8. ¿Te parece que la estética de la página es atractiva y profesional?
+9. ¿Te sientes seguro/a al usar la plataforma para conectar con cuidadores?
+10. ¿Qué métodos de pago preferirías tener disponibles en la plataforma?
+11. ¿Cómo te gustaría que fuera el proceso de programación de clases con los cuidadores?
+12. ¿Tienes alguna sugerencia o mejora que te gustaría ver en la página?
+
+#### Para Cuidadores (Niñeras y Tutores)
+
+1. ¿Qué opinas sobre la facilidad de registro en la página web?
+2. ¿La sección para crear tu perfil es intuitiva y fácil de usar?
+3. ¿Qué información te gustaría incluir en tu perfil que actualmente no está disponible?
+4. ¿Consideras que el sistema de calificación y reseñas te beneficia como cuidador?
+5. ¿La presentación de la página te parece profesional y atractiva?
+6. ¿Qué características del sitio te parecen más útiles para conectar con padres?
+7. ¿Te gustaría tener herramientas adicionales en la plataforma para gestionar tu trabajo? Si es así, ¿cuáles?
+8. ¿La comunicación con los padres a través de la plataforma es clara y eficiente?
+9. ¿Qué piensas sobre el proceso de pago y las opciones que se ofrecen?
+10. ¿La sección de recursos para padres es útil para ti en tu rol como cuidador?
+11. ¿Cómo te gustaría que fuera el proceso de programación de clases con los padres?
+12. ¿Tienes alguna sugerencia o mejora que te gustaría ver en la página desde tu perspectiva como cuidador?
+
+### **5.3.2. Registro de Entrevistas**
+
+UTL:
+
+#### Segmento Objetivo 1: Cuidadores
+
+**a) Rodrigo Lopez Huaman**
+
+- **Ocupación:** Profesror particular
+- **Duración de entrevista:** 11' 24''
+- **Interés de servicio:**Rodrigo Lopez es un profesor particular que no cuenta que Le interesa la aplicacion web ya que aparte de darle visivilidad con nuevos clientes tambien le da facilidad de comunicacion con estos mismos
+- **Conclución:** Rodirgo, como profesor particular, depende de este tipo de webs para poder contactar con futuros clientes, asi que siempre esta en busca de la mujor pagina que le facilite esta labor
+- **Evidencia:** !![image](Images/Huaman.jpeg)
+
+### **5.3.3. Evaluaciones según heurísticas**
+
 ## **5.2.4. Sprint 4**
+
 ### **5.2.4.1. Sprint Planning 4**
+
 ### **5.2.4.2. Sprint Backlog 4**
+
 ### **5.2.4.3. Development Evidence for Sprint Review**
+
 ### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
 ### **5.2.4.5. Execution Evidence for Sprint Review**
+
 ### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+
 ### **5.2.4.7. Software Deployment Evidence for Sprint Review**
+
 ### **5.2.4.8. Team Collaboration Insights during Sprint**
 
-## **5.3. Validation Interviews**
-### **5.3.1. Diseño de Entrevistas**
-### **5.3.2. Registro de Entrevistas**
-### **5.3.3. Evaluaciones según heurísticas**
+=======
+
+> > > > > > > 47fe52ee7a878c57f23e8d58c56a60ddd7b51c68
 
 ## **5.4. Video About-the-Product**
 
 # **Conclusiones**
+
 # **Conclusiones y recomendaciones**
 
 - Conclusiones:
 
-    - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
+  - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
 
-    - En conclución se ha delineado claramente quiénes son los usuarios principales y secundarios (padres y cuidadores), y los beneficios que cada grupo obtendría de la plataforma. La plataforma propuesta tiene el potencial de resolver problemas significativos al proporcionar acceso a perfiles verificados y oportunidades laborales para los cuidadores.
+  - En conclución se ha delineado claramente quiénes son los usuarios principales y secundarios (padres y cuidadores), y los beneficios que cada grupo obtendría de la plataforma. La plataforma propuesta tiene el potencial de resolver problemas significativos al proporcionar acceso a perfiles verificados y oportunidades laborales para los cuidadores.
 
 - Recomendaciones:
 
-    - Incorporar recursos educativos y herramientas de seguimiento del desarrollo infantil desde el inicio. Esto no solo atraerá a más usuarios, sino que también proporcionará un valor añadido significativo a la plataforma.
+  - Incorporar recursos educativos y herramientas de seguimiento del desarrollo infantil desde el inicio. Esto no solo atraerá a más usuarios, sino que también proporcionará un valor añadido significativo a la plataforma.
 
 # **Video About-the-Team**
 
-# **Bibliografía**
+    - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
 
-Del Rosario Rivero Pérez, M., & De Educación, P. M. (2013). *El valor educativo de los cuidados infantiles: para la atención de los niños y niñas de 0 a 3 años. Guía de orientación*. En Ministerio de Educación eBooks. [http://disde.minedu.gob.pe/handle/20.500.12799/5177](http://disde.minedu.gob.pe/handle/20.500.12799/5177)
+Del Rosario Rivero Pérez, M., & De Educación, P. M. (2013). _El valor educativo de los cuidados infantiles: para la atención de los niños y niñas de 0 a 3 años. Guía de orientación_. En Ministerio de Educación eBooks. [http://disde.minedu.gob.pe/handle/20.500.12799/5177](http://disde.minedu.gob.pe/handle/20.500.12799/5177)
 
-Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la brecha entre los niños que atendemos y los que aún nos necesitan”. *El Comercio Perú*. [https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/](https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/)
+Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la brecha entre los niños que atendemos y los que aún nos necesitan”. _El Comercio Perú_. [https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/](https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/)
 
 Condiciones de vida en el Perú: impacto económico de los servicios de cuidado infantil. (2021). En Instituto Nacional de Estadística E Informática (INEI). Recuperado 22 de agosto de 2024, de https://www.inei.gob.pe
 
-
-
 # **Anexos**
-
-
