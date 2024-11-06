@@ -2684,44 +2684,86 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 
 **a) Rodrigo Lopez Huaman**
 
-- **Ocupación:** Profesror particular
+- **Ocupación:** Profesor particular
 - **Duración de entrevista:** 11' 24''
 - **Interés de servicio:**Rodrigo Lopez es un profesor particular que no cuenta que Le interesa la aplicacion web ya que aparte de darle visivilidad con nuevos clientes tambien le da facilidad de comunicacion con estos mismos
 - **Conclución:** Rodirgo, como profesor particular, depende de este tipo de webs para poder contactar con futuros clientes, asi que siempre esta en busca de la mujor pagina que le facilite esta labor
 - **Evidencia:** ![image](Images/Huaman.png)
 
-
 **b) Elismar Sarmiento**
+
 - **Ocupación:** Niñera
 - **Duración de entrevista:** 3' 05''
 - **Interés de servicio:** Elismar es una niñera que le interesa la aplicacion web ya que le da la posibilidad de tener mas clientes y de tener una comunicacion mas directa con estos mismos
 - **Conclución:** Ella cree que la aplicación web mostrada presenta facilidad en el registro, tiene todo lo que se necesita para crear una cuenta, la sección de crear el perfil es intuitiva y fácil de usar. Además, ella cree que la información en el perfil de los cuidadores es completa, no tiene nada más que añadir. Cree que la comunicación con los padres es buena a través del chat. Una herramienta adicional que ella añadiría y lo encuentra beneficioso es que se pueda realizar llamadas a través del chat con los padres.
 - **Evidencia:** ![image](Images/ValidationInterview-CaregiverElismar.png)
 
+**C) Carlos Fernando, Caccha Morah**
+
+- **Ocupación:** Profesor Particular
+- **Duración de entrevista:** 7:05
+- **Interés de servicio:** Carlos Fernando es un estudiante de la carrera Ingeneria Civil que haveces hace servicios de clases particulares para un ingreso adicional, pero se le dificulta encontrar clientes. Por ello, le interesa la aplicacion para ofreser sus servicos.
+- **Conclución:** El comenta que el funcionamiento de navegacion de la aplicación es facil y simple. Las funcionalidades básicas, como la creación de reservas, visualización de precios y administración de horarios, están bien desarrolladas y son intuitivas. Resaltó la importancia de agregar un sistema de calificación para los cuidadores para asi tenr los opiniones de la gente, para uno mejorar su metodo de ofrecer sus servicios.
+- **Evidencia:** ![validation-caregiver](./Images/Entrevista-validadicon-cuidador.jpg)
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
-## **5.2.4. Sprint 4**
+### Evaluaciones según Heurísticas
 
-### **5.2.4.1. Sprint Planning 4**
+La sección de **Evaluaciones según Heurísticas** se enfoca en revisar la experiencia de usuario de _CareNest_ utilizando principios de usabilidad, con el fin de determinar si la plataforma es clara, fácil de usar y consistente. Analizar estos aspectos, como la visibilidad de las opciones y la coherencia en el diseño, nos ayuda a identificar posibles problemas y proponer mejoras. El objetivo de esta evaluación es asegurar que la plataforma ofrezca una experiencia de calidad que los usuarios disfruten y encuentren práctica.
 
-### **5.2.4.2. Sprint Backlog 4**
+- **Carrera**: Ingeniería de Software
+- **Curso**: Desarrollo de Aplicaciones Web
+- **Profesor**: Juan Carlos Tinoco Licas
+- **Auditor**: Grupo 1
+- **Cliente**: Cuidores, tutores y padres de familia
+- **SITE o APP a evaluvar**: CareNest
 
-### **5.2.4.3. Development Evidence for Sprint Review**
+#### Tareas a evaluar: Web Application
 
-### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+1. Registro y creación de perfil de niñera o profesor
+2. Programación y administración de horarios
+3. Métodos de pago y seguridad de datos
+4. Gestión de reservas y comunicación con padres
+5. Configuración de alertas y notificaciones
+6. Revisión y gestión de comentarios y reseñas
 
-### **5.2.4.5. Execution Evidence for Sprint Review**
+### Escala de severidad
 
-### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
-### **5.2.4.7. Software Deployment Evidence for Sprint Review**
+| **Nivel** | **Descripción**                                                                                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado salvo que haya tiempo.                     |
+| 2         | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar para el usuario. Debería solucionarse con prioridad baja para el siguiente lanzamiento. |
+| 3         | Problema mayor: ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante corregirlo y debe tener prioridad alta.                                      |
+| 4         | Problema muy grave: un error crítico que impide al usuario continuar usando la herramienta. Debe corregirse antes del lanzamiento.                                    |
 
-### **5.2.4.8. Team Collaboration Insights during Sprint**
+### Tabla de resumen
 
-=======
+| **Numero** | **Problema**                                                                       | **Escala de severidad** | **Heurística/Principio violada(o)** |
+| ---------- | ---------------------------------------------------------------------------------- | ----------------------- | ----------------------------------- |
+| 1          | No se incluyen detalles del estado del vehículo en la publicación.                 | 2                       | Visibilidad del estado del sistema  |
+| 2          | No hay alertas automáticos para notificar la reserva del vehículo.                 | 3                       | Libertad y control del usuario      |
+| 3          | Falta de opción de comunicación directa con usuarios dentro de la plataforma.      | 2                       | Flexibilidad y eficiencia           |
+| 4          | No hay una política clara sobre la cobertura de seguros en caso de daños menores.  | 4                       | Seguridad y prevención de errores   |
+| 5          | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 3                       | Arquitectura de información         |
 
-> > > > > > > 47fe52ee7a878c57f23e8d58c56a60ddd7b51c68
+### Descripción de problemas
+
+**PROBLEMA #1**: Falta un sistema de reseñas para niñeras y profesores.
+
+- **Severidad**: 3
+- **Heurística violada**: Flexibilidad y eficiencia de uso
+- **Descripción**: No se ofrece un espacio para que los padres dejen comentarios o reseñas sobre las niñeras o profesores, lo que reduce la confianza y dificulta la elección de cuidadores.
+- **Recomendación**: Implementar un sistema de reseñas donde los padres puedan compartir su experiencia, ayudando a otros usuarios a tomar decisiones informadas.
+
+**PROBLEMA #2**: Falta de opción de llamadas a través del chat con padres.
+
+- **Severidad**: 2
+- **Heurística violada**: Flexibilidad y eficiencia de uso
+- **Descripción**: La plataforma carece de una opción para realizar llamadas directamente desde el chat, lo cual podría mejorar la comunicación entre niñeras/profesores y los padres, especialmente en situaciones que requieren aclaraciones rápidas o respuestas inmediatas.
+- **Recomendación**: Agregar la función de llamadas a través del chat para facilitar una comunicación más efectiva y en tiempo real, mejorando la seguridad y tranquilidad de los padres.
 
 ## **5.4. Video About-the-Product**
 
@@ -2741,12 +2783,12 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 
 # **Video About-the-Team**
 
-    - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
+# **Anexos**
+
+- El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
 
 Del Rosario Rivero Pérez, M., & De Educación, P. M. (2013). _El valor educativo de los cuidados infantiles: para la atención de los niños y niñas de 0 a 3 años. Guía de orientación_. En Ministerio de Educación eBooks. [http://disde.minedu.gob.pe/handle/20.500.12799/5177](http://disde.minedu.gob.pe/handle/20.500.12799/5177)
 
 Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la brecha entre los niños que atendemos y los que aún nos necesitan”. _El Comercio Perú_. [https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/](https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/)
 
 Condiciones de vida en el Perú: impacto económico de los servicios de cuidado infantil. (2021). En Instituto Nacional de Estadística E Informática (INEI). Recuperado 22 de agosto de 2024, de https://www.inei.gob.pe
-
-# **Anexos**
