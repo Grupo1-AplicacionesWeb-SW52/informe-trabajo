@@ -1112,6 +1112,15 @@ https://miro.com/app/board/uXjVKjR5eEs=/?share_link_id=79535124661
 Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo del frontend y se implemento una parte del backend. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados a al web application y una parte del backend.  
 
 ### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+<h3>Durante el Sprint 3, llevamos a cabo el despliegue de nuestro Fonrtend y Backend en GitHub Pages. A continuación, detallamos los pasos realizados:</h3>
+<ol>
+  <li><strong>Creación del Repositorio en GitHub:</strong> Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de Frantend y Backend.</li>
+  <li><strong>Configuración de la Rama main:</strong> Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.</li>
+  <li><strong>Preparación del Contenido:</strong> Desarrollamos y diseñamos nuestra Frontend y Backend, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.</li>
+  <li><strong>Generación del Enlace de GitHub Pages:</strong> Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.</li>
+  <li><strong>Despliegue Automático:</strong> GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.</li>
+</ol>
 ### **5.2.3.8. Team Collaboration Insights during Sprint**
 
 ## **5.2.4. Sprint 4**
