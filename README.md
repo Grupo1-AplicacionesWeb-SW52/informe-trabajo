@@ -2903,6 +2903,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 - **Descripción**: La plataforma carece de una opción para realizar llamadas directamente desde el chat, lo cual podría mejorar la comunicación entre niñeras/profesores y los padres, especialmente en situaciones que requieren aclaraciones rápidas o respuestas inmediatas.
 - **Recomendación**: Agregar la función de llamadas a través del chat para facilitar una comunicación más efectiva y en tiempo real, mejorando la seguridad y tranquilidad de los padres.
 
+## **5.4. Video About-the-Product**
+
+![about-the-product](./Images/about-the-product.jpg)
+
 [LINK DEL VIDEO ABOUT THE PRODUCT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/ES-0Ui5sK79Cmjdg_J46UscB9mkcQ4nka0_H2BQZ5sQcgA?e=PRBqcb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # **Conclusiones**
@@ -2923,8 +2927,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 # **Video About-the-Team**
 
-# **Anexos**
-
 ![imagen-about-the-team](./Images/about-the-team.jpg)
 
 [LINK DEL VIDEO ABOUT THE TEAM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EdSl3BAOORZMmNBvg1g0SwIB8DMLwCrKMcdQASRRydLm1A?e=fh5NDl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -2936,3 +2938,5 @@ Del Rosario Rivero Pérez, M., & De Educación, P. M. (2013). _El valor educativ
 Marin, H. M. (2022, 23 junio). “Uno de los grandes desafíos es reducir la brecha entre los niños que atendemos y los que aún nos necesitan”. _El Comercio Perú_. [https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/](https://elcomercio.pe/lima/sucesos/aldeas-infantiles-uno-de-los-grandes-desafios-es-reducir-la-brecha-entre-los-ninos-que-atendemos-y-los-que-aun-nos-necesitan-dereje-wordofa-presidente-internacional-de-aldeas-infantiles-sos-peru-noticia/)
 
 Condiciones de vida en el Perú: impacto económico de los servicios de cuidado infantil. (2021). En Instituto Nacional de Estadística E Informática (INEI). Recuperado 22 de agosto de 2024, de https://www.inei.gob.pe
+
+# **Anexos**
