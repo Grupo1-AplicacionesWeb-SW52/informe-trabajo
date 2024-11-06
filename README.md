@@ -2705,7 +2705,7 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 - **Interés de servicio:** Carlos Fernando es un estudiante de la carrera Ingeneria Civil que haveces hace servicios de clases particulares para un ingreso adicional, pero se le dificulta encontrar clientes. Por ello, le interesa la aplicacion para ofreser sus servicos.
 - **Conclución:** El comenta que el funcionamiento de navegacion de la aplicación es facil y simple. Las funcionalidades básicas, como la creación de reservas, visualización de precios y administración de horarios, están bien desarrolladas y son intuitivas. Resaltó la importancia de agregar un sistema de calificación para los cuidadores para asi tenr los opiniones de la gente, para uno mejorar su metodo de ofrecer sus servicios.
 - **Evidencia:** ![validation-caregiver](./Images/Entrevista-validadicon-cuidador.jpg)
- 
+
 **D) Angela Fabiana, Ushiñahua Becerra**
 
 - **Ocupación:** Cuidadora a tiempo parcial
@@ -2713,6 +2713,8 @@ Durante este sprint, se ha completado el desarrollo los detalles del desarrrollo
 - **Interés de servicio:** Angela es una cuidadora de tiempo parcial que se siente atraída por la página web porque le facilitaría encontrar clientes de manera más eficiente. Además, valora que la plataforma le permite organizar su horario de trabajo de forma más flexible, lo cual es fundamental para ella, ya que puede tener otros compromisos.
 - **Conclución:** Angela, como cuidadora de tiempo parcial, necesita plataformas web que le permitan organizar su horario de manera eficiente y acceder a más clientes. Esto no solo facilita su trabajo, sino que también mejora la calidad del servicio que ofrece, permitiéndole brindar una atención más personalizada y confiable.
 - **Evidencia:** ![validation-caregiver](./Images/Angela-entrevista.png)
+
+[LINK DE LAS ENTREVISTAS COMPLETAS](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EXwYFbXEexdKspqO8mHUo70BpXCax4U_OO1RNwy9koQzPA?e=mvlkcb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### **5.3.3. Evaluaciones según heurísticas**
 
@@ -2749,13 +2751,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ### Tabla de resumen
 
-| **Numero** | **Problema**                                                                       | **Escala de severidad** | **Heurística/Principio violada(o)** |
-| ---------- | ---------------------------------------------------------------------------------- | ----------------------- | ----------------------------------- |
-| 1          | No se incluyen detalles del estado del vehículo en la publicación.                 | 2                       | Visibilidad del estado del sistema  |
-| 2          | No hay alertas automáticos para notificar la reserva del vehículo.                 | 3                       | Libertad y control del usuario      |
-| 3          | Falta de opción de comunicación directa con usuarios dentro de la plataforma.      | 2                       | Flexibilidad y eficiencia           |
-| 4          | No hay una política clara sobre la cobertura de seguros en caso de daños menores.  | 4                       | Seguridad y prevención de errores   |
-| 5          | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 3                       | Arquitectura de información         |
+| **Numero** | **Problema**                                                                       | **Escala de severidad** | **Heurística/Principio violada(o)**                    |
+| ---------- | ---------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------ |
+| 1          | No hay un control que permita regresar a la tienda durante el trámite de compra    | 3                       | Usability: Libertad y control del usuario              |
+| 2          | No hay alertas automáticos para notificar la reserva del vehículo.                 | 1                       | Usability: Consistencia y estándares                   |
+| 3          | Falta de opción de comunicación directa con usuarios dentro de la plataforma.      | 3                       | Inclusive Design: Proporciona experiencias comparables |
+| 4          | No hay una política clara sobre la cobertura de seguros en caso de daños menores.  | 3                       | Information Architecture: Is it usable?                |
+| 5          | No hay visualización ni reporte automático de ganancias y alquileres de vehículos. | 4                       | Information Architecture: Is it findable?              |
 
 ### Descripción de problemas
 
