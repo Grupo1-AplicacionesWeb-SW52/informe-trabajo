@@ -266,9 +266,8 @@ Entregrable TB2 : (06-11-24)
     El equipo demostró una comunicación efectiva al adaptar sus mensajes a diferentes audiencias, presentando información técnica y estratégica de manera clara y comprensible. Esta habilidad facilitó un entendimiento común y alineó los esfuerzos del proyecto, contribuyendo al éxito y a una colaboración eficiente entre todos los miembros y partes interesadas.<br>
     <strong>TP</strong><br>
     Durante el sprint 2, como equipo nos enfocamos en mejorar el informe y desarrollar las primeras versiones de varios bounded contexts, incluyendo los de login y sign in para cuidadores y padres de familia. Definimos objetivos de mejora y establecimos sesiones de seguimiento regulares para revisar avances y superar cualquier inconveniente. Este enfoque permitió una colaboración cercana y un liderazgo compartido, en el que cada miembro aportó su experiencia y contribuyó al éxito colectivo del proyecto.<br>
-    </td>
     <strong>TB2</strong><br>
-    En el sprint 3, el equipo avanzó en la optimización de los bounded contexts ya desarrollados y en la implementación de mejoras en la aplicación web. Además, iniciamos el desarrollo del backend para algunos bounded contexts, fortaleciendo la estructura técnica del proyecto. Continuamos con nuestras sesiones de seguimiento para asegurar el cumplimiento de los objetivos y promover un entorno de liderazgo colaborativo, lo que nos permitió coordinar el trabajo y consolidar el progreso de manera conjunta.<br>
+     En el sprint 3, el equipo avanzó en la optimización de los bounded contexts ya desarrollados y en la implementación de mejoras en la aplicación web. Además, iniciamos el desarrollo del backend para algunos bounded contexts, fortaleciendo la estructura técnica del proyecto. Continuamos con nuestras sesiones de seguimiento para asegurar el cumplimiento de los objetivos y promover un entorno de liderazgo colaborativo, lo que nos permitió coordinar el trabajo y consolidar el progreso de manera conjunta.<br>
     </td>
   <tr>
   <tr>
@@ -2849,6 +2848,10 @@ Back-end:
 
 ## **5.4. Video About-the-Product**
 
+![about-the-product](./Images/about-the-product.jpg)
+
+[LINK DEL VIDEO ABOUT THE PRODUCT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/ES-0Ui5sK79Cmjdg_J46UscB9mkcQ4nka0_H2BQZ5sQcgA?e=PRBqcb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 # **Conclusiones**
 
 # **Conclusiones y recomendaciones**
@@ -2866,6 +2869,10 @@ Back-end:
     - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
 
 # **Video About-the-Team**
+
+![imagen-about-the-team](./Images/about-the-team.jpg)
+
+[LINK DEL VIDEO ABOUT THE TEAM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EdSl3BAOORZMmNBvg1g0SwIB8DMLwCrKMcdQASRRydLm1A?e=fh5NDl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # **Bibliografía**
 
