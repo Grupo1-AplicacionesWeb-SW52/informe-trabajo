@@ -83,6 +83,13 @@ Entregrable 1 o TB1 : (10-09-24)
 
 Entregrable TB2 : (06-11-24)
 
+<div align="center">
+<img src="./Images/insing-sp3-info.png" >
+</div>
+<div align="center">
+<img src="./Images/contribution-sprint3-info.png" >
+</div>
+
 # <font color="red">**Contenido**</font>
 
 ### Tabla de contenidos
