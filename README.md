@@ -2916,6 +2916,182 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 [LINK DEL VIDEO ABOUT THE PRODUCT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/ES-0Ui5sK79Cmjdg_J46UscB9mkcQ4nka0_H2BQZ5sQcgA?e=PRBqcb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+## **5.5 Sprint 4**
+
+### **5.5..1. Sprint Planning 4**
+<table><thead>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 4</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Sprint planning Background</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-11-19</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>6:20 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión Virtual por Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Barturen Guzman, Alejandro Nicolas </td>
+  </tr>
+  <tr>
+    <td>Attendees(to planning meeting)</td>
+    <td>Morales Sosa, Arnold Gabriel / Braithuaite Toledo, Gabriel Anthony / Araujo Ingunza, Renzo Jose / Lapa de la Cruz, Gabriel Omar</td>
+  </tr>
+  <tr>
+    <td>Sprint goal &amp; User stories</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sprint 4 goal</td>
+    <td>Terminar de desarrollar el backend del web application </td>
+  </tr>
+  <tr>
+    <td>Sprint velocity</td>
+    <td>1 semana</td>
+  </tr>
+  <tr>
+    <td>Sum of story points</td>
+    <td>50</td>
+  </tr>
+</tbody>
+</table>
+
+### **5.5.2. Sprint Backlog 4**
+
+<table>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 4</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US-63</td>
+        <td>Funcionamiento del chat online</td>
+        <td>W-07</td>
+        <td>Ajustes del backend de cha</td>
+        <td>Se termino de ajustar el  backend de la seccion de chat online</td>
+        <td>6</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-64</td>
+        <td>Agregacion de servicios</td>
+        <td>W-08</td>
+        <td>Ajstes de la agregacion de servicios</td>
+        <td>Se termino de ajustar el backend de agregacion de servicios</td>
+        <td>3</td>
+        <td>Arnold</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-65</td>
+        <td>logica de reservaciones</td>
+        <td>W-09</td>
+        <td>implementacion del backend para crear reservaciones</td>
+        <td>Se termino de ajustar el backend de la seccion de "reservaciones"</td>
+        <td>3</td>
+        <td>Anthony</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-66</td>
+        <td>logica de registro de cuenta</td>
+        <td>W-10</td>
+        <td>implementacion del backend de creacion de usuario</td>
+        <td>Se termino de ajustar el backend de la seccion de "log in" y "register" </td>
+        <td>2</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US-67</td>
+        <td>logica de pagos</td>
+        <td>W-11</td>
+        <td>Implementacion del backend del apartado "pagos"</td>
+        <td>Se termino de ajustar el backend de la seccion de "pagos" </td>
+        <td>2</td>
+        <td>Omar</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+### **5.5.3. Development Evidence for Sprint Review.**
+
+### **5.5.4. Testing Suite Evidence for Sprint Review**
+
+En el alcance del sprint 4 se ha terminado el desarrollo del backend  
+
+### **5.5.5. Execution Evidence for Sprint Review.**
+
+Front End:
+
+Tutor:
+
+![login](./Images/web-logind.png)
+
+![Tutor-search](./Images/webaplication-tutor.png)
+
+![Tutor-Payment](./Images/payment-tutor-sprt3.png)
+
+![Tutor-reservation](./Images/reservation-web-sprint3.png)
+
+![tutor-chat](./Images/chat-tutor1-sprint3.jpg)
+
+![tutor-char2](./Images/chat-tutor2-sprint3.jpg)
+
+Caregiver:
+
+![Caregiver-profile](./Images/caregiver-profile-sp3.png)
+
+![Caregiver-payment](./Images/caregiver-payment-sp3.png)
+
+![Caregiver-reservation](./Images/caregiver-reservation-sp3.png)
+
+
+### **5.5.6. Services Documentation Evidence for Sprint Review.**
+
+Durante este sprint, se ha completado el desarrollo y la documentación del Web Application incluyendo su backend. Esta sección resume los logros alcanzados en relación con la documentación de servicios web asociados al Web Application 
+
+### **5.5.7. Software Deployment Evidence for Sprint Review.**
+
+
+Durante el Sprint 4, llevamos a cabo el despliegue de nuestro Web Application   . A continuación, detallamos los pasos realizados:
+Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto del Web Application .
+Configuración de la Rama main: Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+Preparación del Contenido: Desarrollamos y diseñamos nuestra landing page, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+Generación del Enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.
+Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.
+
+
+### **5.5.8. Team Collaboration Insights during Sprint.**
+
+
 # **Conclusiones**
 
 # **Conclusiones y recomendaciones**
