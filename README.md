@@ -3235,6 +3235,15 @@ Back-end:
 
 ### **5.2.4.8. Team Collaboration Insights during Sprint**
 
+![image](https://github.com/user-attachments/assets/e1dc0b61-6019-4cf2-b763-005622bfdf41)
+
+![image](https://github.com/user-attachments/assets/621e0490-7669-49a5-a3ff-899a4ad142c4)
+
+![image](https://github.com/user-attachments/assets/cac87882-5936-487c-a1f9-9fcc8db75e79)
+
+![image](https://github.com/user-attachments/assets/1324357d-0cc1-4302-ba0b-f1ffc05e9e96)
+
+
 ## **5.3. Validation Interviews**
 
 ### **5.3.1. Diseño de Entrevistas**
