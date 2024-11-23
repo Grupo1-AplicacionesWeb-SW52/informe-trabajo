@@ -3500,6 +3500,36 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
         <td>Renzo</td>
         <td>Done</td>
     </tr>
+   <tr align="center">
+        <td>US-68</td>
+        <td>logica de método de pago para tutores</td>
+        <td>W-10</td>
+        <td>implementacion del backend para la creación del método de pago de los tutores</td>
+        <td>Se termino de ajustar el backend para registrar el método de pago de cada tutor registrado </td>
+        <td>5</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+     <tr align="center">
+        <td>US-69</td>
+        <td>logica de método de pago para tutores</td>
+        <td>W-10</td>
+        <td>implementacion del backend para la edición del método de pago de los tutores</td>
+        <td>Se termino de ajustar el backend para editar el método de pago de cada tutor registrado </td>
+        <td>5</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
+       <tr align="center">
+        <td>US-70</td>
+        <td>logica de método de pago para tutores</td>
+        <td>W-10</td>
+        <td>implementacion del backend para buscar por id de cada tutor</td>
+        <td>Se termino de ajustar el backend para buscar por id el método de pago de cada tutor registrado </td>
+        <td>5</td>
+        <td>Renzo</td>
+        <td>Done</td>
+    </tr>
     <tr align="center">
         <td>US-67</td>
         <td>logica de pagos</td>
