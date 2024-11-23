@@ -267,6 +267,8 @@ Entregrable TB2 : (06-11-24)
       Ayudé organización de las mejoras en el frontend para el bounded context de reservations, coordinando la integración de tarjetas para una visualización más clara de los datos.<br>
       <strong>Gabriel Braithuaite - TB2<strong> <br>
       Coordiné junto a mi equipo la implementación de las mejoras en el bounded context de reservations, organizando sesiones de trabajo colaborativo donde discutimos y priorizamos las funcionalidades clave para optimizar el flujo de reservas<br>
+      <strong>Gabriel Braithuaite - TF<strong> <br>
+      Gestioné y contribuí en el desarrollo de la sección de reservas en el proyecto, coordinando las tareas entre el frontend y el backend. Organizamos sesiones de trabajo en las que definimos y asignamos tareas específicas, estableciendo un cronograma claro para asegurar que cada parte del sistema estuviera alineada con los objetivos del equipo.<br>
     </td>
     <td>
     <strong>TB1</strong><br>
@@ -316,6 +318,8 @@ Entregrable TB2 : (06-11-24)
       Ayudé en la organización de mejoras en el frontend para el bounded context de Reservations, coordinando la integración de tarjetas para una visualización más clara de los datos. En conjunto con el equipo, definimos objetivos y asignamos tareas según las habilidades de cada miembro, asegurando una implementación efectiva de las mejoras en el frontend y cumpliendo con los tiempos establecidos.<br>
       <strong>Gabriel Braithuaite - TB2</strong><br>
       Coordiné junto a mi equipo la implementación de las mejoras en el bounded context de reservations, organizando sesiones de trabajo colaborativo donde discutimos y priorizamos las funcionalidades clave para optimizar el flujo de reservas.Contribuí a la creación entorno inclusivo en el equipo al fomentar la participación de cada miembro durante las revisiones de código y planificación de tareas del backend.<br>
+      <strong>Gabriel Braithuaite - TF</strong><br>
+      Colaboré estrechamente con el equipo de frontend para asegurar la implementación correcta de la interfaz de usuario para las reservas, garantizando que el diseño fuera intuitivo y funcional.Esto incluyó la planificación conjunta de las características de la tabla de reservas y la integración de las imágenes y datos relevantes de los cuidadores en las tarjetas de las reservas.<br>
     </th>
     <th>
       <strong>TB1:</strong><br>
