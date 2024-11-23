@@ -3572,18 +3572,30 @@ Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la
   - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
 
   - En conclución se ha delineado claramente quiénes son los usuarios principales y secundarios (padres y cuidadores), y los beneficios que cada grupo obtendría de la plataforma. La plataforma propuesta tiene el potencial de resolver problemas significativos al proporcionar acceso a perfiles verificados y oportunidades laborales para los cuidadores.
+ 
+  - A lo largo del proceso de desarrollo, la gestión eficiente de los tiempos permitió que cada fase se cumpliera dentro del plazo estipulado, asegurando avances constantes. Aunque el uso de una planificación ágil ayudó a adaptarnos a imprevistos, se identificó que la reserva de más tiempo para las pruebas de integración hubiese optimizado aún más la calidad final del proyecto.
+ 
+  - La implementación de ciclos de retroalimentación continua entre el backend y el frontend permitió realizar ajustes rápidos y eficaces. A través de reuniones de planificación y revisión de código, se fortaleció el ambiente colaborativo, lo que garantizó la alineación de todos los miembros del equipo con los objetivos del proyecto y contribuyó a la mejora continua.
+ 
+  - La buena comunicación y coordinación entre todos los miembros del equipo fue esencial para mantener un enfoque común y garantizar que las tareas se realizaran de manera eficiente. A través de reuniones periódicas y el establecimiento de metas claras, conseguimos mantener el ritmo de trabajo y abordar cualquier problema de forma conjunta, lo que favoreció un entorno inclusivo y motivado.
 
 - Recomendaciones:
 
   - Incorporar recursos educativos y herramientas de seguimiento del desarrollo infantil desde el inicio. Esto no solo atraerá a más usuarios, sino que también proporcionará un valor añadido significativo a la plataforma.
 
     - El uso de Lean UX para definir problemas, suposiciones, hipótesis y soluciones demuestra un enfoque metódico y adaptable. La inclusión de declaraciones de problemas y hipótesis es crucial para validar la propuesta de valor y ajustar el producto según las necesidades reales del mercado.
+   
+    - Para fortalecer la colaboración entre las áreas de desarrollo, es recomendable implementar un flujo de integración continua que permita verificar y ajustar el código de manera constante, facilitando la detección temprana de problemas y asegurando una mayor sincronización entre las partes del sistema.
+   
+    - Aunque la documentación del código se mantuvo al día, se sugiere mejorar la claridad de los comentarios y las explicaciones dentro del código para que sea más accesible a todos los miembros del equipo, especialmente a los nuevos integrantes. Esto facilitará el trabajo colaborativo y garantizará una transición más fluida en futuras fases del proyecto.
+   
+    - Recomendamos expandir el uso de herramientas de gestión de proyectos como Jira o Trello, junto con plataformas de comunicación instantánea como Slack, para mejorar la coordinación entre los miembros del equipo, especialmente en un entorno de trabajo remoto. Estas herramientas permitirán un seguimiento más claro de las tareas y un flujo de información más rápido y eficiente.
 
 # **Video About-the-Team**
 
 ![imagen-about-the-team](./Images/about-the-team.jpg)
 
-[LINK DEL VIDEO ABOUT THE TEAM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EdSl3BAOORZMmNBvg1g0SwIB8DMLwCrKMcdQASRRydLm1A?e=fh5NDl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+LINK DEL VIDEO ABOUT THE TEAM:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EdSl3BAOORZMmNBvg1g0SwIB8DMLwCrKMcdQASRRydLm1A?e=fh5NDl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # **Bibliografía**
 
