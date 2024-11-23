@@ -3595,7 +3595,7 @@ Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la
 
 ![imagen-about-the-team](./Images/about-the-team.jpg)
 
-LINK DEL VIDEO ABOUT THE TEAM:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e889_upc_edu_pe/EdSl3BAOORZMmNBvg1g0SwIB8DMLwCrKMcdQASRRydLm1A?e=fh5NDl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+LINK DEL VIDEO ABOUT THE TEAM: https://upcedupe-my.sharepoint.com/personal/u20201e889_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201e889%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%20si730%2Dsw52%2Dedunest%2Dgrupo1%2Dtb2%2Fupc%2Dpre%2D202402%2Dsi730%2Dsw52%2Dedunest%2Dabout%2Dthe%2Dteam%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E810f12b1%2Df00d%2D4ada%2D9d5d%2De516836412b7
 
 # **Bibliografía**
 
