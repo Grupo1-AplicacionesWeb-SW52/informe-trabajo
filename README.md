@@ -255,6 +255,8 @@ Entregrable TB2 : (06-11-24)
       Ayudé en la organización y desarrollo de la primera versión del frontend para el bounded context de Payment Method, enfocándome en una visualización inicial clara e intuitiva para los usuarios.<br>
       <strong>Arnold Morales - TB2</strong><br>
       Coordiné mejoras en la interfaz de "service-detail" para una visualización clara de disponibilidad y localización. En equipo, monitoreamos los avances en cada bounded context y realicé mi video de "about the project" para fortalecer la visión conjunta.<br>
+       <strong>Arnold Morales - TF<strong> <br>
+      Desarrollé la gestión de los detalles del servicio de los cuidadores, para una correcta visualización al alcance del padre y elegir correctamente a uno que cumpla sus estándares. Nos organizamos y terminamos a tiempo todos los puntos de nuestro trabajo. Resolvimos algunos puntos que habíamos decaído en entregas anteriores para la mejora contínua.<br>
       <strong>Gabriel Lapa - TB1</strong><br>
       Conceptualizó las características y soluciones del perfil de la startup, realizó entrevistas al segmento padre y cuidador. Además, trabajó en los Antecedentes y Problemática, así como en la elaboración del Capítulo 3 haciendo el To-Be Scenario Mapping y los User Stories. También desarrolló la sección del footer de la landing page.<br>
       <strong>Gabriel Lapa - TP</strong><br>
@@ -306,6 +308,8 @@ Entregrable TB2 : (06-11-24)
       Realicé mejoras en el Capítulo 4, rediseñando la estructura de la base de datos y enfocándome en el diseño de bounded contexts para segmentar funcionalidades. Implementé la primera versión del frontend en "service-detail," permitiendo a cuidadores/tutores gestionar su perfil y horarios. La interfaz fue diseñada para brindar una experiencia fluida e intuitiva, contribuyendo al cumplimiento de nuestros objetivos de mejora continua y experiencia de usuario.<br>
       <strong>Arnold Morales - TB2  </strong><br>
       Coordiné mejoras en la interfaz de "service-detail" para una visualización clara de disponibilidad y localización de servicios. En equipo, monitoreamos los avances en cada bounded context y realicé mi video de "about the project" para fortalecer la visión del proyecto y cumplir objetivos conjuntos.<br>
+       <strong>Arnold Morales - TF<strong> <br>
+      Trabajé activamente con el equipo de frontend para asegurar la implementación correcta de la interfaz de usuario para los detalles del servicio, garantizando que el diseño fuera intuitivo y funcional. Esto incluyó la planificación conjunta de las características de la biografía, horarios de disponibilidad, costo y lugares donde pueda trabajar.<br>
       <strong>Gabriel Lapa - TB1</strong><br>
       Mantuvo una colaboración continua con sus compañeros, lo que facilitó la creación del PPT de presentación y garantizó que el contenido refleja correctamente el avance y los resultados del proyecto. También gestionó de manera eficiente la planificación de tareas.<br>
       <strong>Gabriel Lapa - TP</strong><br>
