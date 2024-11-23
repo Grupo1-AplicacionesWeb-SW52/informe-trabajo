@@ -2786,6 +2786,444 @@ Back-end:
 ### **5.2.4.2. Sprint Backlog 4**
 
 ### **5.2.4.3. Development Evidence for Sprint Review**
+  <table table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>7a7a0300ea2ba6693630b343e63b8ffc770e0d55</td>
+      <td>chore: UserPaymentMethod.cs created</td>
+      <td>--</td>
+      <td>Nov 21, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>8511ae05644ce29a908c0d2c79bb254ce711fa72</td>
+      <td>feat(paymentMethod): CreateUserPaymentCommand.cs is created.</td>
+      <td>--</td>
+      <td>Nov 21, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>40c6a771859b7e12af928f369ed6412f719d060d</td>
+      <td>feat(PaymentMethods): update command and queries are created</td>
+      <td>--</td>
+      <td>Nov 21, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>e8812fa435bce0508435f2869a6e25ac853efa83</td>
+      <td>feat(PaymentMethod): repository created.</td>
+      <td>--</td>
+      <td>Nov 21, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>8ab8a300af7295eb162c261f75c7ef3ff8347cff</td>
+      <td>feat(PaymentMethod): services complete</td>
+      <td>--</td>
+      <td>Nov 21, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>848baa914b4cbdc425736f07dc10aa7f39c2d2b7</td>
+      <td>feat(PaymentMethod): PaymentMethodRepository.cs created.</td>
+      <td>--</td>
+      <td>Nov 21, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>d4b1267159e496fe83f38fd0ba206db4ef5051d0</td>
+      <td>feat(PaymentMethod): PaymentMethodContextFacade.cs and IPaymentMethod</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>eb6a013bed4b74ea1246f1242e1266ba6cd87e57</td>
+      <td>feat(paymentMethod): PaymentMethodCommandService.cs complete</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>47c0cd369049899990cf9aa7175268c0aca80aff</td>
+      <td>feat(paymentMethod): PaymentMethodContextFacade.cs and PaymentMethodQ</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>083c14aa767246551e3d12236d0f31940d72a70a</td>
+      <td>feat(PaymentMethod): paymentMethod resource created.</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>e4758476986ebd1db51d2c417c0d977f3c01f750</td>
+      <td>feat(PaymentMethod): transform complete.</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>770fe5497e0bee9d6f32715c51e982d38b7136fc</td>
+      <td>feat(PaymentController): controller is complete</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>770fe5497e0bee9d6f32715c51e982d38b7136fc</td>
+      <td>feat(Program): paymentmethod implemented.</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>47951ff279f26d48ed3c35cc92a14bf4eede9b38</td>
+      <td>feat: update</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>cb877f4cd2617caf78961414e75b8d76bbfe72ed</td>
+      <td>feat(tutorPaymentMethod): update all packages in the endpoint.</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>RnArauj0/CareNest-platform</td>
+      <td>Renzo</td>
+      <td>602554df609f43fb32db814bc1004fd5fa244ab8</td>
+      <td>feat(caregiverPaymentMethod): all packages update</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>09618763ab71ab239c680a73ce9903bc3f474fd9</td>
+      <td>Create ServiceDetailCommandService.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>435e015ba7d7fd4c794695de15d29c82b831ae9f</td>
+      <td>Create ServiceDetailQueryService.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>a14ce1910ddf674836552b247734fffe8753285e</td>
+      <td>Create ServiceDetail.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>a7e7b18d0fe8fc12fc81f2a157683320e8d25f45</td>
+      <td>Create CreateServiceDetailCommands.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>c790dc894f64b68a860803b14eefd0df8e56a2d2</td>
+      <td>Create GetServiceDetailByIdQuery.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>e455ad8a1adb2067e1c95b9778288dc40c5605ad</td>
+      <td>Create Schedule.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>0c68b67bf334158b753ba204b098f056e84c3e6e</td>
+      <td>Create IServiceDetailRepository.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>a8b0526d55655d9b10b41de59ddfed05b6695472</td>
+      <td>Create ServiceDetailValidationService.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>e43de636373ab252aae6828b4781078190a34624</td>
+      <td>Create ServiceDetailRepository.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>38640f326912c817a584c8e9efa995cefedaff84</td>
+      <td>Create ServiceDetailController.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>db505f86df3ac420da69c36d2d2b9d225720d6cb</td>
+      <td>Update Program.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>23dadffa342896a658d901c8e27a04c7f1aedf4c</td>
+      <td>Update Program.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>9186c0a39babe74a15a819c735c40a4a087c549f</td>
+      <td>Update WebApplication3.csproj</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>09618763ab71ab239c680a73ce9903bc3f474fd9</td>
+      <td>Create ServiceDetailCommandService.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24/CareNest-platform</td>
+      <td>Arnold</td>
+      <td>435e015ba7d7fd4c794695de15d29c82b831ae9f</td>
+      <td>Create ServiceDetailQueryService.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>3a49de1218a59f4cb07fcd3b195e5412413eda08</td>
+      <td>feat: create Payment.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>d8fdb1146d6290a3a64a2de1a1c4039096a2d37c</td>
+      <td>feat: Create CreatePaymentCommand.cs for commands</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>0adbf03a29a7587c49ff12ef8b8d863a9cea2dd5</td>
+      <td>feat: Create GetPaymentByIdQuery.cs for queries</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>0adbf03a29a7587c49ff12ef8b8d863a9cea2dd5</td>
+      <td>feat: Create GetPaymentByIdQuery.cs for queries</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>b5c601d0d540983147911181d4dc2e4c5ff0739c</td>
+      <td>feat: Create GetPaymentByIdQuery.cs for queries</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>f107a46f1198d4a2d8adfe66fa1f3aaf9026ebd4</td>
+      <td>feat: Create IPaymentRepository.cs for repositories</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>b5c601d0d540983147911181d4dc2e4c5ff0739c</td>
+      <td>feat: Create IPayment query and command service for services</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>37e4eafcff0011bb380fbe7e01eeacffb0880e2b</td>
+      <td>feat: Create PaymentRepository.cs in Infrastructure for repositories</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>5d35069bb82d197ba432b0ca38e4128c4fdc929e</td>
+      <td>feat: Create Command and QueryServices for application/internal</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>4e9f0511dccdbe2a7935ca509110d893ed8fb765</td>
+      <td>feat: Create IPaymentContextFacade.cs in ACL for interfaces</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>02c35140316ef2d510550ce14fbf47eb5b097af6</td>
+      <td>feat: Create resource in REST for interfaces</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>0f096d51b98ea2f60c13578d13bc4aca3e40e161</td>
+      <td>feat: Create CreatePaymentFromResourceAssembler.cs in Transform for REST</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>02d286503e59f593e8de3c36bbe357118cec9579</td>
+      <td>feat: Create PaymentResourceFromEntityAssembler.cs in Transform for REST</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>ff8be9cd988fb0dce47d76347b2beb2468539482</td>
+      <td>feat: Create PaymentContextFacade.cs in ACL for application</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>43544955c53e5e21e8008f9bd9c2d9fd8902ec68</td>
+      <td>feat: Create PaymentController in REST for interfaces</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>510f69a1278c6e94c5bda7aebe477caacf085015</td>
+      <td>feat: updated Program.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>OmarLAPA /CareNest-platform</td>
+      <td>Omar</td>
+      <td>84895615fca14e46034fcd32d8bde9c16aa14fef</td>
+      <td>feat: updated AppDbContext.cs</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Bardr0 /CareNest-platform</td>
+      <td>Bardr0</td>
+      <td>64c924a0c9c8bc09424abfc43db98a1dba1faa47</td>
+      <td>refactor: change namespace name from WebApplication3 to CareNest</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Gaboo04 /CareNest-platform</td>
+      <td>Gaboo04</td>
+      <td>384fd38ce964e815647018579bba1b6f95b87f90</td>
+      <td>feat: full update code</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Gaboo04 /CareNest-platform</td>
+      <td>Gaboo04</td>
+      <td>1ead952aebd7cb53f3206ab73836833280dbbaf1</td>
+      <td>feat: full update code.</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Gaboo04 /CareNest-platform</td>
+      <td>Gaboo04</td>
+      <td>5c09447c15cd71bf6c9ed92f7175eecc8cd7a060</td>
+      <td>feat: add namespace to ServicesController.cs (Services/Interfaces/RES</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+    <tr>
+      <td>Gaboo04 /CareNest-platform</td>
+      <td>Gaboo04</td>
+      <td>6721031a993612d9ca167d3e8de260c39dc68881</td>
+      <td>Merge pull request #3 from Grupo1-AplicacionesWeb-SW52/feat/reservations</td>
+      <td>--</td>
+      <td>Nov 22, 2024</td>
+    </tr>
+  </tbody>
+</table>
 
 ### **5.2.4.4. Testing Suite Evidence for Sprint Review**
 
